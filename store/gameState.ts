@@ -1,4 +1,4 @@
-import type { GameWord, Player } from '@/types'
+import type { GameWord, Player, PlayerBase, Round } from '@/types'
 
 type BroadcastEvents = 'gameStateSync' | 'requestGameState'
 
@@ -26,29 +26,19 @@ export const useGameState = () => {
 		})
 	}
 
-	// --- State ---
-	/** @internal */
+	// --- Internal State ---
 	const initialized = useState<boolean>('gameState:initialized', () => false)
 
+	// --- Game State ---
 	const status = useState<'playing' | 'idle'>('gameState:status', () => 'idle')
-
-	type Round = {
-		team: 'blue' | 'red'
-		role: 'spymaster' | 'operative'
-		clue?: string
-		number?: number
-	}
 	const round = useState<Round>('gameState:round', () => ({
 		team: 'red',
 		role: 'spymaster',
 	}))
-
+	const players = useState<Player[]>('gameState:players', () => [])
 	const gameWords = useState<GameWord[]>('gameState:gameWords', () => [])
 
-	const players = useState<Player[]>('gameState:players', () => [])
-
 	// --- Realtime ---
-
 	// Join a room/topic.
 	const channel = useState('gameState:channel', () => {
 		const channel = supabase.channel(`room:${roomSlug.value}`, {
@@ -180,10 +170,8 @@ export const useGameState = () => {
 			}
 
 			channel.track({
-				username: unref(currPlayerUsername),
+				username: currPlayerUsername.value,
 			})
-
-			// Request game state from other
 		})
 
 		return channel
@@ -198,6 +186,15 @@ export const useGameState = () => {
 	const changePlayerTeamOrRole = ({ team, role }: Omit<Player, 'username'>) => {
 		const player = getPlayerByUsername(currPlayerUsername.value)
 		if (player) {
+			// Check if there is a player in the same team that is already a spymaster
+			const teamSpymasters = players.value.filter(
+				p => p.team === team && p.role === 'spymaster'
+			)
+			if (role === 'spymaster' && teamSpymasters.length > 0) {
+				alert('There is already a spymaster in this team')
+				return
+			}
+
 			// Update local state
 			if (team) {
 				player.team = team

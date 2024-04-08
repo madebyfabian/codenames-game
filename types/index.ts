@@ -13,3 +13,10 @@ export type GameWord = {
 	type: 'red' | 'blue' | 'neutral' | 'assassin'
 	status: 'hidden' | 'revealed'
 }
+
+export type Round = {
+	team: 'blue' | 'red'
+	role: 'spymaster' | 'operative'
+	clue?: string
+	number?: number
+}
