@@ -222,7 +222,7 @@ export const useGameState = () => {
 		return channel
 	})
 
-	watch([status], newVals => {
+	watch(status, () => {
 		if (!gameStateWatcherEnabled.value) {
 			return
 		}
@@ -237,23 +237,27 @@ export const useGameState = () => {
 		})
 	})
 
-	watch([round], () => {
-		if (!gameStateWatcherEnabled.value) {
-			return
-		}
-		channel.value.send({
-			type: 'broadcast',
-			event: 'gameStateSync' satisfies BroadcastEvents,
-			payload: {
-				newGame: {
-					round: round.value,
-				},
-			} satisfies BroadcastPayloads['gameStateSync'],
-		})
-	})
+	watch(
+		round,
+		() => {
+			if (!gameStateWatcherEnabled.value) {
+				return
+			}
+			channel.value.send({
+				type: 'broadcast',
+				event: 'gameStateSync' satisfies BroadcastEvents,
+				payload: {
+					newGame: {
+						round: round.value,
+					},
+				} satisfies BroadcastPayloads['gameStateSync'],
+			})
+		},
+		{ deep: true }
+	)
 
 	watch(
-		[players],
+		players,
 		newVals => {
 			if (!gameStateWatcherEnabled.value) {
 				return
@@ -272,7 +276,7 @@ export const useGameState = () => {
 	)
 
 	watch(
-		[gameWords],
+		gameWords,
 		() => {
 			if (!gameStateWatcherEnabled.value) {
 				return
@@ -292,12 +296,8 @@ export const useGameState = () => {
 
 	// --- Methods ---
 
-	const getPlayerByUsername = (username: string | undefined) => {
-		return players.value.find(player => player.username === username)
-	}
-
 	const changePlayerTeamOrRole = ({ team, role }: Omit<Player, 'username'>) => {
-		const player = getPlayerByUsername(currPlayerUsername.value)
+		const player = currPlayer.value
 		if (player) {
 			// Check if there is a player in the same team that is already a spymaster
 			const teamSpymasters = players.value.filter(
@@ -346,7 +346,7 @@ export const useGameState = () => {
 			return
 		}
 
-		const player = getPlayerByUsername(currPlayerUsername.value)
+		const player = currPlayer.value
 		if (!player) {
 			return
 		}
@@ -384,6 +384,39 @@ export const useGameState = () => {
 		}
 	}
 
+	const markCard = (wordPosition: { x: number; y: number }) => {
+		const word = gameWords.value.find(
+			w => w.position.x === wordPosition.x && w.position.y === wordPosition.y
+		)
+		if (!word) {
+			console.error('Word not found', wordPosition)
+			return
+		}
+
+		const player = currPlayer.value
+		if (!player) {
+			return
+		}
+
+		if (word.status === 'revealed') {
+			return
+		}
+
+		/**
+		 * If the player is already in the list, remove them.
+		 * If the player is not in the list, add them.
+		 * If there is no list for this word, create it and add the player.
+		 */
+		const foundIndex = word.markedByUsernames.findIndex(
+			username => username === player.username
+		)
+		if (foundIndex === -1) {
+			word.markedByUsernames.push(player.username)
+		} else {
+			word.markedByUsernames.splice(foundIndex, 1)
+		}
+	}
+
 	const endGame = () => {
 		status.value = gameInitialState.status
 		round.value = gameInitialState.round
@@ -391,11 +424,16 @@ export const useGameState = () => {
 	}
 
 	const endRound = () => {
-		const newRound = {
+		// Remove all markings from all words
+		gameWords.value.forEach(w => {
+			w.markedByUsernames = []
+		})
+
+		// Init the new round
+		round.value = {
 			team: round.value.team === 'blue' ? 'red' : 'blue',
 			role: 'spymaster',
-		} satisfies Round
-		round.value = newRound
+		}
 	}
 
 	/** @internal */
@@ -482,6 +520,7 @@ export const useGameState = () => {
 					position: position,
 					type: getType(),
 					status: 'hidden',
+					markedByUsernames: [],
 				}
 			}) ?? []
 
@@ -521,7 +560,9 @@ export const useGameState = () => {
 	}))
 
 	const currPlayer = computed(() => {
-		return getPlayerByUsername(currPlayerUsername.value)
+		return players.value.find(
+			player => player.username === currPlayerUsername.value
+		)
 	})
 
 	return {
@@ -541,6 +582,7 @@ export const useGameState = () => {
 		changePlayerTeamOrRole,
 		updateRound,
 		guessCard,
+		markCard,
 		endRound,
 		endGame,
 	}

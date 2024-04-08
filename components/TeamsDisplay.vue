@@ -1,5 +1,5 @@
 <template>
-	<div class="flex max-w-4xl mx-auto gap-6">
+	<div class="flex max-w-3xl mx-auto gap-6">
 		<section
 			v-for="(team, type) in gameState.teams.value"
 			:key="type"

@@ -12,6 +12,7 @@ export type GameWord = {
 	position: { x: number; y: number }
 	type: 'red' | 'blue' | 'neutral' | 'assassin'
 	status: 'hidden' | 'revealed'
+	markedByUsernames: string[]
 }
 
 export type Round = {
