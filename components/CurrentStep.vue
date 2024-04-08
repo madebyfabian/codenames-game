@@ -18,13 +18,14 @@
 		const currUserIsInTeam = gameState.currPlayer.value?.team === currTeam
 		const currUserIsSpymaster = gameState.currPlayer.value?.role === 'spymaster'
 
+		if (
+			!gameState.currPlayer.value?.role ||
+			!gameState.currPlayer.value?.team
+		) {
+			return 'Join a team'
+		}
+
 		if (gameState.status.value !== 'playing') {
-			if (
-				!gameState.currPlayer.value?.role ||
-				!gameState.currPlayer.value?.team
-			) {
-				return 'Join a team'
-			}
 			return 'Start the game'
 		}
 

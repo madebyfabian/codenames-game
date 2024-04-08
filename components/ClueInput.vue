@@ -26,6 +26,9 @@
 			clue: word.value,
 			number: number.value,
 		})
+
+		word.value = ''
+		number.value = 0
 	}
 </script>
 

@@ -1,6 +1,6 @@
 <template>
 	<div
-		class="group px-2 h-[10vh] rounded-lg font-bold w-full text-center relative"
+		class="group px-2 h-[10vh] rounded-lg font-bold flex-1 text-center relative shrink-0"
 		:class="
 			currPlayerIsSpymaster || gameCard.status === 'revealed'
 				? {
@@ -13,7 +13,7 @@
 		"
 	>
 		<p
-			class="py-[12.5%] text-xl uppercase tracking-tight"
+			class="py-[12.5%] text-xl uppercase tracking-tight break-words"
 			:class="{
 				'opacity-0': gameCard.status === 'revealed',
 			}"
@@ -24,6 +24,7 @@
 			v-if="
 				currPlayerIsOnRound &&
 				!currPlayerIsSpymaster &&
+				gameState.round.value.role === 'operative' &&
 				gameCard.status === 'hidden'
 			"
 			class="group-hover:visible invisible w-[calc(100%-1rem)] absolute inset-2 top-auto flex items-center justify-between"
@@ -53,6 +54,6 @@
 	})
 
 	const handleClickChoose = () => {
-		gameState.guessCard(props.gameCard)
+		gameState.guessCard(props.gameCard.position)
 	}
 </script>

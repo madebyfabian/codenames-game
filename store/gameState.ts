@@ -1,12 +1,19 @@
-import type { GameWord, Player, PlayerBase, Round } from '@/types'
+import type { GameWord, Player, Round } from '@/types'
 
-type BroadcastEvents = 'gameStateSync' | 'requestGameState'
+type Game = {
+	status: 'playing' | 'idle'
+	round: Round
+	players: Player[]
+	gameWords: GameWord[]
+}
+
+type BroadcastEvents = 'gameStateSync' | 'requestInitialGameState'
 
 type BroadcastPayloads = {
 	gameStateSync: {
-		playersUpdated?: Player[]
+		newGame: Partial<Game>
 	}
-	requestGameState: {
+	requestInitialGameState: {
 		newPlayer: Player
 	}
 }
@@ -28,15 +35,27 @@ export const useGameState = () => {
 
 	// --- Internal State ---
 	const initialized = useState<boolean>('gameState:initialized', () => false)
+	const gameStateWatcherEnabled = useState<boolean>(
+		'gameState:gameStateWatcherEnabled',
+		() => false
+	)
+
+	const gameInitialState: Game = {
+		status: 'idle',
+		round: {
+			team: 'red',
+			role: 'spymaster',
+		},
+		players: [],
+		gameWords: [],
+	}
 
 	// --- Game State ---
-	const status = useState<'playing' | 'idle'>('gameState:status', () => 'idle')
-	const round = useState<Round>('gameState:round', () => ({
-		team: 'red',
-		role: 'spymaster',
-	}))
-	const players = useState<Player[]>('gameState:players', () => [])
-	const gameWords = useState<GameWord[]>('gameState:gameWords', () => [])
+	const _game = useState<Game>('gameState', () =>
+		JSON.parse(JSON.stringify(gameInitialState))
+	)
+
+	const { status, round, players, gameWords } = toRefs(_game.value)
 
 	// --- Realtime ---
 	// Join a room/topic.
@@ -53,25 +72,50 @@ export const useGameState = () => {
 		channel.on(
 			'broadcast',
 			{ event: 'gameStateSync' satisfies BroadcastEvents },
-			({ payload }: { payload: BroadcastPayloads['gameStateSync'] }) => {
-				// Update the players list
-				if (payload.playersUpdated) {
-					players.value = payload.playersUpdated
+			async ({ payload }: { payload: BroadcastPayloads['gameStateSync'] }) => {
+				// Make sure the watcher is disabled
+				await new Promise(resolve => setTimeout(resolve, 50))
+				gameStateWatcherEnabled.value = false
+
+				// Update the game state
+				if (payload.newGame.status !== undefined) {
+					status.value = payload.newGame.status
 				}
+				if (payload.newGame.round !== undefined) {
+					round.value = payload.newGame.round
+				}
+				if (payload.newGame.players !== undefined) {
+					players.value = payload.newGame.players
+				}
+				if (payload.newGame.gameWords !== undefined) {
+					gameWords.value = payload.newGame.gameWords
+				}
+
+				// Re-enable the watcher
+				await new Promise(resolve => setTimeout(resolve, 50))
+				gameStateWatcherEnabled.value = true
 
 				if (!initialized.value) {
 					initialized.value = true
 				}
+
+				if (!gameStateWatcherEnabled.value) {
+					gameStateWatcherEnabled.value = true
+				}
 			}
 		)
 
-		// Listen to requestGameState broadcast event
+		// Listen to requestInitialGameState broadcast event
 		channel.on(
 			'broadcast',
-			{ event: 'requestGameState' satisfies BroadcastEvents },
-			({ payload }: { payload: BroadcastPayloads['requestGameState'] }) => {
+			{ event: 'requestInitialGameState' satisfies BroadcastEvents },
+			({
+				payload,
+			}: {
+				payload: BroadcastPayloads['requestInitialGameState']
+			}) => {
 				// Sync the game state
-				// - Locally
+				// - Players Locally
 				const playersUpdated = players.value
 				const foundPlayer = playersUpdated.find(
 					p => p.username === payload.newPlayer.username
@@ -88,7 +132,7 @@ export const useGameState = () => {
 					type: 'broadcast',
 					event: 'gameStateSync' satisfies BroadcastEvents,
 					payload: {
-						playersUpdated,
+						newGame: _game.value,
 					} satisfies BroadcastPayloads['gameStateSync'],
 				})
 			}
@@ -121,10 +165,10 @@ export const useGameState = () => {
 				// Request game state from other (will get it back only from host)
 				channel.send({
 					type: 'broadcast',
-					event: 'requestGameState' satisfies BroadcastEvents,
+					event: 'requestInitialGameState' satisfies BroadcastEvents,
 					payload: {
 						newPlayer: newPlayer,
-					} satisfies BroadcastPayloads['requestGameState'],
+					} satisfies BroadcastPayloads['requestInitialGameState'],
 				})
 			}
 		})
@@ -133,7 +177,6 @@ export const useGameState = () => {
 			'presence',
 			{ event: 'leave' },
 			async ({ leftPresences }: { leftPresences: Player[] }) => {
-				console.log('leave', leftPresences)
 				await new Promise(resolve => setTimeout(resolve, 3000))
 
 				const currentPlayers = Object.keys(channel.presenceState())
@@ -178,6 +221,66 @@ export const useGameState = () => {
 		return channel
 	})
 
+	watch([status], newVals => {
+		if (!gameStateWatcherEnabled.value) {
+			return
+		}
+		channel.value.send({
+			type: 'broadcast',
+			event: 'gameStateSync' satisfies BroadcastEvents,
+			payload: {
+				newGame: {
+					status: status.value,
+				},
+			} satisfies BroadcastPayloads['gameStateSync'],
+		})
+	})
+
+	watch([round], () => {
+		if (!gameStateWatcherEnabled.value) {
+			return
+		}
+		channel.value.send({
+			type: 'broadcast',
+			event: 'gameStateSync' satisfies BroadcastEvents,
+			payload: {
+				newGame: {
+					round: round.value,
+				},
+			} satisfies BroadcastPayloads['gameStateSync'],
+		})
+	})
+
+	watch([players], newVals => {
+		if (!gameStateWatcherEnabled.value) {
+			return
+		}
+		channel.value.send({
+			type: 'broadcast',
+			event: 'gameStateSync' satisfies BroadcastEvents,
+			payload: {
+				newGame: {
+					players: players.value,
+				},
+			} satisfies BroadcastPayloads['gameStateSync'],
+		})
+	})
+
+	watch([gameWords], () => {
+		if (!gameStateWatcherEnabled.value) {
+			return
+		}
+		channel.value.send({
+			type: 'broadcast',
+			event: 'gameStateSync' satisfies BroadcastEvents,
+			payload: {
+				newGame: {
+					gameWords: gameWords.value,
+				},
+			} satisfies BroadcastPayloads['gameStateSync'],
+		})
+	})
+
 	// --- Methods ---
 
 	const getPlayerByUsername = (username: string | undefined) => {
@@ -208,7 +311,9 @@ export const useGameState = () => {
 				type: 'broadcast',
 				event: 'gameStateSync' satisfies BroadcastEvents,
 				payload: {
-					playersUpdated: players.value,
+					newGame: {
+						players: players.value,
+					},
 				} satisfies BroadcastPayloads['gameStateSync'],
 			})
 		}
@@ -223,10 +328,15 @@ export const useGameState = () => {
 		round.value = newRound
 	}
 
-	const guessCard = (word: GameWord) => {
-		if (status.value !== 'playing') {
+	const guessCard = (wordPosition: { x: number; y: number }) => {
+		const word = gameWords.value.find(
+			w => w.position.x === wordPosition.x && w.position.y === wordPosition.y
+		)
+		if (!word) {
+			console.error('Word not found', wordPosition)
 			return
 		}
+
 		const player = getPlayerByUsername(currPlayerUsername.value)
 		if (!player) {
 			return
@@ -240,7 +350,7 @@ export const useGameState = () => {
 			return
 		}
 		if (word.type === 'assassin') {
-			status.value = 'idle'
+			endGame()
 			alert('Game over')
 			return
 		}
@@ -249,13 +359,28 @@ export const useGameState = () => {
 
 		if (word.type !== round.value.team) {
 			endRound()
+			return
 		}
 
-		// Check if all cards are revealed
-		if (gameWords.value.every(w => w.status === 'revealed')) {
-			status.value = 'idle'
-			alert('Game over')
+		// Check if one of the teams has no cards left
+		if (teams.value.blue.cardsLeft === 0) {
+			endGame()
+			alert('Game over, blue wins!')
+			return
 		}
+		if (teams.value.red.cardsLeft === 0) {
+			endGame()
+			alert('Game over, red wins!')
+			return
+		}
+	}
+
+	/** @internal */
+	const endGame = () => {
+		status.value = gameInitialState.status
+		round.value = gameInitialState.round
+		players.value = gameInitialState.players
+		gameWords.value = gameInitialState.gameWords
 	}
 
 	const endRound = () => {
@@ -393,13 +518,15 @@ export const useGameState = () => {
 	})
 
 	return {
-		roomSlug: readonly(roomSlug),
-		currPlayer: readonly(currPlayer),
-		round: readonly(round),
+		// State
 		status: readonly(status),
-		teams: teams,
-		players,
-		gameWords,
+		round: readonly(round),
+		players: readonly(players),
+		gameWords: readonly(gameWords),
+
+		// Computeds
+		teams: readonly(teams),
+		currPlayer: readonly(currPlayer),
 
 		// Methods
 		startGame,

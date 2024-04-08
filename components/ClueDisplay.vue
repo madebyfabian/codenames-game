@@ -1,9 +1,6 @@
 <template>
-	<div>
-		<div
-			class="flex items-center justify-center gap-1"
-			v-if="gameState.round.value.clue"
-		>
+	<div v-if="gameState.round.value.clue">
+		<div class="flex items-center justify-center gap-1">
 			<p
 				class="text-xl px-3 py-1 bg-white border-2 border-gray-300 text-center rounded-full font-semibold"
 			>
@@ -16,7 +13,10 @@
 			</p>
 		</div>
 
-		<div class="flex justify-center mt-4">
+		<div
+			v-if="gameState.round.value.role === gameState.currPlayer.value?.role"
+			class="flex justify-center mt-4"
+		>
 			<button @click="handleEndGuessing" class="primary">End guessing</button>
 		</div>
 	</div>

@@ -59,7 +59,7 @@
 						})
 					"
 				>
-					{{ team.operativePlayers?.length ? 'Switch' : 'Join' }}
+					{{ gameState.currPlayer.value?.team ? 'Switch' : 'Join' }}
 				</button>
 			</div>
 
@@ -85,7 +85,7 @@
 						})
 					"
 				>
-					{{ team.operativePlayers?.length ? 'Switch' : 'Join' }}
+					{{ gameState.currPlayer.value?.team ? 'Switch' : 'Join' }}
 				</button>
 			</div>
 		</section>
