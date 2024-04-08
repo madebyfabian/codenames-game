@@ -10,7 +10,7 @@ export default defineNuxtConfig({
 		},
 	},
 
-	modules: ['@nuxtjs/supabase', '@nuxtjs/tailwindcss'],
+	modules: ['@nuxtjs/supabase', '@nuxtjs/tailwindcss', "@nuxt/fonts"],
 
 	supabase: {
 		url: process.env.NUXT_PUBLIC_SUPABASE_URL,

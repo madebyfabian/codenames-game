@@ -6,20 +6,25 @@
 				? {
 						'bg-red-300': gameCard.type === 'red',
 						'bg-blue-300': gameCard.type === 'blue',
-						'bg-orange-300': gameCard.type === 'neutral',
+						'bg-orange-200': gameCard.type === 'neutral',
 						'bg-gray-700 text-white': gameCard.type === 'assassin',
 				  }
-				: 'bg-orange-300'
+				: 'bg-orange-200'
 		"
 	>
 		<p
-			class="py-[12.5%] text-xl uppercase tracking-tight break-words"
+			class="word py-0.5 absolute inset-2.5 top-auto rounded text-[2vmin] uppercase tracking-tight text-gray-700 break-words bg-white"
 			:class="{
 				'opacity-0': gameCard.status === 'revealed',
 			}"
 		>
 			{{ gameCard.word }}
 		</p>
+		<!-- Border overlay-->
+		<div
+			class="absolute pointer-events-none select-none inset-1 border-2 border-black/10 rounded-md"
+		/>
+
 		<div
 			v-if="
 				currPlayerIsOnRound &&
@@ -27,7 +32,7 @@
 				gameState.round.value.role === 'operative' &&
 				gameCard.status === 'hidden'
 			"
-			class="group-hover:visible invisible w-[calc(100%-1rem)] absolute inset-2 top-auto flex items-center justify-between"
+			class="group-hover:visible invisible w-[calc(100%-1.5rem)] absolute inset-3 bottom-auto flex items-center justify-between"
 		>
 			<button>Markieren</button>
 			<button class="primary" @click="handleClickChoose">Auswählen</button>
@@ -57,3 +62,9 @@
 		gameState.guessCard(props.gameCard.position)
 	}
 </script>
+
+<style lang="postcss" scoped>
+	.word {
+		font-family: Oswald, sans-serif;
+	}
+</style>

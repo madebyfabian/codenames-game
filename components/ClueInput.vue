@@ -6,11 +6,11 @@
 			gameState.round.value.role === gameState.currPlayer.value.role &&
 			gameState.currPlayer.value.role === 'spymaster'
 		"
-		class="flex items-center justify-center gap-3"
+		class="flex items-center justify-center gap-2"
 	>
 		<input type="text" v-model="word" placeholder="Your clue" required />
-		<input type="number" v-model.number="number" />
-		<button class="py-2 primary border-2" type="submit">Give clue</button>
+		<input type="number" v-model.number="number" class="max-w-20" />
+		<button class="py-2 primary ml-2" type="submit">Give clue</button>
 	</form>
 </template>
 
@@ -34,6 +34,6 @@
 
 <style lang="postcss" scoped>
 	input {
-		@apply border-2 bg-gray-100 border-gray-300 px-4 py-2 rounded-lg;
+		@apply border bg-white border-gray-300 px-4 py-2 rounded-lg;
 	}
 </style>

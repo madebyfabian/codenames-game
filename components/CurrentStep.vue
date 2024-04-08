@@ -1,5 +1,5 @@
 <template>
-	<div class="flex justify-center -mt-4 mb-8">
+	<div class="flex justify-center">
 		<div
 			class="px-3 py-1 bg-white border-2 border-gray-300 text-lg text-center rounded-full font-semibold"
 			:class="!currentStep && 'opacity-0'"
@@ -22,7 +22,7 @@
 			!gameState.currPlayer.value?.role ||
 			!gameState.currPlayer.value?.team
 		) {
-			return 'Join a team'
+			return 'Please join a team'
 		}
 
 		if (gameState.status.value !== 'playing') {

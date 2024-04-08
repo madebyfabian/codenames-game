@@ -1,6 +1,6 @@
 <template>
 	<div
-		class="flex max-w-5xl mx-auto"
+		class="flex max-w-4xl mx-auto"
 		:class="[gameState.status.value === 'playing' ? 'gap-12' : 'gap-6']"
 	>
 		<section
@@ -19,14 +19,6 @@
 					type === 'red' && gameState.currPlayer.value?.team === type,
 			}"
 		>
-			<h2 class="capitalize">
-				Team {{ type }}
-				<span v-if="type === gameState.currPlayer.value?.team">
-					<br />
-					<span class="text-sm block">(Dein Team)</span>
-				</span>
-			</h2>
-
 			<p
 				v-if="gameState.status.value === 'playing'"
 				class="absolute right-4 top-4"
