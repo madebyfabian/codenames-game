@@ -72,13 +72,14 @@ export const useGameState = () => {
 			({ payload }: { payload: BroadcastPayloads['requestGameState'] }) => {
 				// Sync the game state
 				// - Locally
-				const playersUpdated = [...players.value]
-				if (
-					!playersUpdated.find(p => p.username === payload.newPlayer.username)
-				) {
+				const playersUpdated = players.value
+				const foundPlayer = playersUpdated.find(
+					p => p.username === payload.newPlayer.username
+				)
+				if (!foundPlayer) {
 					playersUpdated.push(payload.newPlayer)
 				} else {
-					console.warn('player already exists')
+					Object.assign(foundPlayer, payload.newPlayer)
 				}
 				players.value = playersUpdated
 
