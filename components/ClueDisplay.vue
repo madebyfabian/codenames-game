@@ -14,7 +14,10 @@
 		</div>
 
 		<div
-			v-if="gameState.round.value.role === gameState.currPlayer.value?.role"
+			v-if="
+				gameState.round.value.role === gameState.currPlayer.value?.role &&
+				gameState.round.value.team === gameState.currPlayer.value.team
+			"
 			class="flex justify-center mt-4"
 		>
 			<button @click="handleEndGuessing" class="primary">Raten beenden</button>
