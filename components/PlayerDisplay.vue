@@ -22,10 +22,10 @@
 		player: Player
 	}>()
 
-	const { currPlayerUsername } = useGameState()
+	const { currPlayer } = useGameState()
 
 	const isCurrPlayer = computed(() => {
-		return currPlayerUsername.value === props.player.username
+		return currPlayer.value?.username === props.player.username
 	})
 
 	const firstLetter = computed(() => {

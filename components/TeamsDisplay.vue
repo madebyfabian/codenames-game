@@ -4,7 +4,7 @@
 		:class="[gameState.status.value === 'playing' ? 'gap-12' : 'gap-6']"
 	>
 		<section
-			v-for="(team, type) in gameState.teamsComputed.value"
+			v-for="(team, type) in gameState.teams.value"
 			:key="type"
 			class="w-full flex gap-8 items-start p-4 rounded-xl ring-2 ring-offset-2 ring-transparent relative"
 			:class="{

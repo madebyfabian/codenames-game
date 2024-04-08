@@ -14,9 +14,9 @@ type BroadcastPayloads = {
 export const useGameState = () => {
 	const supabase = useSupabaseClient()
 	const route = useRoute()
-	const roomSlug = computed(() => route.params.roomSlug)
 
-	/** @temp */
+	// --- URL State ---
+	const roomSlug = computed(() => route.params.roomSlug)
 	const currPlayerUsername = computed(() => String(route.query.player))
 	if (!currPlayerUsername) {
 		throw createError({
@@ -27,6 +27,7 @@ export const useGameState = () => {
 	}
 
 	// --- State ---
+	/** @internal */
 	const initialized = useState<boolean>('gameState:initialized', () => false)
 
 	const status = useState<'playing' | 'idle'>('gameState:status', () => 'idle')
@@ -44,19 +45,12 @@ export const useGameState = () => {
 
 	const gameWords = useState<GameWord[]>('gameState:gameWords', () => [])
 
-	type Team = {}
-	const teams = useState<{ blue: Team; red: Team }>('gameState:teams', () => ({
-		blue: {},
-		red: {},
-	}))
-
 	const players = useState<Player[]>('gameState:players', () => [])
 
 	// --- Realtime ---
 
 	// Join a room/topic.
 	const channel = useState('gameState:channel', () => {
-		console.log('init channel')
 		const channel = supabase.channel(`room:${roomSlug.value}`, {
 			config: {
 				presence: {
@@ -371,7 +365,7 @@ export const useGameState = () => {
 
 	// --- Computeds ---
 
-	const teamsComputed = computed(() => ({
+	const teams = computed(() => ({
 		blue: {
 			spymasterPlayer: players.value.find(
 				p => p.team === 'blue' && p.role === 'spymaster'
@@ -401,20 +395,16 @@ export const useGameState = () => {
 	})
 
 	return {
-		initialized: readonly(initialized),
 		roomSlug: readonly(roomSlug),
-		currPlayerUsername: readonly(currPlayerUsername),
 		currPlayer: readonly(currPlayer),
 		round: readonly(round),
 		status: readonly(status),
-		teams: readonly(teams),
-		teamsComputed: teamsComputed,
+		teams: teams,
 		players,
 		gameWords,
 
 		// Methods
 		startGame,
-		getPlayerByUsername,
 		changePlayerTeamOrRole,
 		updateRound,
 		endRound,
