@@ -4,9 +4,11 @@
 
 		<template v-else>
 			<div class="mt-12 max-w-lg mx-auto p-12 bg-gray-50 rounded-2xl">
-				<h1 class="text-center text-3xl font-bold">Welcome!</h1>
+				<h1 class="text-center text-3xl font-bold">Willkommen!</h1>
 
-				<p class="text-center mt-2">Enter a nickname to join the room</p>
+				<p class="text-center mt-2">
+					Gib deinen Nicknamen ein, um am Spiel teilzunemen
+				</p>
 
 				<form
 					@submit.prevent="handleSubmit"
@@ -18,7 +20,9 @@
 						class="w-full text-center"
 						v-model="playerInput"
 					/>
-					<button type="submit" class="primary w-full h-12">Join game</button>
+					<button type="submit" class="primary w-full h-12">
+						Spiel beitreten
+					</button>
 				</form>
 			</div>
 		</template>

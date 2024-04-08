@@ -22,28 +22,28 @@
 			!gameState.currPlayer.value?.role ||
 			!gameState.currPlayer.value?.team
 		) {
-			return 'Please join a team'
+			return 'Bitte trete einem Team bei'
 		}
 
 		if (gameState.status.value !== 'playing') {
-			return 'Start the game'
+			return 'Spiel starten'
 		}
 
 		if (!currUserIsInTeam) {
-			return 'Wait for the other team'
+			return 'Warte auf das andere Team'
 		}
 
 		if (gameState.round.value.role === 'spymaster') {
 			if (currUserIsSpymaster) {
-				return 'Give your operatives a clue'
+				return 'Gib deinen Ermittlern einen Hinweis'
 			} else {
-				return 'Wait for your spymaster to give a clue'
+				return 'Warte auf den Hinweis deines Geheimdienstchefs'
 			}
 		} else if (gameState.round.value.role === 'operative') {
 			if (currUserIsSpymaster) {
-				return 'Wait for your operatives to guess'
+				return 'Warte auf deine Ermittler'
 			} else {
-				return 'Guess the words'
+				return 'Ratet die Wörter'
 			}
 		}
 	})

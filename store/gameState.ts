@@ -29,7 +29,7 @@ export const useGameState = () => {
 	if (!currPlayerUsername.value) {
 		throw createError({
 			statusCode: 500,
-			message: 'No username set',
+			message: 'Kein Spielername gefunden.',
 			fatal: true,
 		})
 	}
@@ -304,7 +304,7 @@ export const useGameState = () => {
 				p => p.team === team && p.role === 'spymaster'
 			)
 			if (role === 'spymaster' && teamSpymasters.length > 0) {
-				alert('There is already a spymaster in this team')
+				alert('Es kann nur einen Spymaster pro Team geben.')
 				return
 			}
 
@@ -360,7 +360,7 @@ export const useGameState = () => {
 		}
 		if (word.type === 'assassin') {
 			endGame()
-			alert('Game over, you chose the assassin!')
+			alert('Das war der Attentäter! Spiel vorbei.')
 			return
 		}
 
@@ -374,12 +374,12 @@ export const useGameState = () => {
 		// Check if one of the teams has no cards left
 		if (teams.value.blue.cardsLeft === 0) {
 			endGame()
-			alert('Game over, blue wins!')
+			alert('Blau hat gewonnen!')
 			return
 		}
 		if (teams.value.red.cardsLeft === 0) {
 			endGame()
-			alert('Game over, red wins!')
+			alert('Rot hat gewonnen!')
 			return
 		}
 	}

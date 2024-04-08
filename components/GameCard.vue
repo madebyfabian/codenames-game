@@ -28,7 +28,7 @@
 			v-if="isInteractive"
 			class="z-10 group-hover:visible invisible w-[calc(100%-1.5rem)] absolute inset-3 bottom-auto flex items-center justify-end"
 		>
-			<button class="primary" @click="handleClickChoose">✅ Choose</button>
+			<button class="primary" @click="handleClickChoose">Aufdecken</button>
 		</div>
 
 		<ul class="absolute inset-0 bottom-auto z-0 w-full p-4 flex gap-3">

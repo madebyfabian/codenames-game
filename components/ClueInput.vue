@@ -8,9 +8,11 @@
 		"
 		class="flex items-center justify-center gap-2"
 	>
-		<input type="text" v-model="word" placeholder="Your clue" required />
+		<input type="text" v-model="word" placeholder="Dein Hinweis" required />
 		<input type="number" v-model.number="number" class="max-w-20" />
-		<button class="py-3.5 px-5 primary ml-2" type="submit">Give clue</button>
+		<button class="py-3.5 px-5 primary ml-2" type="submit">
+			Hinweis geben
+		</button>
 	</form>
 </template>
 

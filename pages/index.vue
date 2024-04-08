@@ -5,7 +5,7 @@
 		<div
 			class="max-w-lg mx-auto p-12 bg-gradient-to-br from-orange-600 to-yellow-400 text-white rounded-2xl"
 		>
-			<h1 class="text-center text-3xl font-bold">Play Codenames online.</h1>
+			<h1 class="text-center text-3xl font-bold">Spiele Codenames online.</h1>
 
 			<section class="mt-8 text-center w-full">
 				<div class="mt-6">
@@ -13,7 +13,7 @@
 						@click="handleCreateGame"
 						class="w-full mt-3 text-gray-700 h-16 !text-lg border-none bg-white"
 					>
-						Create game
+						Neues Spiel erstellen
 					</button>
 				</div>
 			</section>
@@ -23,7 +23,7 @@
 			<p class="mt-6 xl:mt-0 text-center">
 				Copyright © 2024 All Rights belong to Czech Games Edition
 				<br />
-				Built by
+				By
 				<a class="underline" href="https://twitter.com/@madebyfabian">
 					@madebyfabian
 				</a>

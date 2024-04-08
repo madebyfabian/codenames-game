@@ -13,7 +13,7 @@
 			class="absolute right-2 top-2"
 			@click="handleEndGame"
 		>
-			End Game
+			Spiel beenden
 		</button>
 
 		<div class="container py-8">
@@ -21,7 +21,7 @@
 
 			<div v-if="gameState.status.value === 'idle'" class="flex justify-center">
 				<button @click="() => gameState.startGame()" class="primary scale-125">
-					Start Game
+					Spiel starten
 				</button>
 			</div>
 

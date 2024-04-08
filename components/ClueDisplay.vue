@@ -17,7 +17,7 @@
 			v-if="gameState.round.value.role === gameState.currPlayer.value?.role"
 			class="flex justify-center mt-4"
 		>
-			<button @click="handleEndGuessing" class="primary">End guessing</button>
+			<button @click="handleEndGuessing" class="primary">Raten beenden</button>
 		</div>
 	</div>
 </template>

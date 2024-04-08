@@ -27,7 +27,7 @@
 			</p>
 
 			<div>
-				<h3>Operative</h3>
+				<h3>Ermittler</h3>
 
 				<ul v-if="team.operativePlayers?.length" class="flex flex-col gap-2">
 					<li v-for="player of team.operativePlayers" :key="player.username">
@@ -50,12 +50,12 @@
 						})
 					"
 				>
-					{{ gameState.currPlayer.value?.team ? 'Switch' : 'Join' }}
+					{{ gameState.currPlayer.value?.team ? 'Wechseln' : 'Beitreten' }}
 				</button>
 			</div>
 
 			<div>
-				<h3>Spymaster</h3>
+				<h3>Geheimdienstchef</h3>
 
 				<PlayerDisplay
 					v-if="team.spymasterPlayer"
@@ -77,7 +77,7 @@
 						})
 					"
 				>
-					{{ gameState.currPlayer.value?.team ? 'Switch' : 'Join' }}
+					{{ gameState.currPlayer.value?.team ? 'Wechseln' : 'Beitreten' }}
 				</button>
 			</div>
 		</section>
