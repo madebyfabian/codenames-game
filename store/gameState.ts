@@ -251,35 +251,43 @@ export const useGameState = () => {
 		})
 	})
 
-	watch([players], newVals => {
-		if (!gameStateWatcherEnabled.value) {
-			return
-		}
-		channel.value.send({
-			type: 'broadcast',
-			event: 'gameStateSync' satisfies BroadcastEvents,
-			payload: {
-				newGame: {
-					players: players.value,
-				},
-			} satisfies BroadcastPayloads['gameStateSync'],
-		})
-	})
+	watch(
+		[players],
+		newVals => {
+			if (!gameStateWatcherEnabled.value) {
+				return
+			}
+			channel.value.send({
+				type: 'broadcast',
+				event: 'gameStateSync' satisfies BroadcastEvents,
+				payload: {
+					newGame: {
+						players: players.value,
+					},
+				} satisfies BroadcastPayloads['gameStateSync'],
+			})
+		},
+		{ deep: true }
+	)
 
-	watch([gameWords], () => {
-		if (!gameStateWatcherEnabled.value) {
-			return
-		}
-		channel.value.send({
-			type: 'broadcast',
-			event: 'gameStateSync' satisfies BroadcastEvents,
-			payload: {
-				newGame: {
-					gameWords: gameWords.value,
-				},
-			} satisfies BroadcastPayloads['gameStateSync'],
-		})
-	})
+	watch(
+		[gameWords],
+		() => {
+			if (!gameStateWatcherEnabled.value) {
+				return
+			}
+			channel.value.send({
+				type: 'broadcast',
+				event: 'gameStateSync' satisfies BroadcastEvents,
+				payload: {
+					newGame: {
+						gameWords: gameWords.value,
+					},
+				} satisfies BroadcastPayloads['gameStateSync'],
+			})
+		},
+		{ deep: true }
+	)
 
 	// --- Methods ---
 
@@ -351,7 +359,7 @@ export const useGameState = () => {
 		}
 		if (word.type === 'assassin') {
 			endGame()
-			alert('Game over')
+			alert('Game over, you chose the assassin!')
 			return
 		}
 
