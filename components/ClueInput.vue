@@ -10,7 +10,7 @@
 	>
 		<input type="text" v-model="word" placeholder="Your clue" required />
 		<input type="number" v-model.number="number" class="max-w-20" />
-		<button class="py-2 primary ml-2" type="submit">Give clue</button>
+		<button class="py-3.5 px-5 primary ml-2" type="submit">Give clue</button>
 	</form>
 </template>
 
@@ -31,9 +31,3 @@
 		number.value = 0
 	}
 </script>
-
-<style lang="postcss" scoped>
-	input {
-		@apply border bg-white border-gray-300 px-4 py-2 rounded-lg;
-	}
-</style>

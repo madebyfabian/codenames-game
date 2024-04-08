@@ -1,5 +1,9 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
+	experimental: {
+		typedPages: true,
+	},
+
 	devtools: {
 		enabled: true,
 	},
@@ -10,7 +14,7 @@ export default defineNuxtConfig({
 		},
 	},
 
-	modules: ['@nuxtjs/supabase', '@nuxtjs/tailwindcss', "@nuxt/fonts"],
+	modules: ['@nuxtjs/supabase', '@nuxtjs/tailwindcss', '@nuxt/fonts'],
 
 	supabase: {
 		url: process.env.NUXT_PUBLIC_SUPABASE_URL,

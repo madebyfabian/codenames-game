@@ -41,8 +41,9 @@
 				<button
 					class="mt-2"
 					v-if="
-						gameState.currPlayer.value?.team !== type ||
-						gameState.currPlayer.value?.role !== 'operative'
+						(gameState.currPlayer.value?.team !== type ||
+							gameState.currPlayer.value?.role !== 'operative') &&
+						allowChange
 					"
 					@click="
 						gameState.changePlayerTeamOrRole({
@@ -67,8 +68,9 @@
 				<button
 					class="mt-2"
 					v-if="
-						gameState.currPlayer.value?.team !== type ||
-						gameState.currPlayer.value?.role !== 'spymaster'
+						(gameState.currPlayer.value?.team !== type ||
+							gameState.currPlayer.value?.role !== 'spymaster') &&
+						allowChange
 					"
 					@click="
 						gameState.changePlayerTeamOrRole({
@@ -87,4 +89,21 @@
 <script setup lang="ts">
 	import { useGameState } from '@/store/gameState'
 	const gameState = useGameState()
+
+	const allowChange = computed(() => {
+		if (gameState.status.value === 'idle') {
+			return true
+		}
+
+		// If already playing, check if the player does not have a team yet
+		if (!gameState.currPlayer.value?.team) {
+			return true
+		}
+
+		if (gameState.debugMode.value) {
+			return true
+		}
+
+		return false
+	})
 </script>

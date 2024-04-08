@@ -20,15 +20,16 @@ type BroadcastPayloads = {
 
 export const useGameState = () => {
 	const supabase = useSupabaseClient()
-	const route = useRoute()
+	const route = useRoute('game-roomSlug')
 
 	// --- URL State ---
 	const roomSlug = computed(() => route.params.roomSlug)
-	const currPlayerUsername = computed(() => String(route.query.player))
-	if (!currPlayerUsername) {
+	const currPlayerUsername = useCookie<string>('currPlayerUsername')
+	const debugMode = computed(() => route.query.debug === 'true')
+	if (!currPlayerUsername.value) {
 		throw createError({
 			statusCode: 500,
-			message: 'Invalid player query',
+			message: 'No username set',
 			fatal: true,
 		})
 	}
@@ -535,6 +536,7 @@ export const useGameState = () => {
 		// Computeds
 		teams: readonly(teams),
 		currPlayer: readonly(currPlayer),
+		debugMode: readonly(debugMode),
 
 		// Methods
 		startGame,

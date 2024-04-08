@@ -29,4 +29,8 @@
 	pre {
 		@apply my-5 max-h-96 overflow-y-scroll bg-gray-50 text-sm p-2;
 	}
+
+	input {
+		@apply border bg-white border-gray-300 px-5 py-3 text-xl font-bold rounded-lg;
+	}
 </style>

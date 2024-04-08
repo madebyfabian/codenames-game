@@ -22,7 +22,10 @@
 		</p>
 		<!-- Border overlay-->
 		<div
-			class="absolute pointer-events-none select-none inset-1 border-2 border-black/10 rounded-md"
+			class="absolute pointer-events-none select-none inset-1 border-2 rounded-md"
+			:class="
+				gameCard.type === 'assassin' ? 'border-white/10' : 'border-black/10'
+			"
 		/>
 
 		<div
@@ -34,8 +37,8 @@
 			"
 			class="group-hover:visible invisible w-[calc(100%-1.5rem)] absolute inset-3 bottom-auto flex items-center justify-between"
 		>
-			<button>Markieren</button>
-			<button class="primary" @click="handleClickChoose">Auswählen</button>
+			<button class="border-transparent bg-white/50">📍 Mark</button>
+			<button class="primary" @click="handleClickChoose">👉 Choose</button>
 		</div>
 	</div>
 </template>
