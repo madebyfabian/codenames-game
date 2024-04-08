@@ -1,0 +1,7126 @@
+[
+	{
+		"wordGerman": "das Jahr",
+		"wordEnglish": "year"
+	},
+	{
+		"wordGerman": "das Mal",
+		"wordEnglish": "time"
+	},
+	{
+		"wordGerman": "das Beispiel",
+		"wordEnglish": "example"
+	},
+	{
+		"wordGerman": "die Zeit",
+		"wordEnglish": "time (hour)"
+	},
+	{
+		"wordGerman": "die Frau",
+		"wordEnglish": "woman, wife, Mrs."
+	},
+	{
+		"wordGerman": "der Mensch",
+		"wordEnglish": "human being, man"
+	},
+	{
+		"wordGerman": "das Deutsch",
+		"wordEnglish": "German"
+	},
+	{
+		"wordGerman": "das Kind",
+		"wordEnglish": "child"
+	},
+	{
+		"wordGerman": "der Tag",
+		"wordEnglish": "day"
+	},
+	{
+		"wordGerman": "der Mann",
+		"wordEnglish": "man"
+	},
+	{
+		"wordGerman": "das Land",
+		"wordEnglish": "land, country, state"
+	},
+	{
+		"wordGerman": "die Frage",
+		"wordEnglish": "question"
+	},
+	{
+		"wordGerman": "das Haus",
+		"wordEnglish": "house"
+	},
+	{
+		"wordGerman": "der Fall",
+		"wordEnglish": "fall, case"
+	},
+	{
+		"wordGerman": "die Leute",
+		"wordEnglish": "people"
+	},
+	{
+		"wordGerman": "die Arbeit",
+		"wordEnglish": "work"
+	},
+	{
+		"wordGerman": "das Prozent",
+		"wordEnglish": "percent"
+	},
+	{
+		"wordGerman": "die Hand",
+		"wordEnglish": "hand"
+	},
+	{
+		"wordGerman": "die Stadt",
+		"wordEnglish": "city, town"
+	},
+	{
+		"wordGerman": "der Herr",
+		"wordEnglish": "man, Mr."
+	},
+	{
+		"wordGerman": "der/das Teil",
+		"wordEnglish": "part"
+	},
+	{
+		"wordGerman": "das Problem",
+		"wordEnglish": "problem"
+	},
+	{
+		"wordGerman": "die Welt",
+		"wordEnglish": "world"
+	},
+	{
+		"wordGerman": "das Recht",
+		"wordEnglish": "right, law"
+	},
+	{
+		"wordGerman": "das Ende",
+		"wordEnglish": "end"
+	},
+	{
+		"wordGerman": "die Million",
+		"wordEnglish": "million"
+	},
+	{
+		"wordGerman": "die Schule",
+		"wordEnglish": "school"
+	},
+	{
+		"wordGerman": "die Woche",
+		"wordEnglish": "week"
+	},
+	{
+		"wordGerman": "der Vater",
+		"wordEnglish": "father"
+	},
+	{
+		"wordGerman": "die Seite",
+		"wordEnglish": "side, page"
+	},
+	{
+		"wordGerman": "das Leben",
+		"wordEnglish": "life"
+	},
+	{
+		"wordGerman": "die Mutter",
+		"wordEnglish": "mother"
+	},
+	{
+		"wordGerman": "der Grund",
+		"wordEnglish": "reason, basis"
+	},
+	{
+		"wordGerman": "das Auge",
+		"wordEnglish": "eye"
+	},
+	{
+		"wordGerman": "das Wort",
+		"wordEnglish": "word"
+	},
+	{
+		"wordGerman": "das Geld",
+		"wordEnglish": "money"
+	},
+	{
+		"wordGerman": "die Art",
+		"wordEnglish": "type, kind"
+	},
+	{
+		"wordGerman": "der Bereich",
+		"wordEnglish": "area, region"
+	},
+	{
+		"wordGerman": "der Weg",
+		"wordEnglish": "path, way"
+	},
+	{
+		"wordGerman": "die Stunde",
+		"wordEnglish": "hour"
+	},
+	{
+		"wordGerman": "der Name",
+		"wordEnglish": "name"
+	},
+	{
+		"wordGerman": "die Geschichte",
+		"wordEnglish": "history, story"
+	},
+	{
+		"wordGerman": "die Gesellschaft",
+		"wordEnglish": "society, company"
+	},
+	{
+		"wordGerman": "der Kopf",
+		"wordEnglish": "head"
+	},
+	{
+		"wordGerman": "das Paar",
+		"wordEnglish": "pair, couple"
+	},
+	{
+		"wordGerman": "die Möglichkeit",
+		"wordEnglish": "possibility"
+	},
+	{
+		"wordGerman": "das Unternehmen",
+		"wordEnglish": "enterprise, company"
+	},
+	{
+		"wordGerman": "das Bild",
+		"wordEnglish": "picture"
+	},
+	{
+		"wordGerman": "das Buch",
+		"wordEnglish": "book"
+	},
+	{
+		"wordGerman": "das Wasser",
+		"wordEnglish": "water"
+	},
+	{
+		"wordGerman": "die Stelle",
+		"wordEnglish": "place"
+	},
+	{
+		"wordGerman": "die Form",
+		"wordEnglish": "form, shape"
+	},
+	{
+		"wordGerman": "die Entwicklung",
+		"wordEnglish": "development"
+	},
+	{
+		"wordGerman": "der Monat",
+		"wordEnglish": "month"
+	},
+	{
+		"wordGerman": "die Familie",
+		"wordEnglish": "family"
+	},
+	{
+		"wordGerman": "der Morgen",
+		"wordEnglish": "morning"
+	},
+	{
+		"wordGerman": "der Abend",
+		"wordEnglish": "evening"
+	},
+	{
+		"wordGerman": "die Aufgabe",
+		"wordEnglish": "task, assignment, job"
+	},
+	{
+		"wordGerman": "die Universität",
+		"wordEnglish": "university"
+	},
+	{
+		"wordGerman": "der Sinn",
+		"wordEnglish": "sense, meaning"
+	},
+	{
+		"wordGerman": "der Staat",
+		"wordEnglish": "state"
+	},
+	{
+		"wordGerman": "das Ziel",
+		"wordEnglish": "destination, goal"
+	},
+	{
+		"wordGerman": "der Freund",
+		"wordEnglish": "friend"
+	},
+	{
+		"wordGerman": "das Thema",
+		"wordEnglish": "subject, topic, theme"
+	},
+	{
+		"wordGerman": "die Person",
+		"wordEnglish": "person"
+	},
+	{
+		"wordGerman": "der Euro",
+		"wordEnglish": "euro"
+	},
+	{
+		"wordGerman": "die Nacht",
+		"wordEnglish": "night"
+	},
+	{
+		"wordGerman": "das Ding",
+		"wordEnglish": "thing"
+	},
+	{
+		"wordGerman": "der Raum",
+		"wordEnglish": "room, space"
+	},
+	{
+		"wordGerman": "der Blick",
+		"wordEnglish": "look, view, glance"
+	},
+	{
+		"wordGerman": "der Platz",
+		"wordEnglish": "place, room, square"
+	},
+	{
+		"wordGerman": "die Zahl",
+		"wordEnglish": "number"
+	},
+	{
+		"wordGerman": "das System",
+		"wordEnglish": "system"
+	},
+	{
+		"wordGerman": "die Uhr",
+		"wordEnglish": "clock, watch, o'clock"
+	},
+	{
+		"wordGerman": "die Eltern",
+		"wordEnglish": "parents"
+	},
+	{
+		"wordGerman": "die Straße",
+		"wordEnglish": "street"
+	},
+	{
+		"wordGerman": "die Minute",
+		"wordEnglish": "minute"
+	},
+	{
+		"wordGerman": "die Gruppe",
+		"wordEnglish": "group"
+	},
+	{
+		"wordGerman": "der Wert",
+		"wordEnglish": "value"
+	},
+	{
+		"wordGerman": "das Gesicht",
+		"wordEnglish": "face"
+	},
+	{
+		"wordGerman": "die Sprache",
+		"wordEnglish": "language"
+	},
+	{
+		"wordGerman": "der Anfang",
+		"wordEnglish": "beginning"
+	},
+	{
+		"wordGerman": "der Ort",
+		"wordEnglish": "place, town, location"
+	},
+	{
+		"wordGerman": "der Moment",
+		"wordEnglish": "moment"
+	},
+	{
+		"wordGerman": "die Folge",
+		"wordEnglish": "result, consequence"
+	},
+	{
+		"wordGerman": "das Interesse",
+		"wordEnglish": "interest"
+	},
+	{
+		"wordGerman": "die Milliarde",
+		"wordEnglish": "billion"
+	},
+	{
+		"wordGerman": "die Rolle",
+		"wordEnglish": "role"
+	},
+	{
+		"wordGerman": "die Tür",
+		"wordEnglish": "door"
+	},
+	{
+		"wordGerman": "der Schüler",
+		"wordEnglish": "pupil, student"
+	},
+	{
+		"wordGerman": "die Bedeutung",
+		"wordEnglish": "meaning, significance"
+	},
+	{
+		"wordGerman": "der Text",
+		"wordEnglish": "text"
+	},
+	{
+		"wordGerman": "das Ergebnis",
+		"wordEnglish": "result"
+	},
+	{
+		"wordGerman": "der Krieg",
+		"wordEnglish": "war"
+	},
+	{
+		"wordGerman": "die Weise",
+		"wordEnglish": "way, manner"
+	},
+	{
+		"wordGerman": "die Regierung",
+		"wordEnglish": "rule, government"
+	},
+	{
+		"wordGerman": "das Stück",
+		"wordEnglish": "piece"
+	},
+	{
+		"wordGerman": "die Wohnung",
+		"wordEnglish": "apartment"
+	},
+	{
+		"wordGerman": "das Gespräch",
+		"wordEnglish": "conversation"
+	},
+	{
+		"wordGerman": "der Meter",
+		"wordEnglish": "meter"
+	},
+	{
+		"wordGerman": "der Punkt",
+		"wordEnglish": "dot, point, period"
+	},
+	{
+		"wordGerman": "die Situation",
+		"wordEnglish": "situation"
+	},
+	{
+		"wordGerman": "der Lehrer",
+		"wordEnglish": "teacher"
+	},
+	{
+		"wordGerman": "der Preis",
+		"wordEnglish": "price, prize"
+	},
+	{
+		"wordGerman": "die Abbildung",
+		"wordEnglish": "illustration"
+	},
+	{
+		"wordGerman": "der Begriff",
+		"wordEnglish": "concept, idea, term"
+	},
+	{
+		"wordGerman": "die Funktion",
+		"wordEnglish": "function"
+	},
+	{
+		"wordGerman": "der Boden",
+		"wordEnglish": "ground, floor, bottom"
+	},
+	{
+		"wordGerman": "das Jahrhundert",
+		"wordEnglish": "century"
+	},
+	{
+		"wordGerman": "der Sohn",
+		"wordEnglish": "son"
+	},
+	{
+		"wordGerman": "das Werk",
+		"wordEnglish": "work"
+	},
+	{
+		"wordGerman": "die Stimme",
+		"wordEnglish": "voice, vote"
+	},
+	{
+		"wordGerman": "der Rahmen",
+		"wordEnglish": "frame, framework"
+	},
+	{
+		"wordGerman": "die Richtung",
+		"wordEnglish": "direction"
+	},
+	{
+		"wordGerman": "das Programm",
+		"wordEnglish": "program"
+	},
+	{
+		"wordGerman": "die Angst",
+		"wordEnglish": "fear, anxiety"
+	},
+	{
+		"wordGerman": "die Information",
+		"wordEnglish": "information"
+	},
+	{
+		"wordGerman": "die Kunst",
+		"wordEnglish": "art"
+	},
+	{
+		"wordGerman": "die Musik",
+		"wordEnglish": "music"
+	},
+	{
+		"wordGerman": "die Politik",
+		"wordEnglish": "politics"
+	},
+	{
+		"wordGerman": "der Beruf",
+		"wordEnglish": "occupation, job, profession"
+	},
+	{
+		"wordGerman": "die Regel",
+		"wordEnglish": "rule"
+	},
+	{
+		"wordGerman": "der Schritt",
+		"wordEnglish": "step"
+	},
+	{
+		"wordGerman": "der Absatz",
+		"wordEnglish": "sales, paragraph, heel"
+	},
+	{
+		"wordGerman": "der Gott",
+		"wordEnglish": "god"
+	},
+	{
+		"wordGerman": "das Auto",
+		"wordEnglish": "automobile, car"
+	},
+	{
+		"wordGerman": "die Beziehung",
+		"wordEnglish": "relation, relationship"
+	},
+	{
+		"wordGerman": "die Erfahrung",
+		"wordEnglish": "experience"
+	},
+	{
+		"wordGerman": "der Tisch",
+		"wordEnglish": "table"
+	},
+	{
+		"wordGerman": "die Zukunft",
+		"wordEnglish": "future"
+	},
+	{
+		"wordGerman": "das Spiel",
+		"wordEnglish": "game"
+	},
+	{
+		"wordGerman": "das Gefühl",
+		"wordEnglish": "feeling"
+	},
+	{
+		"wordGerman": "das Licht",
+		"wordEnglish": "light"
+	},
+	{
+		"wordGerman": "der Präsident",
+		"wordEnglish": "president"
+	},
+	{
+		"wordGerman": "der Markt",
+		"wordEnglish": "market"
+	},
+	{
+		"wordGerman": "die Bank",
+		"wordEnglish": "bank, bench"
+	},
+	{
+		"wordGerman": "die Partei",
+		"wordEnglish": "political party"
+	},
+	{
+		"wordGerman": "die Tochter",
+		"wordEnglish": "daughter"
+	},
+	{
+		"wordGerman": "das Verhältnis",
+		"wordEnglish": "relationship"
+	},
+	{
+		"wordGerman": "die Kirche",
+		"wordEnglish": "church"
+	},
+	{
+		"wordGerman": "der Film",
+		"wordEnglish": "film"
+	},
+	{
+		"wordGerman": "der Gedanke",
+		"wordEnglish": "thought"
+	},
+	{
+		"wordGerman": "der Doktor",
+		"wordEnglish": "doctor"
+	},
+	{
+		"wordGerman": "das Mädchen",
+		"wordEnglish": "girl"
+	},
+	{
+		"wordGerman": "die Entscheidung",
+		"wordEnglish": "decision"
+	},
+	{
+		"wordGerman": "der Prozess",
+		"wordEnglish": "trial, process"
+	},
+	{
+		"wordGerman": "der Betrieb",
+		"wordEnglish": "business, operation"
+	},
+	{
+		"wordGerman": "der Zusammenhang",
+		"wordEnglish": "connection, context"
+	},
+	{
+		"wordGerman": "das Gesetz",
+		"wordEnglish": "law"
+	},
+	{
+		"wordGerman": "der Arm",
+		"wordEnglish": "arm"
+	},
+	{
+		"wordGerman": "die Firma",
+		"wordEnglish": "firm, company"
+	},
+	{
+		"wordGerman": "die Kraft",
+		"wordEnglish": "strength, power"
+	},
+	{
+		"wordGerman": "der Student",
+		"wordEnglish": "student"
+	},
+	{
+		"wordGerman": "das Zuhause",
+		"wordEnglish": "home"
+	},
+	{
+		"wordGerman": "die Chance",
+		"wordEnglish": "chance"
+	},
+	{
+		"wordGerman": "die Zeitung",
+		"wordEnglish": "newspaper"
+	},
+	{
+		"wordGerman": "der Erfolg",
+		"wordEnglish": "success"
+	},
+	{
+		"wordGerman": "die Grenze",
+		"wordEnglish": "border, frontier"
+	},
+	{
+		"wordGerman": "der Satz",
+		"wordEnglish": "sentence"
+	},
+	{
+		"wordGerman": "das Angebot",
+		"wordEnglish": "offer"
+	},
+	{
+		"wordGerman": "das Internet",
+		"wordEnglish": "internet"
+	},
+	{
+		"wordGerman": "die Kultur",
+		"wordEnglish": "culture"
+	},
+	{
+		"wordGerman": "die Lage",
+		"wordEnglish": "situation, location"
+	},
+	{
+		"wordGerman": "die Leistung",
+		"wordEnglish": "performance"
+	},
+	{
+		"wordGerman": "das Mitglied",
+		"wordEnglish": "member"
+	},
+	{
+		"wordGerman": "das Projekt",
+		"wordEnglish": "project"
+	},
+	{
+		"wordGerman": "das Zimmer",
+		"wordEnglish": "room"
+	},
+	{
+		"wordGerman": "der Chef",
+		"wordEnglish": "head, leader, boss"
+	},
+	{
+		"wordGerman": "der Zug",
+		"wordEnglish": "train"
+	},
+	{
+		"wordGerman": "der Arzt",
+		"wordEnglish": "physician, doctor"
+	},
+	{
+		"wordGerman": "das Auftreten",
+		"wordEnglish": "behavior, conduct, occurrence"
+	},
+	{
+		"wordGerman": "der Fuß",
+		"wordEnglish": "foot"
+	},
+	{
+		"wordGerman": "der Körper",
+		"wordEnglish": "body"
+	},
+	{
+		"wordGerman": "die Klasse",
+		"wordEnglish": "class"
+	},
+	{
+		"wordGerman": "die Lösung",
+		"wordEnglish": "solution"
+	},
+	{
+		"wordGerman": "das Verhalten",
+		"wordEnglish": "behavior"
+	},
+	{
+		"wordGerman": "die Höhe",
+		"wordEnglish": "height, altitude"
+	},
+	{
+		"wordGerman": "der Junge",
+		"wordEnglish": "boy"
+	},
+	{
+		"wordGerman": "das Fenster",
+		"wordEnglish": "window"
+	},
+	{
+		"wordGerman": "die Luft",
+		"wordEnglish": "air"
+	},
+	{
+		"wordGerman": "die Meinung",
+		"wordEnglish": "opinion"
+	},
+	{
+		"wordGerman": "die Idee",
+		"wordEnglish": "idea"
+	},
+	{
+		"wordGerman": "das Produkt",
+		"wordEnglish": "product"
+	},
+	{
+		"wordGerman": "das Studium",
+		"wordEnglish": "study, studies"
+	},
+	{
+		"wordGerman": "der Vergleich",
+		"wordEnglish": "comparison"
+	},
+	{
+		"wordGerman": "das Mittel",
+		"wordEnglish": "means"
+	},
+	{
+		"wordGerman": "das Modell",
+		"wordEnglish": "model"
+	},
+	{
+		"wordGerman": "die Natur",
+		"wordEnglish": "nature"
+	},
+	{
+		"wordGerman": "das Bett",
+		"wordEnglish": "bed"
+	},
+	{
+		"wordGerman": "der Kunde",
+		"wordEnglish": "customer, client"
+	},
+	{
+		"wordGerman": "der Mitarbeiter",
+		"wordEnglish": "employee, co-worker"
+	},
+	{
+		"wordGerman": "der Tod",
+		"wordEnglish": "death"
+	},
+	{
+		"wordGerman": "das Geschäft",
+		"wordEnglish": "business"
+	},
+	{
+		"wordGerman": "der Spaß",
+		"wordEnglish": "fun"
+	},
+	{
+		"wordGerman": "die Wirtschaft",
+		"wordEnglish": "economy, commerce"
+	},
+	{
+		"wordGerman": "das Tier",
+		"wordEnglish": "animal"
+	},
+	{
+		"wordGerman": "die Bewegung",
+		"wordEnglish": "movement, motion"
+	},
+	{
+		"wordGerman": "der Gast",
+		"wordEnglish": "guest"
+	},
+	{
+		"wordGerman": "die Sicherheit",
+		"wordEnglish": "security, safety"
+	},
+	{
+		"wordGerman": "der Einsatz",
+		"wordEnglish": "inset, deployment"
+	},
+	{
+		"wordGerman": "das Gebiet",
+		"wordEnglish": "region, area"
+	},
+	{
+		"wordGerman": "der Dank",
+		"wordEnglish": "gratefulness"
+	},
+	{
+		"wordGerman": "das Dorf",
+		"wordEnglish": "village"
+	},
+	{
+		"wordGerman": "der Kollege",
+		"wordEnglish": "colleague"
+	},
+	{
+		"wordGerman": "die Angabe",
+		"wordEnglish": "information, statement"
+	},
+	{
+		"wordGerman": "der Bruder",
+		"wordEnglish": "brother"
+	},
+	{
+		"wordGerman": "die Verfügung",
+		"wordEnglish": "disposal"
+	},
+	{
+		"wordGerman": "das Fach",
+		"wordEnglish": "compartment, subject"
+	},
+	{
+		"wordGerman": "das Herz",
+		"wordEnglish": "heart"
+	},
+	{
+		"wordGerman": "der Kontakt",
+		"wordEnglish": "contact"
+	},
+	{
+		"wordGerman": "die Menge",
+		"wordEnglish": "quantity, amount"
+	},
+	{
+		"wordGerman": "der Sommer",
+		"wordEnglish": "summer"
+	},
+	{
+		"wordGerman": "der Unterschied",
+		"wordEnglish": "difference"
+	},
+	{
+		"wordGerman": "der Anspruch",
+		"wordEnglish": "claim"
+	},
+	{
+		"wordGerman": "die Antwort",
+		"wordEnglish": "answer, reply"
+	},
+	{
+		"wordGerman": "die Verbindung",
+		"wordEnglish": "connection, link"
+	},
+	{
+		"wordGerman": "die Vorstellung",
+		"wordEnglish": "idea, introduction"
+	},
+	{
+		"wordGerman": "die Anwendung",
+		"wordEnglish": "application, use"
+	},
+	{
+		"wordGerman": "das Alter",
+		"wordEnglish": "age"
+	},
+	{
+		"wordGerman": "die Kosten",
+		"wordEnglish": "costs, expenses"
+	},
+	{
+		"wordGerman": "der Patient",
+		"wordEnglish": "patient"
+	},
+	{
+		"wordGerman": "die Polizei",
+		"wordEnglish": "police"
+	},
+	{
+		"wordGerman": "das Theater",
+		"wordEnglish": "theater"
+	},
+	{
+		"wordGerman": "die Ausbildung",
+		"wordEnglish": "training, development"
+	},
+	{
+		"wordGerman": "die Gefahr",
+		"wordEnglish": "danger"
+	},
+	{
+		"wordGerman": "das Gerät",
+		"wordEnglish": "tool, piece of equipment, appliance"
+	},
+	{
+		"wordGerman": "der Kilometer",
+		"wordEnglish": "kilometer"
+	},
+	{
+		"wordGerman": "die Hilfe",
+		"wordEnglish": "help"
+	},
+	{
+		"wordGerman": "der Computer",
+		"wordEnglish": "computer"
+	},
+	{
+		"wordGerman": "der Dollar",
+		"wordEnglish": "dollar"
+	},
+	{
+		"wordGerman": "das Verfahren",
+		"wordEnglish": "method, process, technique"
+	},
+	{
+		"wordGerman": "der Vertrag",
+		"wordEnglish": "contract"
+	},
+	{
+		"wordGerman": "die Maßnahme",
+		"wordEnglish": "measure"
+	},
+	{
+		"wordGerman": "die Mitte",
+		"wordEnglish": "middle"
+	},
+	{
+		"wordGerman": "die Ordnung",
+		"wordEnglish": "order, tidiness"
+	},
+	{
+		"wordGerman": "der Stoff",
+		"wordEnglish": "material, substance"
+	},
+	{
+		"wordGerman": "der Beginn",
+		"wordEnglish": "beginning"
+	},
+	{
+		"wordGerman": "das Glück",
+		"wordEnglish": "luck, fortune"
+	},
+	{
+		"wordGerman": "das Wochenende",
+		"wordEnglish": "weekend"
+	},
+	{
+		"wordGerman": "der Professor",
+		"wordEnglish": "professor"
+	},
+	{
+		"wordGerman": "die Reihe",
+		"wordEnglish": "row, line"
+	},
+	{
+		"wordGerman": "der Westen/West",
+		"wordEnglish": "west"
+	},
+	{
+		"wordGerman": "die Bevölkerung",
+		"wordEnglish": "population, people"
+	},
+	{
+		"wordGerman": "das Institut",
+		"wordEnglish": "institute"
+	},
+	{
+		"wordGerman": "der Osten/Ost",
+		"wordEnglish": "east"
+	},
+	{
+		"wordGerman": "die Schwester",
+		"wordEnglish": "sister"
+	},
+	{
+		"wordGerman": "die Erde",
+		"wordEnglish": "earth, ground, soil"
+	},
+	{
+		"wordGerman": "die Ebene",
+		"wordEnglish": "plane, level"
+	},
+	{
+		"wordGerman": "die Reise",
+		"wordEnglish": "journey, trip"
+	},
+	{
+		"wordGerman": "die Einheit",
+		"wordEnglish": "unity, unit"
+	},
+	{
+		"wordGerman": "das Haar",
+		"wordEnglish": "hair"
+	},
+	{
+		"wordGerman": "das Lächeln",
+		"wordEnglish": "smile"
+	},
+	{
+		"wordGerman": "die Nähe",
+		"wordEnglish": "vicinity, proximity"
+	},
+	{
+		"wordGerman": "das Prinzip",
+		"wordEnglish": "principle"
+	},
+	{
+		"wordGerman": "der Vorteil",
+		"wordEnglish": "advantage"
+	},
+	{
+		"wordGerman": "die Struktur",
+		"wordEnglish": "structure"
+	},
+	{
+		"wordGerman": "der Autor",
+		"wordEnglish": "author"
+	},
+	{
+		"wordGerman": "die Bedingung",
+		"wordEnglish": "condition, stipulation"
+	},
+	{
+		"wordGerman": "das Risiko",
+		"wordEnglish": "risk"
+	},
+	{
+		"wordGerman": "die Wahl",
+		"wordEnglish": "choice, election"
+	},
+	{
+		"wordGerman": "die Wirkung",
+		"wordEnglish": "effect"
+	},
+	{
+		"wordGerman": "der Brief",
+		"wordEnglish": "letter"
+	},
+	{
+		"wordGerman": "die Größe",
+		"wordEnglish": "size, height"
+	},
+	{
+		"wordGerman": "die Medien",
+		"wordEnglish": "media"
+	},
+	{
+		"wordGerman": "die Macht",
+		"wordEnglish": "power, strength"
+	},
+	{
+		"wordGerman": "die Untersuchung",
+		"wordEnglish": "examination, investigation"
+	},
+	{
+		"wordGerman": "die Veränderung",
+		"wordEnglish": "change"
+	},
+	{
+		"wordGerman": "die Daten",
+		"wordEnglish": "data"
+	},
+	{
+		"wordGerman": "der Einfluss",
+		"wordEnglish": "influence"
+	},
+	{
+		"wordGerman": "die Methode",
+		"wordEnglish": "method"
+	},
+	{
+		"wordGerman": "die Organisation",
+		"wordEnglish": "organization"
+	},
+	{
+		"wordGerman": "die Liebe",
+		"wordEnglish": "love"
+	},
+	{
+		"wordGerman": "die Rede",
+		"wordEnglish": "speech, talk"
+	},
+	{
+		"wordGerman": "der Sport",
+		"wordEnglish": "sport"
+	},
+	{
+		"wordGerman": "der Augenblick",
+		"wordEnglish": "moment"
+	},
+	{
+		"wordGerman": "die Diskussion",
+		"wordEnglish": "discussion, debate"
+	},
+	{
+		"wordGerman": "die Forderung",
+		"wordEnglish": "demand, claim"
+	},
+	{
+		"wordGerman": "der Kreis",
+		"wordEnglish": "circle, district"
+	},
+	{
+		"wordGerman": "die Technik",
+		"wordEnglish": "technology, technique"
+	},
+	{
+		"wordGerman": "der Versuch",
+		"wordEnglish": "attempt, experiment"
+	},
+	{
+		"wordGerman": "das Schweigen",
+		"wordEnglish": "silence"
+	},
+	{
+		"wordGerman": "die Krankheit",
+		"wordEnglish": "illness, disease"
+	},
+	{
+		"wordGerman": "die Schwierigkeit",
+		"wordEnglish": "difficulty"
+	},
+	{
+		"wordGerman": "die Tätigkeit",
+		"wordEnglish": "activity"
+	},
+	{
+		"wordGerman": "die Voraussetzung",
+		"wordEnglish": "condition, requirement"
+	},
+	{
+		"wordGerman": "der Kampf",
+		"wordEnglish": "fight, struggle"
+	},
+	{
+		"wordGerman": "der Künstler",
+		"wordEnglish": "artist"
+	},
+	{
+		"wordGerman": "die Region",
+		"wordEnglish": "region"
+	},
+	{
+		"wordGerman": "der Eindruck",
+		"wordEnglish": "impression"
+	},
+	{
+		"wordGerman": "die Reaktion",
+		"wordEnglish": "reaction"
+	},
+	{
+		"wordGerman": "der Beitrag",
+		"wordEnglish": "contribution"
+	},
+	{
+		"wordGerman": "das Konzept",
+		"wordEnglish": "draft, plan"
+	},
+	{
+		"wordGerman": "die Linie",
+		"wordEnglish": "line"
+	},
+	{
+		"wordGerman": "der Mund",
+		"wordEnglish": "mouth"
+	},
+	{
+		"wordGerman": "der Wunsch",
+		"wordEnglish": "wish"
+	},
+	{
+		"wordGerman": "der Artikel",
+		"wordEnglish": "article"
+	},
+	{
+		"wordGerman": "der Gegensatz",
+		"wordEnglish": "opposite, contrast"
+	},
+	{
+		"wordGerman": "das Kapitel",
+		"wordEnglish": "chapter"
+	},
+	{
+		"wordGerman": "die Literatur",
+		"wordEnglish": "literature"
+	},
+	{
+		"wordGerman": "der Rücken",
+		"wordEnglish": "back"
+	},
+	{
+		"wordGerman": "die Zelle",
+		"wordEnglish": "cell"
+	},
+	{
+		"wordGerman": "die Aussage",
+		"wordEnglish": "statement"
+	},
+	{
+		"wordGerman": "der Bürger",
+		"wordEnglish": "citizen"
+	},
+	{
+		"wordGerman": "der Himmel",
+		"wordEnglish": "sky, heaven"
+	},
+	{
+		"wordGerman": "der Inhalt",
+		"wordEnglish": "contents, plot"
+	},
+	{
+		"wordGerman": "die Wand",
+		"wordEnglish": "wall"
+	},
+	{
+		"wordGerman": "die Bibliothek",
+		"wordEnglish": "library"
+	},
+	{
+		"wordGerman": "die Farbe",
+		"wordEnglish": "color"
+	},
+	{
+		"wordGerman": "der/die Jugendliche",
+		"wordEnglish": "adolescent"
+	},
+	{
+		"wordGerman": "das Maß",
+		"wordEnglish": "measure"
+	},
+	{
+		"wordGerman": "der Ansatz",
+		"wordEnglish": "approach, attempt"
+	},
+	{
+		"wordGerman": "der Aspekt",
+		"wordEnglish": "aspect"
+	},
+	{
+		"wordGerman": "das Bein",
+		"wordEnglish": "leg"
+	},
+	{
+		"wordGerman": "die Erinnerung",
+		"wordEnglish": "memory"
+	},
+	{
+		"wordGerman": "die Kenntnis",
+		"wordEnglish": "knowledge"
+	},
+	{
+		"wordGerman": "der Kurs",
+		"wordEnglish": "course, exchange rate"
+	},
+	{
+		"wordGerman": "das Papier",
+		"wordEnglish": "paper"
+	},
+	{
+		"wordGerman": "die Sekunde",
+		"wordEnglish": "second"
+	},
+	{
+		"wordGerman": "die Sonne",
+		"wordEnglish": "sun"
+	},
+	{
+		"wordGerman": "der Umstand",
+		"wordEnglish": "circumstance"
+	},
+	{
+		"wordGerman": "die Wissenschaft",
+		"wordEnglish": "science"
+	},
+	{
+		"wordGerman": "der Garten",
+		"wordEnglish": "garden"
+	},
+	{
+		"wordGerman": "die Küche",
+		"wordEnglish": "kitchen, cuisine"
+	},
+	{
+		"wordGerman": "die Wirklichkeit",
+		"wordEnglish": "reality"
+	},
+	{
+		"wordGerman": "der Druck",
+		"wordEnglish": "pressure, printing"
+	},
+	{
+		"wordGerman": "das Essen",
+		"wordEnglish": "food, meal"
+	},
+	{
+		"wordGerman": "die Grundlage",
+		"wordEnglish": "basis"
+	},
+	{
+		"wordGerman": "der Zustand",
+		"wordEnglish": "condition, state"
+	},
+	{
+		"wordGerman": "die Hälfte",
+		"wordEnglish": "half"
+	},
+	{
+		"wordGerman": "das Meer",
+		"wordEnglish": "sea, ocean"
+	},
+	{
+		"wordGerman": "der Dienst",
+		"wordEnglish": "service, duty"
+	},
+	{
+		"wordGerman": "der Gegenstand",
+		"wordEnglish": "object"
+	},
+	{
+		"wordGerman": "der Plan",
+		"wordEnglish": "plan"
+	},
+	{
+		"wordGerman": "der Zeitpunkt",
+		"wordEnglish": "moment, point in time"
+	},
+	{
+		"wordGerman": "der Auftrag",
+		"wordEnglish": "instructions, order, job"
+	},
+	{
+		"wordGerman": "der Baum",
+		"wordEnglish": "tree"
+	},
+	{
+		"wordGerman": "die Freude",
+		"wordEnglish": "joy"
+	},
+	{
+		"wordGerman": "die Gemeinde",
+		"wordEnglish": "community, municipality"
+	},
+	{
+		"wordGerman": "der Hinweis",
+		"wordEnglish": "hint"
+	},
+	{
+		"wordGerman": "das Netz",
+		"wordEnglish": "net, network"
+	},
+	{
+		"wordGerman": "die Position",
+		"wordEnglish": "position"
+	},
+	{
+		"wordGerman": "der Schluss",
+		"wordEnglish": "end, conclusion"
+	},
+	{
+		"wordGerman": "die Bundesrepublik",
+		"wordEnglish": "Federal Republic"
+	},
+	{
+		"wordGerman": "die Forschung",
+		"wordEnglish": "research"
+	},
+	{
+		"wordGerman": "das Glas",
+		"wordEnglish": "glass"
+	},
+	{
+		"wordGerman": "die Haut",
+		"wordEnglish": "skin"
+	},
+	{
+		"wordGerman": "die Praxis",
+		"wordEnglish": "practice, doctor's office"
+	},
+	{
+		"wordGerman": "der Wald",
+		"wordEnglish": "forest, woods"
+	},
+	{
+		"wordGerman": "der Ausdruck",
+		"wordEnglish": "term, expression"
+	},
+	{
+		"wordGerman": "der Finger",
+		"wordEnglish": "finger"
+	},
+	{
+		"wordGerman": "die Freundin",
+		"wordEnglish": "friend"
+	},
+	{
+		"wordGerman": "der Roman",
+		"wordEnglish": "novel"
+	},
+	{
+		"wordGerman": "die Sicht",
+		"wordEnglish": "view, visibility"
+	},
+	{
+		"wordGerman": "die Theorie",
+		"wordEnglish": "theory"
+	},
+	{
+		"wordGerman": "die Umwelt",
+		"wordEnglish": "environment"
+	},
+	{
+		"wordGerman": "der Haushalt",
+		"wordEnglish": "household, budget"
+	},
+	{
+		"wordGerman": "der Hund",
+		"wordEnglish": "dog"
+	},
+	{
+		"wordGerman": "die Maschine",
+		"wordEnglish": "machine"
+	},
+	{
+		"wordGerman": "die Nummer",
+		"wordEnglish": "number"
+	},
+	{
+		"wordGerman": "der Politiker",
+		"wordEnglish": "politician"
+	},
+	{
+		"wordGerman": "das Team",
+		"wordEnglish": "team"
+	},
+	{
+		"wordGerman": "der Titel",
+		"wordEnglish": "title"
+	},
+	{
+		"wordGerman": "der Verein",
+		"wordEnglish": "association, club"
+	},
+	{
+		"wordGerman": "das Fernsehen",
+		"wordEnglish": "television"
+	},
+	{
+		"wordGerman": "die Schulter",
+		"wordEnglish": "shoulder"
+	},
+	{
+		"wordGerman": "die Unterstützung",
+		"wordEnglish": "support"
+	},
+	{
+		"wordGerman": "das Zeichen",
+		"wordEnglish": "sign"
+	},
+	{
+		"wordGerman": "das Material",
+		"wordEnglish": "material"
+	},
+	{
+		"wordGerman": "die Produktion",
+		"wordEnglish": "production"
+	},
+	{
+		"wordGerman": "der Rest",
+		"wordEnglish": "rest, remains"
+	},
+	{
+		"wordGerman": "die Ruhe",
+		"wordEnglish": "silence, peace"
+	},
+	{
+		"wordGerman": "der Schaden",
+		"wordEnglish": "damage"
+	},
+	{
+		"wordGerman": "der Soldat",
+		"wordEnglish": "soldier"
+	},
+	{
+		"wordGerman": "die Sorge",
+		"wordEnglish": "worry"
+	},
+	{
+		"wordGerman": "die Tatsache",
+		"wordEnglish": "fact"
+	},
+	{
+		"wordGerman": "die Umgebung",
+		"wordEnglish": "surroundings"
+	},
+	{
+		"wordGerman": "das Volk",
+		"wordEnglish": "people"
+	},
+	{
+		"wordGerman": "der Wagen",
+		"wordEnglish": "car, carriage"
+	},
+	{
+		"wordGerman": "der Wind",
+		"wordEnglish": "wind"
+	},
+	{
+		"wordGerman": "der Zweck",
+		"wordEnglish": "purpose"
+	},
+	{
+		"wordGerman": "der Angriff",
+		"wordEnglish": "attack"
+	},
+	{
+		"wordGerman": "der Antrag",
+		"wordEnglish": "application"
+	},
+	{
+		"wordGerman": "der/das Grad",
+		"wordEnglish": "degree"
+	},
+	{
+		"wordGerman": "der Job",
+		"wordEnglish": "job"
+	},
+	{
+		"wordGerman": "die Öffentlichkeit",
+		"wordEnglish": "public"
+	},
+	{
+		"wordGerman": "der Schutz",
+		"wordEnglish": "protection"
+	},
+	{
+		"wordGerman": "der Anteil",
+		"wordEnglish": "share, portion"
+	},
+	{
+		"wordGerman": "der/die Beschäftigte",
+		"wordEnglish": "employee"
+	},
+	{
+		"wordGerman": "der Besuch",
+		"wordEnglish": "visit"
+	},
+	{
+		"wordGerman": "die Energie",
+		"wordEnglish": "energy"
+	},
+	{
+		"wordGerman": "die Erklärung",
+		"wordEnglish": "explanation"
+	},
+	{
+		"wordGerman": "der Gang",
+		"wordEnglish": "corridor, aisle, course"
+	},
+	{
+		"wordGerman": "der Lauf",
+		"wordEnglish": "course, running"
+	},
+	{
+		"wordGerman": "der Unterricht",
+		"wordEnglish": "instruction, classes"
+	},
+	{
+		"wordGerman": "das Zentrum",
+		"wordEnglish": "center"
+	},
+	{
+		"wordGerman": "das Amt",
+		"wordEnglish": "office, department, function"
+	},
+	{
+		"wordGerman": "der Anschlag",
+		"wordEnglish": "attack"
+	},
+	{
+		"wordGerman": "das Ausland",
+		"wordEnglish": "foreign countries"
+	},
+	{
+		"wordGerman": "die Behandlung",
+		"wordEnglish": "treatment"
+	},
+	{
+		"wordGerman": "die Einrichtung",
+		"wordEnglish": "institution, furnishings"
+	},
+	{
+		"wordGerman": "das Feld",
+		"wordEnglish": "field"
+	},
+	{
+		"wordGerman": "die Hochschule",
+		"wordEnglish": "college, university"
+	},
+	{
+		"wordGerman": "das Hotel",
+		"wordEnglish": "hotel"
+	},
+	{
+		"wordGerman": "das Publikum",
+		"wordEnglish": "public, audience"
+	},
+	{
+		"wordGerman": "die Studie",
+		"wordEnglish": "study"
+	},
+	{
+		"wordGerman": "der/die Vorsitzende",
+		"wordEnglish": "chairperson"
+	},
+	{
+		"wordGerman": "die Analyse",
+		"wordEnglish": "analysis"
+	},
+	{
+		"wordGerman": "die Spur",
+		"wordEnglish": "track, lane"
+	},
+	{
+		"wordGerman": "der Berg",
+		"wordEnglish": "hill, mountain"
+	},
+	{
+		"wordGerman": "die Erkenntnis",
+		"wordEnglish": "realization, discovery"
+	},
+	{
+		"wordGerman": "der Faktor",
+		"wordEnglish": "factor"
+	},
+	{
+		"wordGerman": "der Fehler",
+		"wordEnglish": "mistake, error"
+	},
+	{
+		"wordGerman": "die Freiheit",
+		"wordEnglish": "freedom"
+	},
+	{
+		"wordGerman": "die Freizeit",
+		"wordEnglish": "spare time"
+	},
+	{
+		"wordGerman": "die Gegend",
+		"wordEnglish": "area, region"
+	},
+	{
+		"wordGerman": "die Kritik",
+		"wordEnglish": "criticism, review"
+	},
+	{
+		"wordGerman": "der Partner",
+		"wordEnglish": "partner"
+	},
+	{
+		"wordGerman": "der See",
+		"wordEnglish": "lake"
+	},
+	{
+		"wordGerman": "die See",
+		"wordEnglish": "sea"
+	},
+	{
+		"wordGerman": "der Typ",
+		"wordEnglish": "type"
+	},
+	{
+		"wordGerman": "das Ereignis",
+		"wordEnglish": "event"
+	},
+	{
+		"wordGerman": "die Kontrolle",
+		"wordEnglish": "inspection"
+	},
+	{
+		"wordGerman": "das Objekt",
+		"wordEnglish": "object"
+	},
+	{
+		"wordGerman": "das Opfer",
+		"wordEnglish": "sacrifice, victim"
+	},
+	{
+		"wordGerman": "der Sprecher",
+		"wordEnglish": "speaker"
+	},
+	{
+		"wordGerman": "der Arbeitsplatz",
+		"wordEnglish": "workplace, job"
+	},
+	{
+		"wordGerman": "die Aufnahme",
+		"wordEnglish": "reception, recording, snapshot"
+	},
+	{
+		"wordGerman": "die Fähigkeit",
+		"wordEnglish": "ability, capability"
+	},
+	{
+		"wordGerman": "die Karte",
+		"wordEnglish": "card, ticket, menu"
+	},
+	{
+		"wordGerman": "der Urlaub",
+		"wordEnglish": "vacation, holiday"
+	},
+	{
+		"wordGerman": "die Verantwortung",
+		"wordEnglish": "responsibility"
+	},
+	{
+		"wordGerman": "die Wahrheit",
+		"wordEnglish": "truth"
+	},
+	{
+		"wordGerman": "das Gebäude",
+		"wordEnglish": "building"
+	},
+	{
+		"wordGerman": "der Gesellschafter",
+		"wordEnglish": "associate, shareholder"
+	},
+	{
+		"wordGerman": "das Jahrzehnt",
+		"wordEnglish": "decade"
+	},
+	{
+		"wordGerman": "der Norden/Nord",
+		"wordEnglish": "north"
+	},
+	{
+		"wordGerman": "das Ohr",
+		"wordEnglish": "ear"
+	},
+	{
+		"wordGerman": "die Prüfung",
+		"wordEnglish": "examination, test"
+	},
+	{
+		"wordGerman": "die Regelung",
+		"wordEnglish": "regulation, settlement"
+	},
+	{
+		"wordGerman": "das Schiff",
+		"wordEnglish": "ship"
+	},
+	{
+		"wordGerman": "die Ausstellung",
+		"wordEnglish": "exhibition"
+	},
+	{
+		"wordGerman": "der Bezug",
+		"wordEnglish": "reference, cover"
+	},
+	{
+		"wordGerman": "die Bitte",
+		"wordEnglish": "request"
+	},
+	{
+		"wordGerman": "die Hoffnung",
+		"wordEnglish": "hope"
+	},
+	{
+		"wordGerman": "der Band",
+		"wordEnglish": "volume, tome"
+	},
+	{
+		"wordGerman": "die Band",
+		"wordEnglish": "band (musical)"
+	},
+	{
+		"wordGerman": "das Band",
+		"wordEnglish": "ribbon, tape"
+	},
+	{
+		"wordGerman": "der Bericht",
+		"wordEnglish": "report"
+	},
+	{
+		"wordGerman": "die Einstellung",
+		"wordEnglish": "attitude, employment"
+	},
+	{
+		"wordGerman": "das Gericht",
+		"wordEnglish": "court, dish"
+	},
+	{
+		"wordGerman": "der Gewinn",
+		"wordEnglish": "profit"
+	},
+	{
+		"wordGerman": "der König",
+		"wordEnglish": "king"
+	},
+	{
+		"wordGerman": "der Sieg",
+		"wordEnglish": "victory"
+	},
+	{
+		"wordGerman": "die Tat",
+		"wordEnglish": "deed"
+	},
+	{
+		"wordGerman": "der Traum",
+		"wordEnglish": "dream"
+	},
+	{
+		"wordGerman": "die Union",
+		"wordEnglish": "union"
+	},
+	{
+		"wordGerman": "der Besucher",
+		"wordEnglish": "visitor"
+	},
+	{
+		"wordGerman": "der Bund",
+		"wordEnglish": "association, alliance"
+	},
+	{
+		"wordGerman": "der Direktor",
+		"wordEnglish": "director"
+	},
+	{
+		"wordGerman": "die Geographie",
+		"wordEnglish": "geography"
+	},
+	{
+		"wordGerman": "der Hintergrund",
+		"wordEnglish": "background"
+	},
+	{
+		"wordGerman": "die Qualität",
+		"wordEnglish": "quality"
+	},
+	{
+		"wordGerman": "der Rand",
+		"wordEnglish": "edge"
+	},
+	{
+		"wordGerman": "die Vergangenheit",
+		"wordEnglish": "past"
+	},
+	{
+		"wordGerman": "der Abschnitt",
+		"wordEnglish": "portion, section"
+	},
+	{
+		"wordGerman": "der Bauer",
+		"wordEnglish": "farmer"
+	},
+	{
+		"wordGerman": "die Ehe",
+		"wordEnglish": "marriage"
+	},
+	{
+		"wordGerman": "die Ursache",
+		"wordEnglish": "cause"
+	},
+	{
+		"wordGerman": "der Verlust",
+		"wordEnglish": "loss"
+	},
+	{
+		"wordGerman": "der Winter",
+		"wordEnglish": "winter"
+	},
+	{
+		"wordGerman": "der Zuschauer",
+		"wordEnglish": "spectator"
+	},
+	{
+		"wordGerman": "die Anzahl",
+		"wordEnglish": "number"
+	},
+	{
+		"wordGerman": "die Insel",
+		"wordEnglish": "island"
+	},
+	{
+		"wordGerman": "das Instrument",
+		"wordEnglish": "instrument"
+	},
+	{
+		"wordGerman": "die Nachricht",
+		"wordEnglish": "news, message"
+	},
+	{
+		"wordGerman": "die Pflanzen",
+		"wordEnglish": "plant"
+	},
+	{
+		"wordGerman": "die Störung",
+		"wordEnglish": "disturbance, interruption"
+	},
+	{
+		"wordGerman": "der Vertreter",
+		"wordEnglish": "representative"
+	},
+	{
+		"wordGerman": "der Vorschlag",
+		"wordEnglish": "suggestion, proposal"
+	},
+	{
+		"wordGerman": "der Zentimeter",
+		"wordEnglish": "centimeter"
+	},
+	{
+		"wordGerman": "der Abstand",
+		"wordEnglish": "distance"
+	},
+	{
+		"wordGerman": "die Bildung",
+		"wordEnglish": "education"
+	},
+	{
+		"wordGerman": "die Eigenschaft",
+		"wordEnglish": "quality"
+	},
+	{
+		"wordGerman": "die Generation",
+		"wordEnglish": "generation"
+	},
+	{
+		"wordGerman": "der Leiter",
+		"wordEnglish": "leader"
+	},
+	{
+		"wordGerman": "die Leiter",
+		"wordEnglish": "ladder"
+	},
+	{
+		"wordGerman": "der Abschluss",
+		"wordEnglish": "end, conclusion"
+	},
+	{
+		"wordGerman": "das Blatt",
+		"wordEnglish": "sheet, leaf"
+	},
+	{
+		"wordGerman": "der Geist",
+		"wordEnglish": "mind, spirit"
+	},
+	{
+		"wordGerman": "das Interview",
+		"wordEnglish": "interview"
+	},
+	{
+		"wordGerman": "das Semester",
+		"wordEnglish": "semester"
+	},
+	{
+		"wordGerman": "der Stand",
+		"wordEnglish": "stand, stage"
+	},
+	{
+		"wordGerman": "die Tradition",
+		"wordEnglish": "tradition"
+	},
+	{
+		"wordGerman": "die Anlage",
+		"wordEnglish": "sport complex, investment, attachment"
+	},
+	{
+		"wordGerman": "die Behörde",
+		"wordEnglish": "department, authorities"
+	},
+	{
+		"wordGerman": "die Bühne",
+		"wordEnglish": "stage"
+	},
+	{
+		"wordGerman": "die Dame",
+		"wordEnglish": "lady"
+	},
+	{
+		"wordGerman": "das Element",
+		"wordEnglish": "element"
+	},
+	{
+		"wordGerman": "die Gelegenheit",
+		"wordEnglish": "opportunity"
+	},
+	{
+		"wordGerman": "der Hof",
+		"wordEnglish": "courtyard, yard"
+	},
+	{
+		"wordGerman": "die Kommunikation",
+		"wordEnglish": "communication"
+	},
+	{
+		"wordGerman": "die Mama",
+		"wordEnglish": "mamma"
+	},
+	{
+		"wordGerman": "das Museum",
+		"wordEnglish": "museum"
+	},
+	{
+		"wordGerman": "die Nutzung",
+		"wordEnglish": "use"
+	},
+	{
+		"wordGerman": "die Basis",
+		"wordEnglish": "basis"
+	},
+	{
+		"wordGerman": "die Ecke",
+		"wordEnglish": "corner"
+	},
+	{
+		"wordGerman": "der Herbst",
+		"wordEnglish": "autumn"
+	},
+	{
+		"wordGerman": "das Kriterium",
+		"wordEnglish": "criterion"
+	},
+	{
+		"wordGerman": "der Terror",
+		"wordEnglish": "terror"
+	},
+	{
+		"wordGerman": "das Verständnis",
+		"wordEnglish": "understanding"
+	},
+	{
+		"wordGerman": "die Zusammenarbeit",
+		"wordEnglish": "cooperation"
+	},
+	{
+		"wordGerman": "die Ansicht",
+		"wordEnglish": "opinion, view"
+	},
+	{
+		"wordGerman": "die Auseinandersetzung",
+		"wordEnglish": "argument, quarrel"
+	},
+	{
+		"wordGerman": "die Bahn",
+		"wordEnglish": "train, railway, way"
+	},
+	{
+		"wordGerman": "die Bürgermeister",
+		"wordEnglish": "mayor"
+	},
+	{
+		"wordGerman": "die Definition",
+		"wordEnglish": "definition"
+	},
+	{
+		"wordGerman": "das Flugzeug",
+		"wordEnglish": "airplane"
+	},
+	{
+		"wordGerman": "das Foto",
+		"wordEnglish": "photograph"
+	},
+	{
+		"wordGerman": "die Masse",
+		"wordEnglish": "mass, crowd"
+	},
+	{
+		"wordGerman": "die Nation",
+		"wordEnglish": "nation"
+	},
+	{
+		"wordGerman": "die Phase",
+		"wordEnglish": "phase"
+	},
+	{
+		"wordGerman": "der Stein",
+		"wordEnglish": "rock, stone"
+	},
+	{
+		"wordGerman": "der Ton",
+		"wordEnglish": "sound, tone, clay"
+	},
+	{
+		"wordGerman": "die Veranstaltung",
+		"wordEnglish": "event"
+	},
+	{
+		"wordGerman": "die Änderung",
+		"wordEnglish": "change"
+	},
+	{
+		"wordGerman": "die Ausnahme",
+		"wordEnglish": "exception"
+	},
+	{
+		"wordGerman": "der Bau",
+		"wordEnglish": "construction, building"
+	},
+	{
+		"wordGerman": "das Hobby",
+		"wordEnglish": "hobby"
+	},
+	{
+		"wordGerman": "der Kaffee",
+		"wordEnglish": "coffee"
+	},
+	{
+		"wordGerman": "der Konflikt",
+		"wordEnglish": "conflict"
+	},
+	{
+		"wordGerman": "die Leitung",
+		"wordEnglish": "management, leadership, pipe"
+	},
+	{
+		"wordGerman": "die Lust",
+		"wordEnglish": "desire"
+	},
+	{
+		"wordGerman": "die Mehrheit",
+		"wordEnglish": "majority"
+	},
+	{
+		"wordGerman": "der Nachmittag",
+		"wordEnglish": "afternoon"
+	},
+	{
+		"wordGerman": "die Rechnung",
+		"wordEnglish": "bill, calculation"
+	},
+	{
+		"wordGerman": "das Schloss",
+		"wordEnglish": "lock, castle"
+	},
+	{
+		"wordGerman": "die Aktivität",
+		"wordEnglish": "activity"
+	},
+	{
+		"wordGerman": "das Dach",
+		"wordEnglish": "roof"
+	},
+	{
+		"wordGerman": "das Fest",
+		"wordEnglish": "festival, celebration"
+	},
+	{
+		"wordGerman": "der Kandidat",
+		"wordEnglish": "candidate"
+	},
+	{
+		"wordGerman": "die Landschaft",
+		"wordEnglish": "landscape, countryside"
+	},
+	{
+		"wordGerman": "die Mannschaft",
+		"wordEnglish": "crew, team"
+	},
+	{
+		"wordGerman": "die Mauer",
+		"wordEnglish": "wall"
+	},
+	{
+		"wordGerman": "die Runde",
+		"wordEnglish": "round"
+	},
+	{
+		"wordGerman": "der Stern",
+		"wordEnglish": "star"
+	},
+	{
+		"wordGerman": "der Experte",
+		"wordEnglish": "expert"
+	},
+	{
+		"wordGerman": "die Gestalt",
+		"wordEnglish": "shape, form, figure"
+	},
+	{
+		"wordGerman": "der Laden",
+		"wordEnglish": "shop"
+	},
+	{
+		"wordGerman": "der Meister",
+		"wordEnglish": "master"
+	},
+	{
+		"wordGerman": "die Stellung",
+		"wordEnglish": "position, standing"
+	},
+	{
+		"wordGerman": "der Zugang",
+		"wordEnglish": "access"
+	},
+	{
+		"wordGerman": "die Branche",
+		"wordEnglish": "sector, line of business"
+	},
+	{
+		"wordGerman": "die Figur",
+		"wordEnglish": "figure"
+	},
+	{
+		"wordGerman": "der Frieden",
+		"wordEnglish": "peace"
+	},
+	{
+		"wordGerman": "die Industrie",
+		"wordEnglish": "industry"
+	},
+	{
+		"wordGerman": "der Umgang",
+		"wordEnglish": "dealings, contact"
+	},
+	{
+		"wordGerman": "der Vorgang",
+		"wordEnglish": "occurrence"
+	},
+	{
+		"wordGerman": "das Wachstum",
+		"wordEnglish": "growth"
+	},
+	{
+		"wordGerman": "das Büro",
+		"wordEnglish": "office"
+	},
+	{
+		"wordGerman": "die Darstellung",
+		"wordEnglish": "presentation, description"
+	},
+	{
+		"wordGerman": "der Fußball",
+		"wordEnglish": "soccer, football"
+	},
+	{
+		"wordGerman": "die Gewalt",
+		"wordEnglish": "violence, force"
+	},
+	{
+		"wordGerman": "die Institution",
+		"wordEnglish": "institution"
+	},
+	{
+		"wordGerman": "die Katze",
+		"wordEnglish": "cat"
+	},
+	{
+		"wordGerman": "der Konzern",
+		"wordEnglish": "business group"
+	},
+	{
+		"wordGerman": "das Lager",
+		"wordEnglish": "camp, storeroom"
+	},
+	{
+		"wordGerman": "die Lehre",
+		"wordEnglish": "apprenticeship, lesson, doctrine"
+	},
+	{
+		"wordGerman": "das Pferd",
+		"wordEnglish": "horse"
+	},
+	{
+		"wordGerman": "der Rat",
+		"wordEnglish": "advice"
+	},
+	{
+		"wordGerman": "der Schatten",
+		"wordEnglish": "shadow, shade"
+	},
+	{
+		"wordGerman": "die Spitze",
+		"wordEnglish": "point, top, peak"
+	},
+	{
+		"wordGerman": "die Strecke",
+		"wordEnglish": "distance, route"
+	},
+	{
+		"wordGerman": "die Szene",
+		"wordEnglish": "scene"
+	},
+	{
+		"wordGerman": "die Weltmeisterschaft",
+		"wordEnglish": "world championship"
+	},
+	{
+		"wordGerman": "das Blut",
+		"wordEnglish": "blood"
+	},
+	{
+		"wordGerman": "die Dauer",
+		"wordEnglish": "length of time"
+	},
+	{
+		"wordGerman": "das Feuer",
+		"wordEnglish": "fire"
+	},
+	{
+		"wordGerman": "das Gymnasium",
+		"wordEnglish": "secondary school"
+	},
+	{
+		"wordGerman": "die Konsequenz",
+		"wordEnglish": "consequence"
+	},
+	{
+		"wordGerman": "die Nase",
+		"wordEnglish": "nose"
+	},
+	{
+		"wordGerman": "der Stuhl",
+		"wordEnglish": "chair"
+	},
+	{
+		"wordGerman": "der Süden/Süd",
+		"wordEnglish": "south"
+	},
+	{
+		"wordGerman": "das Tor",
+		"wordEnglish": "gate, goal"
+	},
+	{
+		"wordGerman": "der Verband",
+		"wordEnglish": "association, bandage"
+	},
+	{
+		"wordGerman": "die Aktie",
+		"wordEnglish": "share"
+	},
+	{
+		"wordGerman": "die Aktion",
+		"wordEnglish": "action, campaign"
+	},
+	{
+		"wordGerman": "der Anlass",
+		"wordEnglish": "occasion, cause"
+	},
+	{
+		"wordGerman": "die Ausgabe",
+		"wordEnglish": "distribution, edition, expenses"
+	},
+	{
+		"wordGerman": "der Ausländer",
+		"wordEnglish": "foreigner"
+	},
+	{
+		"wordGerman": "das Bundesland",
+		"wordEnglish": "state, province"
+	},
+	{
+		"wordGerman": "der Club",
+		"wordEnglish": "club"
+	},
+	{
+		"wordGerman": "der Fluss",
+		"wordEnglish": "river"
+	},
+	{
+		"wordGerman": "die Führung",
+		"wordEnglish": "management, leadership, command"
+	},
+	{
+		"wordGerman": "die Geschwindigkeit",
+		"wordEnglish": "speed"
+	},
+	{
+		"wordGerman": "das Gut",
+		"wordEnglish": "estate, goods"
+	},
+	{
+		"wordGerman": "die Medizin",
+		"wordEnglish": "medicine"
+	},
+	{
+		"wordGerman": "der Nachbar",
+		"wordEnglish": "neighbor"
+	},
+	{
+		"wordGerman": "die Software",
+		"wordEnglish": "software"
+	},
+	{
+		"wordGerman": "die Stufe",
+		"wordEnglish": "step, level"
+	},
+	{
+		"wordGerman": "das Telefon",
+		"wordEnglish": "telephone"
+	},
+	{
+		"wordGerman": "der Terrorismus",
+		"wordEnglish": "terrorism"
+	},
+	{
+		"wordGerman": "der Trainer",
+		"wordEnglish": "coach"
+	},
+	{
+		"wordGerman": "der Zweifel",
+		"wordEnglish": "doubt"
+	},
+	{
+		"wordGerman": "die Anforderung",
+		"wordEnglish": "request, demand"
+	},
+	{
+		"wordGerman": "das Bad",
+		"wordEnglish": "bath, bathroom, spa"
+	},
+	{
+		"wordGerman": "die Belastung",
+		"wordEnglish": "load, strain"
+	},
+	{
+		"wordGerman": "der Bus",
+		"wordEnglish": "bus"
+	},
+	{
+		"wordGerman": "der Effekt",
+		"wordEnglish": "effect"
+	},
+	{
+		"wordGerman": "die Messe",
+		"wordEnglish": "trade fair, mass"
+	},
+	{
+		"wordGerman": "der Umfang",
+		"wordEnglish": "circumference, size, extent"
+	},
+	{
+		"wordGerman": "die Vorschrift",
+		"wordEnglish": "instruction, regulation"
+	},
+	{
+		"wordGerman": "das Fahrrad",
+		"wordEnglish": "bicycle"
+	},
+	{
+		"wordGerman": "die Kommission",
+		"wordEnglish": "commission, committee"
+	},
+	{
+		"wordGerman": "das Krankenhaus",
+		"wordEnglish": "hospital"
+	},
+	{
+		"wordGerman": "der Mangel",
+		"wordEnglish": "lack, shortage, defect"
+	},
+	{
+		"wordGerman": "der Richter",
+		"wordEnglish": "judge"
+	},
+	{
+		"wordGerman": "der Terrorist",
+		"wordEnglish": "terrorist"
+	},
+	{
+		"wordGerman": "das Urteil",
+		"wordEnglish": "sentence, judgement"
+	},
+	{
+		"wordGerman": "der Anbieter",
+		"wordEnglish": "supplier"
+	},
+	{
+		"wordGerman": "die Decke",
+		"wordEnglish": "ceiling, blanket"
+	},
+	{
+		"wordGerman": "der Fisch",
+		"wordEnglish": "fish"
+	},
+	{
+		"wordGerman": "das Fleisch",
+		"wordEnglish": "meat, flesh"
+	},
+	{
+		"wordGerman": "die Jugend",
+		"wordEnglish": "youth"
+	},
+	{
+		"wordGerman": "der Schmerz",
+		"wordEnglish": "pain, grief"
+	},
+	{
+		"wordGerman": "die Schuld",
+		"wordEnglish": "guilt"
+	},
+	{
+		"wordGerman": "die Stimmung",
+		"wordEnglish": "mood, atmosphere"
+	},
+	{
+		"wordGerman": "die Tasche",
+		"wordEnglish": "pocket, bag"
+	},
+	{
+		"wordGerman": "der Wein",
+		"wordEnglish": "wine"
+	},
+	{
+		"wordGerman": "die Welle",
+		"wordEnglish": "wave"
+	},
+	{
+		"wordGerman": "der Wettbewerb",
+		"wordEnglish": "competition"
+	},
+	{
+		"wordGerman": "das Wetter",
+		"wordEnglish": "weather"
+	},
+	{
+		"wordGerman": "die Alternative",
+		"wordEnglish": "alternative"
+	},
+	{
+		"wordGerman": "die Auswirkung",
+		"wordEnglish": "effect"
+	},
+	{
+		"wordGerman": "das Bedürfnis",
+		"wordEnglish": "need"
+	},
+	{
+		"wordGerman": "die Haltung",
+		"wordEnglish": "posture, attitude"
+	},
+	{
+		"wordGerman": "der Leser",
+		"wordEnglish": "reader"
+	},
+	{
+		"wordGerman": "die Tante",
+		"wordEnglish": "aunt"
+	},
+	{
+		"wordGerman": "die Temperatur",
+		"wordEnglish": "temperature"
+	},
+	{
+		"wordGerman": "die Waffe",
+		"wordEnglish": "weapon"
+	},
+	{
+		"wordGerman": "die Ware",
+		"wordEnglish": "goods"
+	},
+	{
+		"wordGerman": "die Ahnung",
+		"wordEnglish": "suspicion, idea"
+	},
+	{
+		"wordGerman": "die Brust",
+		"wordEnglish": "breast, chest"
+	},
+	{
+		"wordGerman": "die Einführung",
+		"wordEnglish": "introduction"
+	},
+	{
+		"wordGerman": "die Fahrt",
+		"wordEnglish": "drive, trip"
+	},
+	{
+		"wordGerman": "die Förderung",
+		"wordEnglish": "support, sponsorship"
+	},
+	{
+		"wordGerman": "das Kleid",
+		"wordEnglish": "dress"
+	},
+	{
+		"wordGerman": "die Koalition",
+		"wordEnglish": "coalition"
+	},
+	{
+		"wordGerman": "die Länge",
+		"wordEnglish": "length"
+	},
+	{
+		"wordGerman": "das Loch",
+		"wordEnglish": "hole"
+	},
+	{
+		"wordGerman": "der Manager",
+		"wordEnglish": "manager"
+	},
+	{
+		"wordGerman": "die Quelle",
+		"wordEnglish": "source, spring"
+	},
+	{
+		"wordGerman": "der Regen",
+		"wordEnglish": "rain"
+	},
+	{
+		"wordGerman": "die Religion",
+		"wordEnglish": "religion"
+	},
+	{
+		"wordGerman": "der Spieler",
+		"wordEnglish": "player"
+	},
+	{
+		"wordGerman": "die Summe",
+		"wordEnglish": "sum"
+	},
+	{
+		"wordGerman": "der Termin",
+		"wordEnglish": "appointment, date"
+	},
+	{
+		"wordGerman": "der Test",
+		"wordEnglish": "test"
+	},
+	{
+		"wordGerman": "der Tourist",
+		"wordEnglish": "tourist"
+	},
+	{
+		"wordGerman": "der Umsatz",
+		"wordEnglish": "turnover, sales"
+	},
+	{
+		"wordGerman": "das Vertrauen",
+		"wordEnglish": "trust, faith"
+	},
+	{
+		"wordGerman": "die Verwendung",
+		"wordEnglish": "use"
+	},
+	{
+		"wordGerman": "der Vorwurf",
+		"wordEnglish": "reproach, accusation"
+	},
+	{
+		"wordGerman": "der Wissenschaftler",
+		"wordEnglish": "scholar, scientist"
+	},
+	{
+		"wordGerman": "das Bier",
+		"wordEnglish": "beer"
+	},
+	{
+		"wordGerman": "die Bundesregierung",
+		"wordEnglish": "federal government"
+	},
+	{
+		"wordGerman": "das Konzert",
+		"wordEnglish": "concert"
+	},
+	{
+		"wordGerman": "die Krise",
+		"wordEnglish": "crisis"
+	},
+	{
+		"wordGerman": "die Landwirtschaft",
+		"wordEnglish": "agriculture"
+	},
+	{
+		"wordGerman": "das Leid",
+		"wordEnglish": "sorrow, grief"
+	},
+	{
+		"wordGerman": "das Lied",
+		"wordEnglish": "song"
+	},
+	{
+		"wordGerman": "das Merkmal",
+		"wordEnglish": "feature"
+	},
+	{
+		"wordGerman": "das Parlament",
+		"wordEnglish": "parliament"
+	},
+	{
+		"wordGerman": "die Pause",
+		"wordEnglish": "pause, break"
+	},
+	{
+		"wordGerman": "die Perspektive",
+		"wordEnglish": "perspective, prospects"
+	},
+	{
+		"wordGerman": "das Phänomen",
+		"wordEnglish": "phenomenon"
+	},
+	{
+		"wordGerman": "die Realität",
+		"wordEnglish": "reality"
+	},
+	{
+		"wordGerman": "die Suche",
+		"wordEnglish": "search"
+	},
+	{
+		"wordGerman": "der Weltkrieg",
+		"wordEnglish": "world war"
+	},
+	{
+		"wordGerman": "der Arbeitgeber",
+		"wordEnglish": "employer"
+	},
+	{
+		"wordGerman": "der Aufbau",
+		"wordEnglish": "construction, structure"
+	},
+	{
+		"wordGerman": "die Bestimmungen",
+		"wordEnglish": "regulation, purpose, fate"
+	},
+	{
+		"wordGerman": "die Botschaft",
+		"wordEnglish": "message"
+	},
+	{
+		"wordGerman": "das Brot",
+		"wordEnglish": "bread"
+	},
+	{
+		"wordGerman": "die Flasche",
+		"wordEnglish": "bottle"
+	},
+	{
+		"wordGerman": "die Formel",
+		"wordEnglish": "formula"
+	},
+	{
+		"wordGerman": "der Fortschritt",
+		"wordEnglish": "progress"
+	},
+	{
+		"wordGerman": "der Geburtstag",
+		"wordEnglish": "birthday"
+	},
+	{
+		"wordGerman": "die Gegenwart",
+		"wordEnglish": "present"
+	},
+	{
+		"wordGerman": "die Hauptstadt",
+		"wordEnglish": "capital city"
+	},
+	{
+		"wordGerman": "die Mühe",
+		"wordEnglish": "effort, trouble"
+	},
+	{
+		"wordGerman": "die Nachfrage",
+		"wordEnglish": "demand"
+	},
+	{
+		"wordGerman": "die Pflicht",
+		"wordEnglish": "duty"
+	},
+	{
+		"wordGerman": "der Studiengang",
+		"wordEnglish": "course of study"
+	},
+	{
+		"wordGerman": "der Teilnehmer",
+		"wordEnglish": "participant"
+	},
+	{
+		"wordGerman": "der Wille",
+		"wordEnglish": "will"
+	},
+	{
+		"wordGerman": "die Debatte",
+		"wordEnglish": "debate"
+	},
+	{
+		"wordGerman": "die Fremdsprache",
+		"wordEnglish": "foreign language"
+	},
+	{
+		"wordGerman": "der Gegner",
+		"wordEnglish": "opponent, competitor, enemy"
+	},
+	{
+		"wordGerman": "die Hinsicht",
+		"wordEnglish": "respect"
+	},
+	{
+		"wordGerman": "der Käufer",
+		"wordEnglish": "buyer"
+	},
+	{
+		"wordGerman": "das Kilogramm",
+		"wordEnglish": "kilogram"
+	},
+	{
+		"wordGerman": "die Verwaltung",
+		"wordEnglish": "administration"
+	},
+	{
+		"wordGerman": "die Weile",
+		"wordEnglish": "while"
+	},
+	{
+		"wordGerman": "die Adresse",
+		"wordEnglish": "address"
+	},
+	{
+		"wordGerman": "der Betrag",
+		"wordEnglish": "amount"
+	},
+	{
+		"wordGerman": "der Hals",
+		"wordEnglish": "neck, throat"
+	},
+	{
+		"wordGerman": "die Heimat",
+		"wordEnglish": "home, homeland"
+	},
+	{
+		"wordGerman": "der Kauf",
+		"wordEnglish": "purchase"
+	},
+	{
+		"wordGerman": "das Kino",
+		"wordEnglish": "cinema, movie theater"
+	},
+	{
+		"wordGerman": "die Konkurrenz",
+		"wordEnglish": "competition"
+	},
+	{
+		"wordGerman": "die Mathematik",
+		"wordEnglish": "mathematics"
+	},
+	{
+		"wordGerman": "die Schicht",
+		"wordEnglish": "layer, class"
+	},
+	{
+		"wordGerman": "der Schwerpunkt",
+		"wordEnglish": "main emphasis, center of gravity"
+	},
+	{
+		"wordGerman": "der Streit",
+		"wordEnglish": "argument, fight"
+	},
+	{
+		"wordGerman": "die Verhandlung",
+		"wordEnglish": "negotiation"
+	},
+	{
+		"wordGerman": "der Ablauf",
+		"wordEnglish": "expiry, action"
+	},
+	{
+		"wordGerman": "der Arbeitnehmer",
+		"wordEnglish": "employee"
+	},
+	{
+		"wordGerman": "das Drittel",
+		"wordEnglish": "third"
+	},
+	{
+		"wordGerman": "der/die Erwachsene",
+		"wordEnglish": "adult, grown-up"
+	},
+	{
+		"wordGerman": "der Fahrer",
+		"wordEnglish": "driver"
+	},
+	{
+		"wordGerman": "das Gegenteil",
+		"wordEnglish": "opposite"
+	},
+	{
+		"wordGerman": "die Gemeinschaft",
+		"wordEnglish": "community"
+	},
+	{
+		"wordGerman": "die Gewerkschaft",
+		"wordEnglish": "trade union"
+	},
+	{
+		"wordGerman": "der Handel",
+		"wordEnglish": "trade"
+	},
+	{
+		"wordGerman": "der Kanzler",
+		"wordEnglish": "chancellor"
+	},
+	{
+		"wordGerman": "das Management",
+		"wordEnglish": "management"
+	},
+	{
+		"wordGerman": "der Millimeter",
+		"wordEnglish": "millimeter"
+	},
+	{
+		"wordGerman": "der Minister",
+		"wordEnglish": "minister"
+	},
+	{
+		"wordGerman": "der Nachteil",
+		"wordEnglish": "disadvantage"
+	},
+	{
+		"wordGerman": "die Platte",
+		"wordEnglish": "disk, record, plate"
+	},
+	{
+		"wordGerman": "der Sitz",
+		"wordEnglish": "seat, headquarters"
+	},
+	{
+		"wordGerman": "der Start",
+		"wordEnglish": "start, take-off, launch"
+	},
+	{
+		"wordGerman": "die Tabelle",
+		"wordEnglish": "table, chart"
+	},
+	{
+		"wordGerman": "der Tourismus",
+		"wordEnglish": "tourism"
+	},
+	{
+		"wordGerman": "der Verdacht",
+		"wordEnglish": "suspicion"
+	},
+	{
+		"wordGerman": "der Vogel",
+		"wordEnglish": "bird"
+	},
+	{
+		"wordGerman": "der Widerstand",
+		"wordEnglish": "resistance, opposition"
+	},
+	{
+		"wordGerman": "der/die Beamte",
+		"wordEnglish": "official, civil servant"
+	},
+	{
+		"wordGerman": "die Investition",
+		"wordEnglish": "investment"
+	},
+	{
+		"wordGerman": "die Planung",
+		"wordEnglish": "planning, plan"
+	},
+	{
+		"wordGerman": "der Polizist",
+		"wordEnglish": "policeman"
+	},
+	{
+		"wordGerman": "der Schriftsteller",
+		"wordEnglish": "writer"
+	},
+	{
+		"wordGerman": "die Stärke",
+		"wordEnglish": "strength"
+	},
+	{
+		"wordGerman": "die Steuer",
+		"wordEnglish": "tax"
+	},
+	{
+		"wordGerman": "das Steuer",
+		"wordEnglish": "steering wheel, helm"
+	},
+	{
+		"wordGerman": "die Therapie",
+		"wordEnglish": "therapy"
+	},
+	{
+		"wordGerman": "die Überlegung",
+		"wordEnglish": "thought, thinking"
+	},
+	{
+		"wordGerman": "der Verkehr",
+		"wordEnglish": "traffic"
+	},
+	{
+		"wordGerman": "die Verletzung",
+		"wordEnglish": "injury"
+	},
+	{
+		"wordGerman": "der/die Abgeordnete",
+		"wordEnglish": "member of the parliament, congress"
+	},
+	{
+		"wordGerman": "der Anschluss",
+		"wordEnglish": "connection"
+	},
+	{
+		"wordGerman": "die Armee",
+		"wordEnglish": "army"
+	},
+	{
+		"wordGerman": "die Atmosphäre",
+		"wordEnglish": "atmosphere"
+	},
+	{
+		"wordGerman": "die Auswahl",
+		"wordEnglish": "choice, selection"
+	},
+	{
+		"wordGerman": "die Beschreibung",
+		"wordEnglish": "description"
+	},
+	{
+		"wordGerman": "das Boot",
+		"wordEnglish": "boat"
+	},
+	{
+		"wordGerman": "die Einnahmen",
+		"wordEnglish": "income, receipts, revenue"
+	},
+	{
+		"wordGerman": "die Erkrankung",
+		"wordEnglish": "illness, disease"
+	},
+	{
+		"wordGerman": "die Fläche",
+		"wordEnglish": "area, surface"
+	},
+	{
+		"wordGerman": "der Flughafen",
+		"wordEnglish": "airport"
+	},
+	{
+		"wordGerman": "das Gehirn",
+		"wordEnglish": "brain"
+	},
+	{
+		"wordGerman": "die Gesundheit",
+		"wordEnglish": "health"
+	},
+	{
+		"wordGerman": "der Park",
+		"wordEnglish": "park"
+	},
+	{
+		"wordGerman": "der PC",
+		"wordEnglish": "computer"
+	},
+	{
+		"wordGerman": "die Physik",
+		"wordEnglish": "physics"
+	},
+	{
+		"wordGerman": "die Post",
+		"wordEnglish": "mail, post office"
+	},
+	{
+		"wordGerman": "die Saison",
+		"wordEnglish": "season"
+	},
+	{
+		"wordGerman": "die Stirn",
+		"wordEnglish": "forehead"
+	},
+	{
+		"wordGerman": "die Strategie",
+		"wordEnglish": "strategy"
+	},
+	{
+		"wordGerman": "der Wechsel",
+		"wordEnglish": "change"
+	},
+	{
+		"wordGerman": "der Alltag",
+		"wordEnglish": "workday, daily routine"
+	},
+	{
+		"wordGerman": "der Auftritt",
+		"wordEnglish": "appearance, entrance"
+	},
+	{
+		"wordGerman": "der Bahnhof",
+		"wordEnglish": "railway station"
+	},
+	{
+		"wordGerman": "der Bundeskanzler",
+		"wordEnglish": "federal chancellor"
+	},
+	{
+		"wordGerman": "die Demokratie",
+		"wordEnglish": "democracy"
+	},
+	{
+		"wordGerman": "die Erwartung",
+		"wordEnglish": "expectation"
+	},
+	{
+		"wordGerman": "das Fahrzeug",
+		"wordEnglish": "vehicle"
+	},
+	{
+		"wordGerman": "die Fotografie",
+		"wordEnglish": "photography"
+	},
+	{
+		"wordGerman": "der Hersteller",
+		"wordEnglish": "manufacturer, producer"
+	},
+	{
+		"wordGerman": "das Holz",
+		"wordEnglish": "wood"
+	},
+	{
+		"wordGerman": "das Knie",
+		"wordEnglish": "knee"
+	},
+	{
+		"wordGerman": "die Kombination",
+		"wordEnglish": "combination"
+	},
+	{
+		"wordGerman": "die Liste",
+		"wordEnglish": "list"
+	},
+	{
+		"wordGerman": "das Niveau",
+		"wordEnglish": "level, standard"
+	},
+	{
+		"wordGerman": "der Pfarrer",
+		"wordEnglish": "pastor"
+	},
+	{
+		"wordGerman": "das Schicksal",
+		"wordEnglish": "fate"
+	},
+	{
+		"wordGerman": "die Schrift",
+		"wordEnglish": "script, handwriting"
+	},
+	{
+		"wordGerman": "der Standort",
+		"wordEnglish": "site, location"
+	},
+	{
+		"wordGerman": "der Verlag",
+		"wordEnglish": "publishing company"
+	},
+	{
+		"wordGerman": "der Zeltraum",
+		"wordEnglish": "period of time"
+	},
+	{
+		"wordGerman": "die Abteilung",
+		"wordEnglish": "department"
+	},
+	{
+		"wordGerman": "der Beweis",
+		"wordEnglish": "proof, evidence"
+	},
+	{
+		"wordGerman": "das Detail",
+		"wordEnglish": "detail"
+	},
+	{
+		"wordGerman": "die Dimension",
+		"wordEnglish": "dimension"
+	},
+	{
+		"wordGerman": "der Forscher",
+		"wordEnglish": "researcher"
+	},
+	{
+		"wordGerman": "die Integration",
+		"wordEnglish": "integration"
+	},
+	{
+		"wordGerman": "die Kasse",
+		"wordEnglish": "cash register, checkout"
+	},
+	{
+		"wordGerman": "die Kategorie",
+		"wordEnglish": "category"
+	},
+	{
+		"wordGerman": "der Organismus",
+		"wordEnglish": "organism"
+	},
+	{
+		"wordGerman": "das Radio",
+		"wordEnglish": "radio"
+	},
+	{
+		"wordGerman": "der Unfall",
+		"wordEnglish": "accident"
+	},
+	{
+		"wordGerman": "die Verbesserung",
+		"wordEnglish": "improvement"
+	},
+	{
+		"wordGerman": "die Verpflichtung",
+		"wordEnglish": "commitment, obligation"
+	},
+	{
+		"wordGerman": "das Abitur",
+		"wordEnglish": "school leaving exam, A levels"
+	},
+	{
+		"wordGerman": "der Bedarf",
+		"wordEnglish": "need, demand"
+	},
+	{
+		"wordGerman": "die Beratung",
+		"wordEnglish": "advice, discussion, consultation"
+	},
+	{
+		"wordGerman": "die Beschäftigung",
+		"wordEnglish": "employment, job, activity, occupation"
+	},
+	{
+		"wordGerman": "die Betrachtung",
+		"wordEnglish": "contemplation, examination"
+	},
+	{
+		"wordGerman": "das Frühjahr",
+		"wordEnglish": "spring"
+	},
+	{
+		"wordGerman": "das Gewicht",
+		"wordEnglish": "weight"
+	},
+	{
+		"wordGerman": "der Journalist",
+		"wordEnglish": "journalist"
+	},
+	{
+		"wordGerman": "die Kompetenz",
+		"wordEnglish": "competence, authority"
+	},
+	{
+		"wordGerman": "das Lebensmittel",
+		"wordEnglish": "food"
+	},
+	{
+		"wordGerman": "der Mittelpunkt",
+		"wordEnglish": "midpoint, center of focus"
+	},
+	{
+		"wordGerman": "der Spiegel",
+		"wordEnglish": "mirror"
+	},
+	{
+		"wordGerman": "der Strand",
+		"wordEnglish": "beach"
+	},
+	{
+		"wordGerman": "die Treppe",
+		"wordEnglish": "stairs"
+	},
+	{
+		"wordGerman": "das Vermögen",
+		"wordEnglish": "assets, fortune, ability"
+	},
+	{
+		"wordGerman": "das Wesen",
+		"wordEnglish": "being, creature, nature"
+	},
+	{
+		"wordGerman": "die Arbeitslosigkeit",
+		"wordEnglish": "unemployment"
+	},
+	{
+		"wordGerman": "die Beobachtung",
+		"wordEnglish": "observation"
+	},
+	{
+		"wordGerman": "der Bestandteil",
+		"wordEnglish": "component"
+	},
+	{
+		"wordGerman": "die Beteiligung",
+		"wordEnglish": "participation"
+	},
+	{
+		"wordGerman": "die Bewertung",
+		"wordEnglish": "assessment"
+	},
+	{
+		"wordGerman": "die Bezeichnung",
+		"wordEnglish": "name, term"
+	},
+	{
+		"wordGerman": "die Brücke",
+		"wordEnglish": "bridge"
+	},
+	{
+		"wordGerman": "die CD",
+		"wordEnglish": "CD"
+	},
+	{
+		"wordGerman": "der Gebrauch",
+		"wordEnglish": "use"
+	},
+	{
+		"wordGerman": "der Geschäftsführer",
+		"wordEnglish": "manager"
+	},
+	{
+		"wordGerman": "die Lippe",
+		"wordEnglish": "lip"
+	},
+	{
+		"wordGerman": "der Ministerpräsident",
+		"wordEnglish": "governor, minister, president"
+	},
+	{
+		"wordGerman": "der Nutzen",
+		"wordEnglish": "benefit, profit, use"
+	},
+	{
+		"wordGerman": "der Ruf",
+		"wordEnglish": "reputation, call"
+	},
+	{
+		"wordGerman": "das Signal",
+		"wordEnglish": "signal"
+	},
+	{
+		"wordGerman": "der Standard",
+		"wordEnglish": "standard"
+	},
+	{
+		"wordGerman": "der Start",
+		"wordEnglish": "star, starling"
+	},
+	{
+		"wordGerman": "die Substanz",
+		"wordEnglish": "substance"
+	},
+	{
+		"wordGerman": "die Taste",
+		"wordEnglish": "key, button"
+	},
+	{
+		"wordGerman": "das Teilchen",
+		"wordEnglish": "particle"
+	},
+	{
+		"wordGerman": "die Versicherung",
+		"wordEnglish": "insurance, assurance"
+	},
+	{
+		"wordGerman": "die Vorbereitung",
+		"wordEnglish": "preparation"
+	},
+	{
+		"wordGerman": "der Vordergrund",
+		"wordEnglish": "foreground"
+	},
+	{
+		"wordGerman": "der Anwalt",
+		"wordEnglish": "attorney, lawyer"
+	},
+	{
+		"wordGerman": "das Experiment",
+		"wordEnglish": "experiment"
+	},
+	{
+		"wordGerman": "der Glauben",
+		"wordEnglish": "faith, belief"
+	},
+	{
+		"wordGerman": "der Grundsatz",
+		"wordEnglish": "principle"
+	},
+	{
+		"wordGerman": "die Komponente",
+		"wordEnglish": "component"
+	},
+	{
+		"wordGerman": "die Oberfläche",
+		"wordEnglish": "surface"
+	},
+	{
+		"wordGerman": "das Reich",
+		"wordEnglish": "empire, kingdom"
+	},
+	{
+		"wordGerman": "das Rennen",
+		"wordEnglish": "race"
+	},
+	{
+		"wordGerman": "der Schlag",
+		"wordEnglish": "blow"
+	},
+	{
+		"wordGerman": "der Schuh",
+		"wordEnglish": "shoe"
+	},
+	{
+		"wordGerman": "das Seminar",
+		"wordEnglish": "seminar"
+	},
+	{
+		"wordGerman": "die Sendung",
+		"wordEnglish": "broadcast"
+	},
+	{
+		"wordGerman": "die Spannung",
+		"wordEnglish": "suspense, tension"
+	},
+	{
+		"wordGerman": "die Technologie",
+		"wordEnglish": "technology"
+	},
+	{
+		"wordGerman": "die Truppe",
+		"wordEnglish": "troops, unit"
+	},
+	{
+		"wordGerman": "das Umfeld",
+		"wordEnglish": "milieu"
+	},
+	{
+		"wordGerman": "der Verbraucher",
+		"wordEnglish": "consumer"
+	},
+	{
+		"wordGerman": "der Verkauf",
+		"wordEnglish": "sale"
+	},
+	{
+		"wordGerman": "das Viertel",
+		"wordEnglish": "quarter, district"
+	},
+	{
+		"wordGerman": "das Vorjahr",
+		"wordEnglish": "previous year"
+	},
+	{
+		"wordGerman": "die Bilanz",
+		"wordEnglish": "balance sheet"
+	},
+	{
+		"wordGerman": "das Erlebnis",
+		"wordEnglish": "experience"
+	},
+	{
+		"wordGerman": "das Grundstück",
+		"wordEnglish": "plot of land"
+	},
+	{
+		"wordGerman": "die Identität",
+		"wordEnglish": "identity"
+	},
+	{
+		"wordGerman": "die Kamera",
+		"wordEnglish": "camera"
+	},
+	{
+		"wordGerman": "der Kanal",
+		"wordEnglish": "canal, channel"
+	},
+	{
+		"wordGerman": "die Karriere",
+		"wordEnglish": "career"
+	},
+	{
+		"wordGerman": "der Kredit",
+		"wordEnglish": "credit"
+	},
+	{
+		"wordGerman": "das Quartal",
+		"wordEnglish": "quarter of the year"
+	},
+	{
+		"wordGerman": "das Rad",
+		"wordEnglish": "wheel"
+	},
+	{
+		"wordGerman": "der Rechner",
+		"wordEnglish": "computer, calculator"
+	},
+	{
+		"wordGerman": "der Schlaf",
+		"wordEnglish": "sleep"
+	},
+	{
+		"wordGerman": "der Sender",
+		"wordEnglish": "broadcasting station"
+	},
+	{
+		"wordGerman": "das Tal",
+		"wordEnglish": "valley"
+	},
+	{
+		"wordGerman": "die Tiefe",
+		"wordEnglish": "depth"
+	},
+	{
+		"wordGerman": "das TV",
+		"wordEnglish": "TV"
+	},
+	{
+		"wordGerman": "der Verlauf",
+		"wordEnglish": "course"
+	},
+	{
+		"wordGerman": "die Zigarette",
+		"wordEnglish": "cigarette"
+	},
+	{
+		"wordGerman": "der Aktionär",
+		"wordEnglish": "shareholder"
+	},
+	{
+		"wordGerman": "der Atem",
+		"wordEnglish": "breath"
+	},
+	{
+		"wordGerman": "die Auffassung",
+		"wordEnglish": "point of view"
+	},
+	{
+		"wordGerman": "der Bewohner",
+		"wordEnglish": "inhabitant, occupant"
+	},
+	{
+		"wordGerman": "der Charakter",
+		"wordEnglish": "character"
+	},
+	{
+		"wordGerman": "das Einkommen",
+		"wordEnglish": "income"
+	},
+	{
+		"wordGerman": "die Erziehung",
+		"wordEnglish": "upbringing, education"
+	},
+	{
+		"wordGerman": "die Geburt",
+		"wordEnglish": "birth"
+	},
+	{
+		"wordGerman": "die Halle",
+		"wordEnglish": "hall"
+	},
+	{
+		"wordGerman": "die Herausforderung",
+		"wordEnglish": "challenge"
+	},
+	{
+		"wordGerman": "die Informationstechnologie",
+		"wordEnglish": "information technology"
+	},
+	{
+		"wordGerman": "der Mittag",
+		"wordEnglish": "noon, midday"
+	},
+	{
+		"wordGerman": "die Niederlage",
+		"wordEnglish": "defeat"
+	},
+	{
+		"wordGerman": "die Norm",
+		"wordEnglish": "norm"
+	},
+	{
+		"wordGerman": "die Reform",
+		"wordEnglish": "reform"
+	},
+	{
+		"wordGerman": "das Restaurant",
+		"wordEnglish": "restaurant"
+	},
+	{
+		"wordGerman": "der Schauspieler",
+		"wordEnglish": "actor"
+	},
+	{
+		"wordGerman": "der Schnee",
+		"wordEnglish": "snow"
+	},
+	{
+		"wordGerman": "die Schülerin",
+		"wordEnglish": "schoolgirl"
+	},
+	{
+		"wordGerman": "der Service",
+		"wordEnglish": "service"
+	},
+	{
+		"wordGerman": "die Sitzung",
+		"wordEnglish": "meeting, session"
+	},
+	{
+		"wordGerman": "der Sturm",
+		"wordEnglish": "storm"
+	},
+	{
+		"wordGerman": "die Träne",
+		"wordEnglish": "tear"
+	},
+	{
+		"wordGerman": "die Trauer",
+		"wordEnglish": "grief"
+	},
+	{
+		"wordGerman": "der Vorstand",
+		"wordEnglish": "board, chairperson"
+	},
+	{
+		"wordGerman": "der Zufall",
+		"wordEnglish": "chance, coincidence"
+	},
+	{
+		"wordGerman": "die Zustimmung",
+		"wordEnglish": "approval"
+	},
+	{
+		"wordGerman": "der/die Angehörige",
+		"wordEnglish": "member, relative"
+	},
+	{
+		"wordGerman": "die Annahme",
+		"wordEnglish": "acceptance, assumption"
+	},
+	{
+		"wordGerman": "das Argument",
+		"wordEnglish": "argument"
+	},
+	{
+		"wordGerman": "das Arzneimittel",
+		"wordEnglish": "medicine"
+	},
+	{
+		"wordGerman": "der Außenminister",
+		"wordEnglish": "foreign minister"
+	},
+	{
+		"wordGerman": "der Benutzer",
+		"wordEnglish": "user"
+	},
+	{
+		"wordGerman": "der Bescheid",
+		"wordEnglish": "information, reply"
+	},
+	{
+		"wordGerman": "die Blume",
+		"wordEnglish": "flower"
+	},
+	{
+		"wordGerman": "die Bundeswehr",
+		"wordEnglish": "Armed Forces"
+	},
+	{
+		"wordGerman": "die Disziplin",
+		"wordEnglish": "discipline"
+	},
+	{
+		"wordGerman": "die Existenz",
+		"wordEnglish": "existence"
+	},
+	{
+		"wordGerman": "die Fraktion",
+		"wordEnglish": "parliamentary party"
+	},
+	{
+		"wordGerman": "das Grundgesetz",
+		"wordEnglish": "basic law"
+	},
+	{
+		"wordGerman": "der Händler",
+		"wordEnglish": "trader, dealer, retailer"
+	},
+	{
+		"wordGerman": "der Hinblick",
+		"wordEnglish": "view"
+	},
+	{
+		"wordGerman": "das Individuum",
+		"wordEnglish": "individual"
+	},
+	{
+		"wordGerman": "die Katastrophe",
+		"wordEnglish": "catastrophe"
+	},
+	{
+		"wordGerman": "das Motiv",
+		"wordEnglish": "motive"
+	},
+	{
+		"wordGerman": "der Musiker",
+		"wordEnglish": "musician"
+	},
+	{
+		"wordGerman": "die Opposition",
+		"wordEnglish": "opposition"
+	},
+	{
+		"wordGerman": "der Papa",
+		"wordEnglish": "daddy"
+	},
+	{
+		"wordGerman": "das Personal",
+		"wordEnglish": "staff"
+	},
+	{
+		"wordGerman": "der Sand",
+		"wordEnglish": "sand"
+	},
+	{
+		"wordGerman": "die Station",
+		"wordEnglish": "station"
+	},
+	{
+		"wordGerman": "die Tendenz",
+		"wordEnglish": "trend"
+	},
+	{
+		"wordGerman": "das Training",
+		"wordEnglish": "training"
+	},
+	{
+		"wordGerman": "die Umsetzung",
+		"wordEnglish": "transfer, implementation"
+	},
+	{
+		"wordGerman": "der Verkäufer",
+		"wordEnglish": "salesman"
+	},
+	{
+		"wordGerman": "die Versorgung",
+		"wordEnglish": "supply, care"
+	},
+	{
+		"wordGerman": "der Wandel",
+		"wordEnglish": "change"
+	},
+	{
+		"wordGerman": "das Wunder",
+		"wordEnglish": "miracle"
+	},
+	{
+		"wordGerman": "die Angelegenheit",
+		"wordEnglish": "matter, affair"
+	},
+	{
+		"wordGerman": "die Auskunft",
+		"wordEnglish": "information"
+	},
+	{
+		"wordGerman": "das Ausmaß",
+		"wordEnglish": "extent, size"
+	},
+	{
+		"wordGerman": "die Begründung",
+		"wordEnglish": "explanation, justification"
+	},
+	{
+		"wordGerman": "das Engagement",
+		"wordEnglish": "commitment"
+	},
+	{
+		"wordGerman": "die Entfernung",
+		"wordEnglish": "distance"
+	},
+	{
+		"wordGerman": "der Fleck",
+		"wordEnglish": "stain"
+	},
+	{
+		"wordGerman": "die Handlung",
+		"wordEnglish": "action, plot"
+	},
+	{
+		"wordGerman": "das Immunsystem",
+		"wordEnglish": "immune system"
+	},
+	{
+		"wordGerman": "der Koffer",
+		"wordEnglish": "suitcase"
+	},
+	{
+		"wordGerman": "die Not",
+		"wordEnglish": "need, trouble"
+	},
+	{
+		"wordGerman": "die Persönlichkeit",
+		"wordEnglish": "personality, celebrity"
+	},
+	{
+		"wordGerman": "der Schlüssel",
+		"wordEnglish": "key"
+	},
+	{
+		"wordGerman": "der Schreibtisch",
+		"wordEnglish": "desk"
+	},
+	{
+		"wordGerman": "die Seele",
+		"wordEnglish": "soul, mind"
+	},
+	{
+		"wordGerman": "der Unternehmer",
+		"wordEnglish": "employer"
+	},
+	{
+		"wordGerman": "die Unternehmung",
+		"wordEnglish": "undertaking, venture"
+	},
+	{
+		"wordGerman": "die Vereinbarung",
+		"wordEnglish": "agreement"
+	},
+	{
+		"wordGerman": "das Video",
+		"wordEnglish": "video"
+	},
+	{
+		"wordGerman": "die Wahrnehmung",
+		"wordEnglish": "perception"
+	},
+	{
+		"wordGerman": "der/die Angestellte",
+		"wordEnglish": "employee"
+	},
+	{
+		"wordGerman": "die Äußerung",
+		"wordEnglish": "comment"
+	},
+	{
+		"wordGerman": "die Begegnung",
+		"wordEnglish": "encounter, meeting"
+	},
+	{
+		"wordGerman": "das Café",
+		"wordEnglish": "coffee house"
+	},
+	{
+		"wordGerman": "die Datei",
+		"wordEnglish": "data file"
+	},
+	{
+		"wordGerman": "die Dienstleistung",
+		"wordEnglish": "service"
+	},
+	{
+		"wordGerman": "die Erzählung",
+		"wordEnglish": "narration, story"
+	},
+	{
+		"wordGerman": "die Ferne",
+		"wordEnglish": "distance"
+	},
+	{
+		"wordGerman": "das Gedicht",
+		"wordEnglish": "poem"
+	},
+	{
+		"wordGerman": "die Gründung",
+		"wordEnglish": "foundation"
+	},
+	{
+		"wordGerman": "der Keller",
+		"wordEnglish": "cellar"
+	},
+	{
+		"wordGerman": "das Konto",
+		"wordEnglish": "account"
+	},
+	{
+		"wordGerman": "die Operation",
+		"wordEnglish": "operation"
+	},
+	{
+		"wordGerman": "die Qualifikation",
+		"wordEnglish": "qualification"
+	},
+	{
+		"wordGerman": "die Sammlung",
+		"wordEnglish": "collection"
+	},
+	{
+		"wordGerman": "die Tonne",
+		"wordEnglish": "ton, barrel"
+	},
+	{
+		"wordGerman": "der Träger",
+		"wordEnglish": "holder, responsible body"
+	},
+	{
+		"wordGerman": "der Trend",
+		"wordEnglish": "trend"
+	},
+	{
+		"wordGerman": "die Variante",
+		"wordEnglish": "variant, variation"
+	},
+	{
+		"wordGerman": "der/die Verwandte",
+		"wordEnglish": "relative"
+	},
+	{
+		"wordGerman": "die Vielfalt",
+		"wordEnglish": "diversity"
+	},
+	{
+		"wordGerman": "die Vielzahl",
+		"wordEnglish": "multitude"
+	},
+	{
+		"wordGerman": "die Zahlung",
+		"wordEnglish": "payment"
+	},
+	{
+		"wordGerman": "der Arbeiter",
+		"wordEnglish": "worker"
+	},
+	{
+		"wordGerman": "der Aufwand",
+		"wordEnglish": "expense, effort"
+	},
+	{
+		"wordGerman": "die Aufwendungen",
+		"wordEnglish": "expenditure"
+	},
+	{
+		"wordGerman": "der Bauch",
+		"wordEnglish": "belly"
+	},
+	{
+		"wordGerman": "die Berechnung",
+		"wordEnglish": "calculation"
+	},
+	{
+		"wordGerman": "der Bestandteil",
+		"wordEnglish": "continuation, stock, supply"
+	},
+	{
+		"wordGerman": "das Entwicklungsland",
+		"wordEnglish": "developing nation"
+	},
+	{
+		"wordGerman": "der Entwurf",
+		"wordEnglish": "sketch, design, draft"
+	},
+	{
+		"wordGerman": "die Fachhochschule",
+		"wordEnglish": "technical college"
+	},
+	{
+		"wordGerman": "der Fernseher",
+		"wordEnglish": "television"
+	},
+	{
+		"wordGerman": "die Finanzierung",
+		"wordEnglish": "financing"
+	},
+	{
+		"wordGerman": "die Hose",
+		"wordEnglish": "trousers, pants"
+	},
+	{
+		"wordGerman": "der Impuls",
+		"wordEnglish": "stimulus, impulse"
+	},
+	{
+		"wordGerman": "das Kapital",
+		"wordEnglish": "capital"
+	},
+	{
+		"wordGerman": "der Kern",
+		"wordEnglish": "seed, core, nucleus"
+	},
+	{
+		"wordGerman": "der Motor",
+		"wordEnglish": "motor, engine"
+	},
+	{
+		"wordGerman": "der Rang",
+		"wordEnglish": "standing, status"
+	},
+	{
+		"wordGerman": "der Regisseur",
+		"wordEnglish": "director"
+	},
+	{
+		"wordGerman": "die Republik",
+		"wordEnglish": "republic"
+	},
+	{
+		"wordGerman": "das Salz",
+		"wordEnglish": "salt"
+	},
+	{
+		"wordGerman": "der Stil",
+		"wordEnglish": "style"
+	},
+	{
+		"wordGerman": "die Vermittlung",
+		"wordEnglish": "negotiation, placement"
+	},
+	{
+		"wordGerman": "der Wahlkampf",
+		"wordEnglish": "election campaign"
+	},
+	{
+		"wordGerman": "die Wolke",
+		"wordEnglish": "cloud"
+	},
+	{
+		"wordGerman": "der Zahn",
+		"wordEnglish": "tooth"
+	},
+	{
+		"wordGerman": "die Anstrengung",
+		"wordEnglish": "effort"
+	},
+	{
+		"wordGerman": "die Behinderung",
+		"wordEnglish": "obstruction, handicap"
+	},
+	{
+		"wordGerman": "die Berücksichtigung",
+		"wordEnglish": "consideration"
+	},
+	{
+		"wordGerman": "der Bord",
+		"wordEnglish": "board"
+	},
+	{
+		"wordGerman": "der Dichter",
+		"wordEnglish": "writer, poet"
+	},
+	{
+		"wordGerman": "der Eingriff",
+		"wordEnglish": "intervention, interference"
+	},
+	{
+		"wordGerman": "der Einwohner",
+		"wordEnglish": "inhabitant"
+	},
+	{
+		"wordGerman": "der Fan",
+		"wordEnglish": "fan, supporter"
+	},
+	{
+		"wordGerman": "die Hütte",
+		"wordEnglish": "hut, cabin"
+	},
+	{
+		"wordGerman": "die Kooperation",
+		"wordEnglish": "cooperation"
+	},
+	{
+		"wordGerman": "die Stasi",
+		"wordEnglish": "state security service"
+	},
+	{
+		"wordGerman": "das Symbol",
+		"wordEnglish": "symbol"
+	},
+	{
+		"wordGerman": "der Täter",
+		"wordEnglish": "culprit, perpetrator"
+	},
+	{
+		"wordGerman": "die Tour",
+		"wordEnglish": "tour, trip"
+	},
+	{
+		"wordGerman": "die Trennung",
+		"wordEnglish": "separation"
+	},
+	{
+		"wordGerman": "die Übertragung",
+		"wordEnglish": "transmission, broadcast"
+	},
+	{
+		"wordGerman": "die Verfassung",
+		"wordEnglish": "constitution"
+	},
+	{
+		"wordGerman": "die Zeitschrift",
+		"wordEnglish": "magazine, journal"
+	},
+	{
+		"wordGerman": "die Absicht",
+		"wordEnglish": "intention"
+	},
+	{
+		"wordGerman": "der Architekt",
+		"wordEnglish": "architect"
+	},
+	{
+		"wordGerman": "die Aufmerksamkeit",
+		"wordEnglish": "attention"
+	},
+	{
+		"wordGerman": "der Beschluss",
+		"wordEnglish": "decision, resolution"
+	},
+	{
+		"wordGerman": "die Bibel",
+		"wordEnglish": "bible"
+	},
+	{
+		"wordGerman": "die Bindung",
+		"wordEnglish": "relationship, attachment"
+	},
+	{
+		"wordGerman": "die Börse",
+		"wordEnglish": "stock market"
+	},
+	{
+		"wordGerman": "das Business",
+		"wordEnglish": "business"
+	},
+	{
+		"wordGerman": "der Ehegatte",
+		"wordEnglish": "husband"
+	},
+	{
+		"wordGerman": "die Einschätzung",
+		"wordEnglish": "opinion, assessment, evaluation"
+	},
+	{
+		"wordGerman": "das Elektron",
+		"wordEnglish": "electron"
+	},
+	{
+		"wordGerman": "die Entstehung",
+		"wordEnglish": "origin"
+	},
+	{
+		"wordGerman": "die Erweiterung",
+		"wordEnglish": "expansion, extension"
+	},
+	{
+		"wordGerman": "der Feind",
+		"wordEnglish": "enemy"
+	},
+	{
+		"wordGerman": "die Flucht",
+		"wordEnglish": "flight, escape"
+	},
+	{
+		"wordGerman": "der Flüchtling",
+		"wordEnglish": "refugee"
+	},
+	{
+		"wordGerman": "das Geschlecht",
+		"wordEnglish": "sex, gender"
+	},
+	{
+		"wordGerman": "das Gewissen",
+		"wordEnglish": "conscience"
+	},
+	{
+		"wordGerman": "der Gläubiger",
+		"wordEnglish": "creditor, believer"
+	},
+	{
+		"wordGerman": "der Griff",
+		"wordEnglish": "handle, grip, grasp"
+	},
+	{
+		"wordGerman": "der Halt",
+		"wordEnglish": "stop, hold"
+	},
+	{
+		"wordGerman": "das Hemd",
+		"wordEnglish": "shirt"
+	},
+	{
+		"wordGerman": "die Infektion",
+		"wordEnglish": "infection"
+	},
+	{
+		"wordGerman": "der Kindergarten",
+		"wordEnglish": "nursery school"
+	},
+	{
+		"wordGerman": "das Klima",
+		"wordEnglish": "climate"
+	},
+	{
+		"wordGerman": "der Kontinent",
+		"wordEnglish": "continent"
+	},
+	{
+		"wordGerman": "die Kündigung",
+		"wordEnglish": "termination, notice of dismissal"
+	},
+	{
+		"wordGerman": "der Mantel",
+		"wordEnglish": "coat"
+	},
+	{
+		"wordGerman": "das Marketing",
+		"wordEnglish": "marketing"
+	},
+	{
+		"wordGerman": "der Mister",
+		"wordEnglish": "mister"
+	},
+	{
+		"wordGerman": "der Mut",
+		"wordEnglish": "courage"
+	},
+	{
+		"wordGerman": "die Nebenwirkung",
+		"wordEnglish": "side effect"
+	},
+	{
+		"wordGerman": "die Oper",
+		"wordEnglish": "opera"
+	},
+	{
+		"wordGerman": "das Orchester",
+		"wordEnglish": "orchestra"
+	},
+	{
+		"wordGerman": "das Paket",
+		"wordEnglish": "parcel, package"
+	},
+	{
+		"wordGerman": "die Ressource",
+		"wordEnglish": "resource"
+	},
+	{
+		"wordGerman": "die Revolution",
+		"wordEnglish": "revolution"
+	},
+	{
+		"wordGerman": "die Richtlinie",
+		"wordEnglish": "guideline"
+	},
+	{
+		"wordGerman": "die Rückkehr",
+		"wordEnglish": "return"
+	},
+	{
+		"wordGerman": "die Scheibe",
+		"wordEnglish": "disc, slice, glass pane"
+	},
+	{
+		"wordGerman": "die Stille",
+		"wordEnglish": "peace, silence"
+	},
+	{
+		"wordGerman": "der Stress",
+		"wordEnglish": "stress"
+	},
+	{
+		"wordGerman": "die These",
+		"wordEnglish": "thesis"
+	},
+	{
+		"wordGerman": "der Transport",
+		"wordEnglish": "transportation"
+	},
+	{
+		"wordGerman": "der Übergang",
+		"wordEnglish": "crossing, transition"
+	},
+	{
+		"wordGerman": "das Vorbild",
+		"wordEnglish": "model, example"
+	},
+	{
+		"wordGerman": "das Vorgehen",
+		"wordEnglish": "action"
+	},
+	{
+		"wordGerman": "der Widerspruch",
+		"wordEnglish": "contradiction, dissent"
+	},
+	{
+		"wordGerman": "die Wüste",
+		"wordEnglish": "desert"
+	},
+	{
+		"wordGerman": "der Alkohol",
+		"wordEnglish": "alcohol"
+	},
+	{
+		"wordGerman": "die Anerkennung",
+		"wordEnglish": "recognition"
+	},
+	{
+		"wordGerman": "der Aufenthalt",
+		"wordEnglish": "stay, residence"
+	},
+	{
+		"wordGerman": "die Aussicht",
+		"wordEnglish": "prospect, view"
+	},
+	{
+		"wordGerman": "der Ball",
+		"wordEnglish": "ball"
+	},
+	{
+		"wordGerman": "die Bemerkung",
+		"wordEnglish": "remark, comment"
+	},
+	{
+		"wordGerman": "der Besitz",
+		"wordEnglish": "property, possession"
+	},
+	{
+		"wordGerman": "die Chemie",
+		"wordEnglish": "chemistry"
+	},
+	{
+		"wordGerman": "die Distanz",
+		"wordEnglish": "distance"
+	},
+	{
+		"wordGerman": "das Ei",
+		"wordEnglish": "egg"
+	},
+	{
+		"wordGerman": "die Frist",
+		"wordEnglish": "time period, deadline"
+	},
+	{
+		"wordGerman": "das Geschenk",
+		"wordEnglish": "gift"
+	},
+	{
+		"wordGerman": "die Gestaltung",
+		"wordEnglish": "design, organization"
+	},
+	{
+		"wordGerman": "das Heim",
+		"wordEnglish": "home"
+	},
+	{
+		"wordGerman": "der Höhepunkt",
+		"wordEnglish": "high point, peak"
+	},
+	{
+		"wordGerman": "der Horizont",
+		"wordEnglish": "horizon"
+	},
+	{
+		"wordGerman": "die Konferenz",
+		"wordEnglish": "conference"
+	},
+	{
+		"wordGerman": "das Kreuz",
+		"wordEnglish": "cross"
+	},
+	{
+		"wordGerman": "die Notwendigkeit",
+		"wordEnglish": "necessity"
+	},
+	{
+		"wordGerman": "das Organ",
+		"wordEnglish": "organ"
+	},
+	{
+		"wordGerman": "die Presse",
+		"wordEnglish": "press"
+	},
+	{
+		"wordGerman": "die Rechtsprechung",
+		"wordEnglish": "jurisdiction"
+	},
+	{
+		"wordGerman": "das Regal",
+		"wordEnglish": "shelf"
+	},
+	{
+		"wordGerman": "der Ring",
+		"wordEnglish": "ring"
+	},
+	{
+		"wordGerman": "die Übung",
+		"wordEnglish": "exercise, practice"
+	},
+	{
+		"wordGerman": "der Vortrag",
+		"wordEnglish": "lecture"
+	},
+	{
+		"wordGerman": "die Zeile",
+		"wordEnglish": "line"
+	},
+	{
+		"wordGerman": "die Ausführung",
+		"wordEnglish": "implementation, type"
+	},
+	{
+		"wordGerman": "der Besitzer",
+		"wordEnglish": "owner"
+	},
+	{
+		"wordGerman": "das Center",
+		"wordEnglish": "center"
+	},
+	{
+		"wordGerman": "der Eingang",
+		"wordEnglish": "entrance"
+	},
+	{
+		"wordGerman": "die Erscheinung",
+		"wordEnglish": "phenomenon, appearance"
+	},
+	{
+		"wordGerman": "die Ferien",
+		"wordEnglish": "holiday, vacation"
+	},
+	{
+		"wordGerman": "der Flug",
+		"wordEnglish": "flight"
+	},
+	{
+		"wordGerman": "die Fragestellung",
+		"wordEnglish": "problem"
+	},
+	{
+		"wordGerman": "die Freundschaft",
+		"wordEnglish": "friendship"
+	},
+	{
+		"wordGerman": "das Frühstück",
+		"wordEnglish": "breakfast"
+	},
+	{
+		"wordGerman": "das Gehalt",
+		"wordEnglish": "salary"
+	},
+	{
+		"wordGerman": "der Gehalt",
+		"wordEnglish": "meaning, contents"
+	},
+	{
+		"wordGerman": "das Geheimnis",
+		"wordEnglish": "secret"
+	},
+	{
+		"wordGerman": "das Geräusch",
+		"wordEnglish": "sound, noise"
+	},
+	{
+		"wordGerman": "der Geschmack",
+		"wordEnglish": "taste"
+	},
+	{
+		"wordGerman": "das Gold",
+		"wordEnglish": "gold"
+	},
+	{
+		"wordGerman": "der Hafen",
+		"wordEnglish": "harbor"
+	},
+	{
+		"wordGerman": "der Hut",
+		"wordEnglish": "hat"
+	},
+	{
+		"wordGerman": "die Hut",
+		"wordEnglish": "care"
+	},
+	{
+		"wordGerman": "die Interpretation",
+		"wordEnglish": "interpretation"
+	},
+	{
+		"wordGerman": "die Klage",
+		"wordEnglish": "complaint, lawsuit"
+	},
+	{
+		"wordGerman": "die Klinik",
+		"wordEnglish": "clinic, hospital"
+	},
+	{
+		"wordGerman": "die Lehrerin",
+		"wordEnglish": "teacher"
+	},
+	{
+		"wordGerman": "die Marke",
+		"wordEnglish": "brand, stamp"
+	},
+	{
+		"wordGerman": "das Medikament",
+		"wordEnglish": "medicine, drug"
+	},
+	{
+		"wordGerman": "die Miete",
+		"wordEnglish": "rent"
+	},
+	{
+		"wordGerman": "das Öl",
+		"wordEnglish": "oil"
+	},
+	{
+		"wordGerman": "der Pass",
+		"wordEnglish": "pass, passport"
+	},
+	{
+		"wordGerman": "die Phantasie",
+		"wordEnglish": "imagination, fantasy"
+	},
+	{
+		"wordGerman": "die Prognose",
+		"wordEnglish": "prognosis"
+	},
+	{
+		"wordGerman": "das Protein",
+		"wordEnglish": "protein"
+	},
+	{
+		"wordGerman": "das Protokoll",
+		"wordEnglish": "minutes, record"
+	},
+	{
+		"wordGerman": "der Schreck",
+		"wordEnglish": "fright, shock"
+	},
+	{
+		"wordGerman": "die Serie",
+		"wordEnglish": "series"
+	},
+	{
+		"wordGerman": "der Tee",
+		"wordEnglish": "tea"
+	},
+	{
+		"wordGerman": "der Turm",
+		"wordEnglish": "tower"
+	},
+	{
+		"wordGerman": "die Überzeugung",
+		"wordEnglish": "conviction"
+	},
+	{
+		"wordGerman": "die Vorgabe",
+		"wordEnglish": "guideline"
+	},
+	{
+		"wordGerman": "das/die Weihnachten",
+		"wordEnglish": "Christmas"
+	},
+	{
+		"wordGerman": "die Wende",
+		"wordEnglish": "change"
+	},
+	{
+		"wordGerman": "die Abhängigkeit",
+		"wordEnglish": "dependence"
+	},
+	{
+		"wordGerman": "der Arbeitsmarkt",
+		"wordEnglish": "labor market"
+	},
+	{
+		"wordGerman": "der Ärger",
+		"wordEnglish": "annoyance, trouble"
+	},
+	{
+		"wordGerman": "der Austausch",
+		"wordEnglish": "exchange"
+	},
+	{
+		"wordGerman": "die Betreuung",
+		"wordEnglish": "care"
+	},
+	{
+		"wordGerman": "die Bombe",
+		"wordEnglish": "bomb"
+	},
+	{
+		"wordGerman": "der Dialog",
+		"wordEnglish": "dialogue"
+	},
+	{
+		"wordGerman": "die/das E-Mail",
+		"wordEnglish": "e-mail"
+	},
+	{
+		"wordGerman": "die Entschuldigung",
+		"wordEnglish": "apology, excuse"
+	},
+	{
+		"wordGerman": "die Erhöhung",
+		"wordEnglish": "increase"
+	},
+	{
+		"wordGerman": "das Gas",
+		"wordEnglish": "gas"
+	},
+	{
+		"wordGerman": "das Gen",
+		"wordEnglish": "gene"
+	},
+	{
+		"wordGerman": "die Hitze",
+		"wordEnglish": "heat"
+	},
+	{
+		"wordGerman": "die Kindheit",
+		"wordEnglish": "childhood"
+	},
+	{
+		"wordGerman": "das Klavier",
+		"wordEnglish": "piano"
+	},
+	{
+		"wordGerman": "die Konzentration",
+		"wordEnglish": "concentration"
+	},
+	{
+		"wordGerman": "der Leib",
+		"wordEnglish": "body"
+	},
+	{
+		"wordGerman": "der Maler",
+		"wordEnglish": "painter"
+	},
+	{
+		"wordGerman": "die Menschheit",
+		"wordEnglish": "humanity"
+	},
+	{
+		"wordGerman": "die Milch",
+		"wordEnglish": "milk"
+	},
+	{
+		"wordGerman": "der Mord",
+		"wordEnglish": "murder"
+	},
+	{
+		"wordGerman": "der Pilot",
+		"wordEnglish": "pilot"
+	},
+	{
+		"wordGerman": "das Resultat",
+		"wordEnglish": "result"
+	},
+	{
+		"wordGerman": "der Riese",
+		"wordEnglish": "giant"
+	},
+	{
+		"wordGerman": "der Stock",
+		"wordEnglish": "stick, floor"
+	},
+	{
+		"wordGerman": "die Strafe",
+		"wordEnglish": "punishment"
+	},
+	{
+		"wordGerman": "der Übersetzer",
+		"wordEnglish": "translator"
+	},
+	{
+		"wordGerman": "das Ufer",
+		"wordEnglish": "shore, bank"
+	},
+	{
+		"wordGerman": "die Umfrage",
+		"wordEnglish": "survey"
+	},
+	{
+		"wordGerman": "das Baby",
+		"wordEnglish": "baby"
+	},
+	{
+		"wordGerman": "die City",
+		"wordEnglish": "city center"
+	},
+	{
+		"wordGerman": "die Differenz",
+		"wordEnglish": "difference"
+	},
+	{
+		"wordGerman": "die Dunkelheit",
+		"wordEnglish": "darkness"
+	},
+	{
+		"wordGerman": "das Dutzend",
+		"wordEnglish": "dozen"
+	},
+	{
+		"wordGerman": "das Eis",
+		"wordEnglish": "ice, ice cream"
+	},
+	{
+		"wordGerman": "der Empfang",
+		"wordEnglish": "reception"
+	},
+	{
+		"wordGerman": "der Empfänger",
+		"wordEnglish": "recipient"
+	},
+	{
+		"wordGerman": "die Ernährung",
+		"wordEnglish": "food, diet"
+	},
+	{
+		"wordGerman": "der Gesichtspunkt",
+		"wordEnglish": "point of view"
+	},
+	{
+		"wordGerman": "die Großmutter",
+		"wordEnglish": "grandmother"
+	},
+	{
+		"wordGerman": "die Herkunft",
+		"wordEnglish": "origin"
+	},
+	{
+		"wordGerman": "die Hochzeit",
+		"wordEnglish": "wedding"
+	},
+	{
+		"wordGerman": "der Hunger",
+		"wordEnglish": "hunger"
+	},
+	{
+		"wordGerman": "die Konjunktur",
+		"wordEnglish": "state of the economy"
+	},
+	{
+		"wordGerman": "der Konkurrent",
+		"wordEnglish": "competitor"
+	},
+	{
+		"wordGerman": "die Last",
+		"wordEnglish": "load, burden"
+	},
+	{
+		"wordGerman": "das Lebensjahr",
+		"wordEnglish": "year of one's life"
+	},
+	{
+		"wordGerman": "das Medium",
+		"wordEnglish": "medium"
+	},
+	{
+		"wordGerman": "die Mischung",
+		"wordEnglish": "mixture"
+	},
+	{
+		"wordGerman": "das Muster",
+		"wordEnglish": "pattern, model"
+	},
+	{
+		"wordGerman": "der Nachfolger",
+		"wordEnglish": "successor"
+	},
+	{
+		"wordGerman": "die Note",
+		"wordEnglish": "note, grade"
+	},
+	{
+		"wordGerman": "der Onkel",
+		"wordEnglish": "uncle"
+	},
+	{
+		"wordGerman": "das Potenzial",
+		"wordEnglish": "potential"
+	},
+	{
+		"wordGerman": "der Protest",
+		"wordEnglish": "protest"
+	},
+	{
+		"wordGerman": "der Reiz",
+		"wordEnglish": "stimulus, appeal"
+	},
+	{
+		"wordGerman": "der Rohstoff",
+		"wordEnglish": "raw material"
+	},
+	{
+		"wordGerman": "der Sachverhalt",
+		"wordEnglish": "facts"
+	},
+	{
+		"wordGerman": "der Schuss",
+		"wordEnglish": "shot"
+	},
+	{
+		"wordGerman": "die Sicherung",
+		"wordEnglish": "protection, fuse"
+	},
+	{
+		"wordGerman": "der Sieger",
+		"wordEnglish": "winner"
+	},
+	{
+		"wordGerman": "die Statistik",
+		"wordEnglish": "statistics"
+	},
+	{
+		"wordGerman": "die Strahlung",
+		"wordEnglish": "radiation"
+	},
+	{
+		"wordGerman": "das Taxi",
+		"wordEnglish": "taxi"
+	},
+	{
+		"wordGerman": "das Turnier",
+		"wordEnglish": "tournament"
+	},
+	{
+		"wordGerman": "die Übernahme",
+		"wordEnglish": "takeover"
+	},
+	{
+		"wordGerman": "die Verarbeitung",
+		"wordEnglish": "processing"
+	},
+	{
+		"wordGerman": "die Veröffentlichung",
+		"wordEnglish": "publication"
+	},
+	{
+		"wordGerman": "die Verteilung",
+		"wordEnglish": "distribution"
+	},
+	{
+		"wordGerman": "die Wiedervereinigung",
+		"wordEnglish": "reunification"
+	},
+	{
+		"wordGerman": "der Witz",
+		"wordEnglish": "joke"
+	},
+	{
+		"wordGerman": "der Abschied",
+		"wordEnglish": "departure, parting"
+	},
+	{
+		"wordGerman": "die Benutzung",
+		"wordEnglish": "use"
+	},
+	{
+		"wordGerman": "die Beurteilung",
+		"wordEnglish": "judgement"
+	},
+	{
+		"wordGerman": "der Bewerber",
+		"wordEnglish": "applicant"
+	},
+	{
+		"wordGerman": "das Defizit",
+		"wordEnglish": "deficit"
+	},
+	{
+		"wordGerman": "die Einschränkung",
+		"wordEnglish": "restriction"
+	},
+	{
+		"wordGerman": "die Ermittlung",
+		"wordEnglish": "investigation"
+	},
+	{
+		"wordGerman": "der Ertrag",
+		"wordEnglish": "yield"
+	},
+	{
+		"wordGerman": "der Flur",
+		"wordEnglish": "hall, corridor"
+	},
+	{
+		"wordGerman": "das Format",
+		"wordEnglish": "format"
+	},
+	{
+		"wordGerman": "der Held",
+		"wordEnglish": "hero"
+	},
+	{
+		"wordGerman": "die Herstellung",
+		"wordEnglish": "production"
+	},
+	{
+		"wordGerman": "der Kaiser",
+		"wordEnglish": "emperor"
+	},
+	{
+		"wordGerman": "die Kammer",
+		"wordEnglish": "small room"
+	},
+	{
+		"wordGerman": "die Kette",
+		"wordEnglish": "chain"
+	},
+	{
+		"wordGerman": "die Kleidung",
+		"wordEnglish": "clothes"
+	},
+	{
+		"wordGerman": "die Kneipe",
+		"wordEnglish": "pub, bar"
+	},
+	{
+		"wordGerman": "der Kritiker",
+		"wordEnglish": "critic"
+	},
+	{
+		"wordGerman": "die Küste",
+		"wordEnglish": "coast"
+	},
+	{
+		"wordGerman": "das Messer",
+		"wordEnglish": "knife"
+	},
+	{
+		"wordGerman": "die Messung",
+		"wordEnglish": "measuring, measurement"
+	},
+	{
+		"wordGerman": "das Motto",
+		"wordEnglish": "motto"
+	},
+	{
+		"wordGerman": "der Nutzer",
+		"wordEnglish": "user"
+	},
+	{
+		"wordGerman": "der Passagier",
+		"wordEnglish": "passenger"
+	},
+	{
+		"wordGerman": "die Premiere",
+		"wordEnglish": "opening night"
+	},
+	{
+		"wordGerman": "die Probe",
+		"wordEnglish": "sample, test, rehearsal"
+	},
+	{
+		"wordGerman": "der Quadratmeter",
+		"wordEnglish": "square meter"
+	},
+	{
+		"wordGerman": "der Saal",
+		"wordEnglish": "hall"
+	},
+	{
+		"wordGerman": "die Schwäche",
+		"wordEnglish": "weakness"
+	},
+	{
+		"wordGerman": "der Sektor",
+		"wordEnglish": "sector"
+	},
+	{
+		"wordGerman": "der Sprung",
+		"wordEnglish": "jump"
+	},
+	{
+		"wordGerman": "das Symptom",
+		"wordEnglish": "symptom"
+	},
+	{
+		"wordGerman": "das Tennis",
+		"wordEnglish": "tennis"
+	},
+	{
+		"wordGerman": "das Top",
+		"wordEnglish": "top"
+	},
+	{
+		"wordGerman": "das Tuch",
+		"wordEnglish": "cloth"
+	},
+	{
+		"wordGerman": "die Überraschung",
+		"wordEnglish": "surprise"
+	},
+	{
+		"wordGerman": "die Übersetzung",
+		"wordEnglish": "translation"
+	},
+	{
+		"wordGerman": "die Verbreitung",
+		"wordEnglish": "spread"
+	},
+	{
+		"wordGerman": "das Virus",
+		"wordEnglish": "virus"
+	},
+	{
+		"wordGerman": "das Vorhaben",
+		"wordEnglish": "plan, project"
+	},
+	{
+		"wordGerman": "die Vorlage",
+		"wordEnglish": "draft, model"
+	},
+	{
+		"wordGerman": "die Wärme",
+		"wordEnglish": "warmth, heat"
+	},
+	{
+		"wordGerman": "die Werbung",
+		"wordEnglish": "advertising"
+	},
+	{
+		"wordGerman": "die Wiese",
+		"wordEnglish": "meadow"
+	},
+	{
+		"wordGerman": "das Zelt",
+		"wordEnglish": "tent"
+	},
+	{
+		"wordGerman": "der Anhänger",
+		"wordEnglish": "supporter, trailer"
+	},
+	{
+		"wordGerman": "die Anzeige",
+		"wordEnglish": "display, advertisement"
+	},
+	{
+		"wordGerman": "die Aufklärung",
+		"wordEnglish": "enlightenment, solution"
+	},
+	{
+		"wordGerman": "die Auflösung",
+		"wordEnglish": "dissolving, breaking up"
+	},
+	{
+		"wordGerman": "die Bestellung",
+		"wordEnglish": "order, reservation"
+	},
+	{
+		"wordGerman": "der Bude",
+		"wordEnglish": "boy"
+	},
+	{
+		"wordGerman": "das Bündnis",
+		"wordEnglish": "alliance"
+	},
+	{
+		"wordGerman": "die Burg",
+		"wordEnglish": "castle"
+	},
+	{
+		"wordGerman": "der Dialekt",
+		"wordEnglish": "dialect"
+	},
+	{
+		"wordGerman": "die Durchführung",
+		"wordEnglish": "carrying out"
+	},
+	{
+		"wordGerman": "die Einigung",
+		"wordEnglish": "agreement"
+	},
+	{
+		"wordGerman": "die Einsicht",
+		"wordEnglish": "view, insight"
+	},
+	{
+		"wordGerman": "das Gedächtnis",
+		"wordEnglish": "memory"
+	},
+	{
+		"wordGerman": "das Gefängnis",
+		"wordEnglish": "gesture"
+	},
+	{
+		"wordGerman": "die Gleichung",
+		"wordEnglish": "equation"
+	},
+	{
+		"wordGerman": "die Herrschaft",
+		"wordEnglish": "power, reign"
+	},
+	{
+		"wordGerman": "die Infrastruktur",
+		"wordEnglish": "infrastructure"
+	},
+	{
+		"wordGerman": "der Katalog",
+		"wordEnglish": "catalogue"
+	},
+	{
+		"wordGerman": "die Meldung",
+		"wordEnglish": "report"
+	},
+	{
+		"wordGerman": "die Mission",
+		"wordEnglish": "mission"
+	},
+	{
+		"wordGerman": "die Mitteilung",
+		"wordEnglish": "communication, announcement"
+	},
+	{
+		"wordGerman": "die Nahrung",
+		"wordEnglish": "nourishment, food"
+	},
+	{
+		"wordGerman": "der Nebel",
+		"wordEnglish": "fog"
+	},
+	{
+		"wordGerman": "der Offizier",
+		"wordEnglish": "officer"
+	},
+	{
+		"wordGerman": "die Oma",
+		"wordEnglish": "grandma"
+	},
+	{
+		"wordGerman": "die Philosophie",
+		"wordEnglish": "philosophy"
+	},
+	{
+		"wordGerman": "die Realisierung",
+		"wordEnglish": "implementation"
+	},
+	{
+		"wordGerman": "der Schein",
+		"wordEnglish": "light, appearance, certificate"
+	},
+	{
+		"wordGerman": "der Schnitt",
+		"wordEnglish": "cut"
+	},
+	{
+		"wordGerman": "die Schnittstelle",
+		"wordEnglish": "interface"
+	},
+	{
+		"wordGerman": "die Schulden",
+		"wordEnglish": "debt"
+	},
+	{
+		"wordGerman": "die Sehnsucht",
+		"wordEnglish": "longing"
+	},
+	{
+		"wordGerman": "der Skandal",
+		"wordEnglish": "scandal"
+	},
+	{
+		"wordGerman": "das Stadion",
+		"wordEnglish": "stadium"
+	},
+	{
+		"wordGerman": "der Tipp",
+		"wordEnglish": "tip, hint"
+	},
+	{
+		"wordGerman": "das Wiedersehen",
+		"wordEnglish": "reunion"
+	},
+	{
+		"wordGerman": "die Wunde",
+		"wordEnglish": "wound"
+	},
+	{
+		"wordGerman": "die Wurzel",
+		"wordEnglish": "root"
+	},
+	{
+		"wordGerman": "die Zeuge",
+		"wordEnglish": "witness"
+	},
+	{
+		"wordGerman": "das Zeugnis",
+		"wordEnglish": "report, testimonial"
+	},
+	{
+		"wordGerman": "der Anblick",
+		"wordEnglish": "sight"
+	},
+	{
+		"wordGerman": "das Anliegen",
+		"wordEnglish": "request"
+	},
+	{
+		"wordGerman": "die Anpassung",
+		"wordEnglish": "adaptation"
+	},
+	{
+		"wordGerman": "der Anstieg",
+		"wordEnglish": "rise, increase"
+	},
+	{
+		"wordGerman": "das Arbeitsamt",
+		"wordEnglish": "employment office"
+	},
+	{
+		"wordGerman": "der Befehl",
+		"wordEnglish": "order"
+	},
+	{
+		"wordGerman": "die Bereitschaft",
+		"wordEnglish": "willingness"
+	},
+	{
+		"wordGerman": "die Beschwerde",
+		"wordEnglish": "complaint"
+	},
+	{
+		"wordGerman": "der Bogen",
+		"wordEnglish": "bow, arc, sheet"
+	},
+	{
+		"wordGerman": "die Bundesliga",
+		"wordEnglish": "national sports division"
+	},
+	{
+		"wordGerman": "die Droge",
+		"wordEnglish": "drug"
+	},
+	{
+		"wordGerman": "die Ehre",
+		"wordEnglish": "honor"
+	},
+	{
+		"wordGerman": "das Eigentum",
+		"wordEnglish": "property"
+	},
+	{
+		"wordGerman": "der Einzelfall",
+		"wordEnglish": "individual, case"
+	},
+	{
+		"wordGerman": "die Epoche",
+		"wordEnglish": "epoch"
+	},
+	{
+		"wordGerman": "der Erreger",
+		"wordEnglish": "agent, virus, germ"
+	},
+	{
+		"wordGerman": "die Feststellung",
+		"wordEnglish": "observation, remark"
+	},
+	{
+		"wordGerman": "die Formulierung",
+		"wordEnglish": "formulation"
+	},
+	{
+		"wordGerman": "das Gelände",
+		"wordEnglish": "ground, site"
+	},
+	{
+		"wordGerman": "der/die Geliebte",
+		"wordEnglish": "lover"
+	},
+	{
+		"wordGerman": "die Geschwister",
+		"wordEnglish": "siblings"
+	},
+	{
+		"wordGerman": "das Gramm",
+		"wordEnglish": "gram"
+	},
+	{
+		"wordGerman": "die Inszenierung",
+		"wordEnglish": "production, staging"
+	},
+	{
+		"wordGerman": "der Kapitän",
+		"wordEnglish": "captain"
+	},
+	{
+		"wordGerman": "die Kiste",
+		"wordEnglish": "box, crate"
+	},
+	{
+		"wordGerman": "der Knochen",
+		"wordEnglish": "bone"
+	},
+	{
+		"wordGerman": "der Kontext",
+		"wordEnglish": "context"
+	},
+	{
+		"wordGerman": "das Kunstwerk",
+		"wordEnglish": "work of art"
+	},
+	{
+		"wordGerman": "das Lebewesen",
+		"wordEnglish": "living being"
+	},
+	{
+		"wordGerman": "der Lastkraftwagen",
+		"wordEnglish": "truck"
+	},
+	{
+		"wordGerman": "der Lohn",
+		"wordEnglish": "wage, pay, reward"
+	},
+	{
+		"wordGerman": "der Magen",
+		"wordEnglish": "stomach"
+	},
+	{
+		"wordGerman": "die Mode",
+		"wordEnglish": "fashion"
+	},
+	{
+		"wordGerman": "der Mörder",
+		"wordEnglish": "murderer"
+	},
+	{
+		"wordGerman": "die Öffnung",
+		"wordEnglish": "opening, hole"
+	},
+	{
+		"wordGerman": "die Partie",
+		"wordEnglish": "game"
+	},
+	{
+		"wordGerman": "das Rathaus",
+		"wordEnglish": "town hall"
+	},
+	{
+		"wordGerman": "die Reflexion",
+		"wordEnglish": "reflection"
+	},
+	{
+		"wordGerman": "die Rente",
+		"wordEnglish": "pension"
+	},
+	{
+		"wordGerman": "die Show",
+		"wordEnglish": "show"
+	},
+	{
+		"wordGerman": "die Stiftung",
+		"wordEnglish": "foundation, institute, donation"
+	},
+	{
+		"wordGerman": "der Teller",
+		"wordEnglish": "plate"
+	},
+	{
+		"wordGerman": "die Unterscheidung",
+		"wordEnglish": "differentiation, distinction"
+	},
+	{
+		"wordGerman": "die Version",
+		"wordEnglish": "version"
+	},
+	{
+		"wordGerman": "der Wähler",
+		"wordEnglish": "voter"
+	},
+	{
+		"wordGerman": "die Wechselwirkung",
+		"wordEnglish": "interaction"
+	},
+	{
+		"wordGerman": "der Zettel",
+		"wordEnglish": "piece of paper, note"
+	},
+	{
+		"wordGerman": "der Zins",
+		"wordEnglish": "interest"
+	},
+	{
+		"wordGerman": "die Zone",
+		"wordEnglish": "zone"
+	},
+	{
+		"wordGerman": "der Abbau",
+		"wordEnglish": "reduction, decline, mining"
+	},
+	{
+		"wordGerman": "die Agentur",
+		"wordEnglish": "agency"
+	},
+	{
+		"wordGerman": "die Akademie",
+		"wordEnglish": "academy"
+	},
+	{
+		"wordGerman": "die Anfrage",
+		"wordEnglish": "inquiry, request"
+	},
+	{
+		"wordGerman": "die Aufführung",
+		"wordEnglish": "performance"
+	},
+	{
+		"wordGerman": "die Auflage",
+		"wordEnglish": "edition, condition, plating"
+	},
+	{
+		"wordGerman": "der Ausbau",
+		"wordEnglish": "extension, consolidation"
+	},
+	{
+		"wordGerman": "der Bär",
+		"wordEnglish": "bear"
+	},
+	{
+		"wordGerman": "das Bedenken",
+		"wordEnglish": "concern, doubt"
+	},
+	{
+		"wordGerman": "der Buchstabe",
+		"wordEnglish": "letter"
+	},
+	{
+		"wordGerman": "das Dokument",
+		"wordEnglish": "document"
+	},
+	{
+		"wordGerman": "die Einzelheit",
+		"wordEnglish": "detail"
+	},
+	{
+		"wordGerman": "die Erfüllung",
+		"wordEnglish": "fulfillment"
+	},
+	{
+		"wordGerman": "der Führer",
+		"wordEnglish": "leader, guide"
+	},
+	{
+		"wordGerman": "die Fusion",
+		"wordEnglish": "fusion, merger"
+	},
+	{
+		"wordGerman": "der Geruch",
+		"wordEnglish": "smell"
+	},
+	{
+		"wordGerman": "das Gleichgewicht",
+		"wordEnglish": "balance"
+	},
+	{
+		"wordGerman": "der Investor",
+		"wordEnglish": "investor"
+	},
+	{
+		"wordGerman": "der Kerl",
+		"wordEnglish": "fellow, bloke"
+	},
+	{
+		"wordGerman": "die Kollegin",
+		"wordEnglish": "colleague"
+	},
+	{
+		"wordGerman": "der Komponist",
+		"wordEnglish": "composer"
+	},
+	{
+		"wordGerman": "die Kurve",
+		"wordEnglish": "curve"
+	},
+	{
+		"wordGerman": "das Labor",
+		"wordEnglish": "laboratory"
+	},
+	{
+		"wordGerman": "der Landkreis",
+		"wordEnglish": "district"
+	},
+	{
+		"wordGerman": "das Märchen",
+		"wordEnglish": "fairy tale"
+	},
+	{
+		"wordGerman": "das Mittelalter",
+		"wordEnglish": "Middle Ages"
+	},
+	{
+		"wordGerman": "das Möbel",
+		"wordEnglish": "piece of furniture"
+	},
+	{
+		"wordGerman": "die Moderne",
+		"wordEnglish": "modern age"
+	},
+	{
+		"wordGerman": "der Nerv",
+		"wordEnglish": "nerve"
+	},
+	{
+		"wordGerman": "der Ofen",
+		"wordEnglish": "oven, stove"
+	},
+	{
+		"wordGerman": "die Pflege",
+		"wordEnglish": "care"
+	},
+	{
+		"wordGerman": "die Plattform",
+		"wordEnglish": "platform"
+	},
+	{
+		"wordGerman": "der Posten",
+		"wordEnglish": "post, position"
+	},
+	{
+		"wordGerman": "der Profi",
+		"wordEnglish": "pro, professional"
+	},
+	{
+		"wordGerman": "das Regime",
+		"wordEnglish": "regime"
+	},
+	{
+		"wordGerman": "der Rock",
+		"wordEnglish": "skirt, rock music"
+	},
+	{
+		"wordGerman": "der Rücktritt",
+		"wordEnglish": "resignation"
+	},
+	{
+		"wordGerman": "der Schrank",
+		"wordEnglish": "cabinet, wardrobe"
+	},
+	{
+		"wordGerman": "die Sekretärin",
+		"wordEnglish": "secretary"
+	},
+	{
+		"wordGerman": "die Solidarität",
+		"wordEnglish": "solidarity"
+	},
+	{
+		"wordGerman": "der Sportler",
+		"wordEnglish": "athlete"
+	},
+	{
+		"wordGerman": "die Stabilität",
+		"wordEnglish": "stability"
+	},
+	{
+		"wordGerman": "der Status",
+		"wordEnglish": "status"
+	},
+	{
+		"wordGerman": "der Staub",
+		"wordEnglish": "dust"
+	},
+	{
+		"wordGerman": "der Tanz",
+		"wordEnglish": "dance"
+	},
+	{
+		"wordGerman": "der Topf",
+		"wordEnglish": "pot"
+	},
+	{
+		"wordGerman": "der Überblick",
+		"wordEnglish": "view, overview"
+	},
+	{
+		"wordGerman": "die Unsicherheit",
+		"wordEnglish": "uncertainty"
+	},
+	{
+		"wordGerman": "der Vorhang",
+		"wordEnglish": "curtain"
+	},
+	{
+		"wordGerman": "der Winkel",
+		"wordEnglish": "angle, corner"
+	},
+	{
+		"wordGerman": "das Zitat",
+		"wordEnglish": "quotation, quote"
+	},
+	{
+		"wordGerman": "das Abenteuer",
+		"wordEnglish": "adventure"
+	},
+	{
+		"wordGerman": "die Abgrenzung",
+		"wordEnglish": "disassociation"
+	},
+	{
+		"wordGerman": "der Akt",
+		"wordEnglish": "act"
+	},
+	{
+		"wordGerman": "der Akteur",
+		"wordEnglish": "player, actor"
+	},
+	{
+		"wordGerman": "die Allianz",
+		"wordEnglish": "alliance"
+	},
+	{
+		"wordGerman": "die Armut",
+		"wordEnglish": "poverty"
+	},
+	{
+		"wordGerman": "der Ausgleich",
+		"wordEnglish": "balancing, compensation, change"
+	},
+	{
+		"wordGerman": "die Begeisterung",
+		"wordEnglish": "enthusiasm"
+	},
+	{
+		"wordGerman": "der Bezirk",
+		"wordEnglish": "district"
+	},
+	{
+		"wordGerman": "die Diagnose",
+		"wordEnglish": "diagnosis"
+	},
+	{
+		"wordGerman": "das Dunkel",
+		"wordEnglish": "darkness"
+	},
+	{
+		"wordGerman": "der Durchmesser",
+		"wordEnglish": "diameter"
+	},
+	{
+		"wordGerman": "die Einladung",
+		"wordEnglish": "invitation"
+	},
+	{
+		"wordGerman": "die Empfehlung",
+		"wordEnglish": "recommendation"
+	},
+	{
+		"wordGerman": "die Eröffnung",
+		"wordEnglish": "opening"
+	},
+	{
+		"wordGerman": "der Felsen",
+		"wordEnglish": "rock"
+	},
+	{
+		"wordGerman": "die Flüssigkeit",
+		"wordEnglish": "liquid"
+	},
+	{
+		"wordGerman": "das Fräulein",
+		"wordEnglish": "young lady, miss"
+	},
+	{
+		"wordGerman": "der Friedhof",
+		"wordEnglish": "cemetery"
+	},
+	{
+		"wordGerman": "die Front",
+		"wordEnglish": "front"
+	},
+	{
+		"wordGerman": "die Fülle",
+		"wordEnglish": "abundance"
+	},
+	{
+		"wordGerman": "das Gebirge",
+		"wordEnglish": "mountains"
+	},
+	{
+		"wordGerman": "das Geschäftsjahr",
+		"wordEnglish": "financial year"
+	},
+	{
+		"wordGerman": "das Gras",
+		"wordEnglish": "grass"
+	},
+	{
+		"wordGerman": "die Großstadt",
+		"wordEnglish": "city, large town"
+	},
+	{
+		"wordGerman": "der Hang",
+		"wordEnglish": "slope, inclination"
+	},
+	{
+		"wordGerman": "der Hügel",
+		"wordEnglish": "hill"
+	},
+	{
+		"wordGerman": "der Ingenieur",
+		"wordEnglish": "engineer"
+	},
+	{
+		"wordGerman": "der Kongress",
+		"wordEnglish": "congress, convention"
+	},
+	{
+		"wordGerman": "der Muskel",
+		"wordEnglish": "muscle"
+	},
+	{
+		"wordGerman": "der Nachweis",
+		"wordEnglish": "proof, evidence, certificate"
+	},
+	{
+		"wordGerman": "die Orientierung",
+		"wordEnglish": "orientation"
+	},
+	{
+		"wordGerman": "der Personenkraftwagen",
+		"wordEnglish": "car, auto"
+	},
+	{
+		"wordGerman": "der Rhythmus",
+		"wordEnglish": "rhythm"
+	},
+	{
+		"wordGerman": "die Rücksicht",
+		"wordEnglish": "consideration"
+	},
+	{
+		"wordGerman": "der Senat",
+		"wordEnglish": "senate"
+	},
+	{
+		"wordGerman": "die Steuerung",
+		"wordEnglish": "control, steering"
+	},
+	{
+		"wordGerman": "der Stolz",
+		"wordEnglish": "pride"
+	},
+	{
+		"wordGerman": "die Teilnahme",
+		"wordEnglish": "participation"
+	},
+	{
+		"wordGerman": "das Universum",
+		"wordEnglish": "universe"
+	},
+	{
+		"wordGerman": "die Unterhaltung",
+		"wordEnglish": "entertainment, conversation"
+	},
+	{
+		"wordGerman": "die Unterlagen",
+		"wordEnglish": "documents"
+	},
+	{
+		"wordGerman": "die Vereinigung",
+		"wordEnglish": "organization, association, unification"
+	},
+	{
+		"wordGerman": "die Vertretung",
+		"wordEnglish": "replacement, substitute"
+	},
+	{
+		"wordGerman": "die Volkshochschule",
+		"wordEnglish": "adult education center"
+	},
+	{
+		"wordGerman": "die Vorsicht",
+		"wordEnglish": "caution"
+	},
+	{
+		"wordGerman": "die Wahrscheinlichkeit",
+		"wordEnglish": "probability"
+	},
+	{
+		"wordGerman": "die Wange",
+		"wordEnglish": "cheek"
+	},
+	{
+		"wordGerman": "das Werkzeug",
+		"wordEnglish": "tool"
+	},
+	{
+		"wordGerman": "die Zeichnung",
+		"wordEnglish": "drawing"
+	},
+	{
+		"wordGerman": "die Zunahme",
+		"wordEnglish": "increase"
+	},
+	{
+		"wordGerman": "die Zwiebel",
+		"wordEnglish": "onion, bulb"
+	},
+	{
+		"wordGerman": "die Ablehnung",
+		"wordEnglish": "refusal, rejection"
+	},
+	{
+		"wordGerman": "die Abstimmung",
+		"wordEnglish": "vote, coordination"
+	},
+	{
+		"wordGerman": "die Anordnung",
+		"wordEnglish": "order"
+	},
+	{
+		"wordGerman": "die Anregung",
+		"wordEnglish": "stimulus, idea"
+	},
+	{
+		"wordGerman": "der Aufsatz",
+		"wordEnglish": "essay"
+	},
+	{
+		"wordGerman": "der Backofen",
+		"wordEnglish": "oven"
+	},
+	{
+		"wordGerman": "die Bakterie",
+		"wordEnglish": "bacterium"
+	},
+	{
+		"wordGerman": "der Befund",
+		"wordEnglish": "results"
+	},
+	{
+		"wordGerman": "die Bemühung",
+		"wordEnglish": "effort"
+	},
+	{
+		"wordGerman": "der Beobachter",
+		"wordEnglish": "observer"
+	},
+	{
+		"wordGerman": "der Berater",
+		"wordEnglish": "advisor, consultant"
+	},
+	{
+		"wordGerman": "der Betrachter",
+		"wordEnglish": "observer"
+	},
+	{
+		"wordGerman": "das Betriebssystem",
+		"wordEnglish": "operating system"
+	},
+	{
+		"wordGerman": "der Bildschirm",
+		"wordEnglish": "screen, monitor"
+	},
+	{
+		"wordGerman": "die Blüte",
+		"wordEnglish": "blossom"
+	},
+	{
+		"wordGerman": "die Brille",
+		"wordEnglish": "glasses"
+	},
+	{
+		"wordGerman": "die Datenverarbeitung",
+		"wordEnglish": "data processing"
+	},
+	{
+		"wordGerman": "der Eigentümer",
+		"wordEnglish": "owner"
+	},
+	{
+		"wordGerman": "die Eintragung",
+		"wordEnglish": "entry, registration"
+	},
+	{
+		"wordGerman": "das Ensemble",
+		"wordEnglish": "ensemble"
+	},
+	{
+		"wordGerman": "die Enttäuschung",
+		"wordEnglish": "disappointment"
+	},
+	{
+		"wordGerman": "die Faust",
+		"wordEnglish": "fist"
+	},
+	{
+		"wordGerman": "das Festival",
+		"wordEnglish": "festival"
+	},
+	{
+		"wordGerman": "die Galerie",
+		"wordEnglish": "gallery"
+	},
+	{
+		"wordGerman": "das Gemüse",
+		"wordEnglish": "vegetables"
+	},
+	{
+		"wordGerman": "die Genehmigung",
+		"wordEnglish": "approval, permit, permission"
+	},
+	{
+		"wordGerman": "der Großvater",
+		"wordEnglish": "grandfather"
+	},
+	{
+		"wordGerman": "die Grundschule",
+		"wordEnglish": "primary school"
+	},
+	{
+		"wordGerman": "der Hass",
+		"wordEnglish": "hatred"
+	},
+	{
+		"wordGerman": "die Höhle",
+		"wordEnglish": "cave"
+	},
+	{
+		"wordGerman": "die Innenstadt",
+		"wordEnglish": "town center, downtown"
+	},
+	{
+		"wordGerman": "das Kloster",
+		"wordEnglish": "monastery, convent"
+	},
+	{
+		"wordGerman": "die Kohle",
+		"wordEnglish": "coal"
+	},
+	{
+		"wordGerman": "der Konsument",
+		"wordEnglish": "consumer"
+	},
+	{
+		"wordGerman": "der Lärm",
+		"wordEnglish": "noise"
+	},
+	{
+		"wordGerman": "der Liter",
+		"wordEnglish": "liter"
+	},
+	{
+		"wordGerman": "das Lokal",
+		"wordEnglish": "pub, bar"
+	},
+	{
+		"wordGerman": "die Malerei",
+		"wordEnglish": "painting"
+	},
+	{
+		"wordGerman": "der Maßstab",
+		"wordEnglish": "scale, yardstick, standard"
+	},
+	{
+		"wordGerman": "die Materie",
+		"wordEnglish": "matter"
+	},
+	{
+		"wordGerman": "die Münze",
+		"wordEnglish": "coin"
+	},
+	{
+		"wordGerman": "das Netzwerk",
+		"wordEnglish": "network"
+	},
+	{
+		"wordGerman": "das Praktikum",
+		"wordEnglish": "internship"
+	},
+	{
+		"wordGerman": "der Rückgang",
+		"wordEnglish": "fall, decline"
+	},
+	{
+		"wordGerman": "der Sack",
+		"wordEnglish": "sack"
+	},
+	{
+		"wordGerman": "der Schuldner",
+		"wordEnglish": "debtor"
+	},
+	{
+		"wordGerman": "die Sportart",
+		"wordEnglish": "type of sport, discipline"
+	},
+	{
+		"wordGerman": "der Stamm",
+		"wordEnglish": "trunk, stem, tribe"
+	},
+	{
+		"wordGerman": "der Streifen",
+		"wordEnglish": "stripe, strip"
+	},
+	{
+		"wordGerman": "die Tasse",
+		"wordEnglish": "cup"
+	},
+	{
+		"wordGerman": "der Teppich",
+		"wordEnglish": "carpet"
+	},
+	{
+		"wordGerman": "der Teufel",
+		"wordEnglish": "devil"
+	},
+	{
+		"wordGerman": "die Überprüfung",
+		"wordEnglish": "screening, check, inspection"
+	},
+	{
+		"wordGerman": "der Unsinn",
+		"wordEnglish": "nonsense"
+	},
+	{
+		"wordGerman": "das Verbot",
+		"wordEnglish": "ban, prohibition"
+	},
+	{
+		"wordGerman": "die Vermutung",
+		"wordEnglish": "assumption, presumption"
+	},
+	{
+		"wordGerman": "die Versammlung",
+		"wordEnglish": "meeting, gathering, assembly"
+	},
+	{
+		"wordGerman": "die Wäsche",
+		"wordEnglish": "washing, laundry"
+	},
+	{
+		"wordGerman": "die Werkstatt",
+		"wordEnglish": "workshop, garage"
+	},
+	{
+		"wordGerman": "die Wirtschaftspolitik",
+		"wordEnglish": "economic policy"
+	},
+	{
+		"wordGerman": "das Zeug",
+		"wordEnglish": "stuff"
+	},
+	{
+		"wordGerman": "die Zunge",
+		"wordEnglish": "tongue"
+	},
+	{
+		"wordGerman": "der Zwang",
+		"wordEnglish": "force, pressure, compulsion"
+	},
+	{
+		"wordGerman": "das Antibiotikum",
+		"wordEnglish": "antibiotic"
+	},
+	{
+		"wordGerman": "die Anweisung",
+		"wordEnglish": "instruction"
+	},
+	{
+		"wordGerman": "der Anzug",
+		"wordEnglish": "suit"
+	},
+	{
+		"wordGerman": "die Architektur",
+		"wordEnglish": "architecture"
+	},
+	{
+		"wordGerman": "das Atom",
+		"wordEnglish": "atom"
+	},
+	{
+		"wordGerman": "der Aufstieg",
+		"wordEnglish": "climb, rise"
+	},
+	{
+		"wordGerman": "der Ausflug",
+		"wordEnglish": "outing, trip"
+	},
+	{
+		"wordGerman": "der Ausgang",
+		"wordEnglish": "exit, outcome, starting point"
+	},
+	{
+		"wordGerman": "die Ausstattung",
+		"wordEnglish": "equipment, provision, furnishings"
+	},
+	{
+		"wordGerman": "die Bearbeitung",
+		"wordEnglish": "working, handling"
+	},
+	{
+		"wordGerman": "die Besonderheit",
+		"wordEnglish": "characteristic, specific, feature"
+	},
+	{
+		"wordGerman": "der Betracht",
+		"wordEnglish": "consideration"
+	},
+	{
+		"wordGerman": "die Biologie",
+		"wordEnglish": "biology"
+	},
+	{
+		"wordGerman": "die Breite",
+		"wordEnglish": "width"
+	},
+	{
+		"wordGerman": "die Butter",
+		"wordEnglish": "butter"
+	},
+	{
+		"wordGerman": "der Champion",
+		"wordEnglish": "champion"
+	},
+	{
+		"wordGerman": "die Differenzierung",
+		"wordEnglish": "differentiation"
+	},
+	{
+		"wordGerman": "der Dirigent",
+		"wordEnglish": "musical conductor"
+	},
+	{
+		"wordGerman": "die Entdeckung",
+		"wordEnglish": "discovery"
+	},
+	{
+		"wordGerman": "die Erfindung",
+		"wordEnglish": "invention"
+	},
+	{
+		"wordGerman": "der Ersatz",
+		"wordEnglish": "replacement, compensation"
+	},
+	{
+		"wordGerman": "die Feuerwehr",
+		"wordEnglish": "fire brigade"
+	},
+	{
+		"wordGerman": "das Fieber",
+		"wordEnglish": "fever"
+	},
+	{
+		"wordGerman": "die Fluggesellschaft",
+		"wordEnglish": "airline"
+	},
+	{
+		"wordGerman": "die Gebühr",
+		"wordEnglish": "fee"
+	},
+	{
+		"wordGerman": "das Gepäck",
+		"wordEnglish": "luggage"
+	},
+	{
+		"wordGerman": "das Gerücht",
+		"wordEnglish": "rumor"
+	},
+	{
+		"wordGerman": "der Gesetzgeber",
+		"wordEnglish": "legislator, legislature"
+	},
+	{
+		"wordGerman": "die Gliederung",
+		"wordEnglish": "structure, organization"
+	},
+	{
+		"wordGerman": "das Grab",
+		"wordEnglish": "grave"
+	},
+	{
+		"wordGerman": "der Grenzwert",
+		"wordEnglish": "limiting value, limit"
+	},
+	{
+		"wordGerman": "das Handwerk",
+		"wordEnglish": "craft, trade"
+	},
+	{
+		"wordGerman": "das Heft",
+		"wordEnglish": "notebook"
+	},
+	{
+		"wordGerman": "der Helfer",
+		"wordEnglish": "helper, accomplice"
+	},
+	{
+		"wordGerman": "die Intelligenz",
+		"wordEnglish": "intelligence"
+	},
+	{
+		"wordGerman": "der Jäger",
+		"wordEnglish": "hunter"
+	},
+	{
+		"wordGerman": "die Kartoffel",
+		"wordEnglish": "potato"
+	},
+	{
+		"wordGerman": "der Käse",
+		"wordEnglish": "cheese"
+	},
+	{
+		"wordGerman": "der Klang",
+		"wordEnglish": "sound, tone"
+	},
+	{
+		"wordGerman": "der Kompromiss",
+		"wordEnglish": "compromise"
+	},
+	{
+		"wordGerman": "die Königin",
+		"wordEnglish": "queen"
+	},
+	{
+		"wordGerman": "die Konstruktion",
+		"wordEnglish": "construction, design"
+	},
+	{
+		"wordGerman": "der Kreislauf",
+		"wordEnglish": "circulation"
+	},
+	{
+		"wordGerman": "die Kugel",
+		"wordEnglish": "ball, sphere, bullet"
+	},
+	{
+		"wordGerman": "die Kuh",
+		"wordEnglish": "cow"
+	},
+	{
+		"wordGerman": "die Leiche",
+		"wordEnglish": "corpse"
+	},
+	{
+		"wordGerman": "die Leidenschaft",
+		"wordEnglish": "passion"
+	},
+	{
+		"wordGerman": "die Leistungsfähigkeit",
+		"wordEnglish": "productivity, power"
+	},
+	{
+		"wordGerman": "die Lieferung",
+		"wordEnglish": "delivery"
+	},
+	{
+		"wordGerman": "die Liga",
+		"wordEnglish": "league"
+	},
+	{
+		"wordGerman": "das Milligramm",
+		"wordEnglish": "milligram"
+	},
+	{
+		"wordGerman": "der Nachwuchs",
+		"wordEnglish": "offspring, new generation"
+	},
+	{
+		"wordGerman": "der Nacken",
+		"wordEnglish": "neck"
+	},
+	{
+		"wordGerman": "das Olympia",
+		"wordEnglish": "Olympics"
+	},
+	{
+		"wordGerman": "der Parteitag",
+		"wordEnglish": "party conference, convention"
+	},
+	{
+		"wordGerman": "die Party",
+		"wordEnglish": "party"
+	},
+	{
+		"wordGerman": "der Planet",
+		"wordEnglish": "planet"
+	},
+	{
+		"wordGerman": "der Priester",
+		"wordEnglish": "priest"
+	},
+	{
+		"wordGerman": "die Problematik",
+		"wordEnglish": "problematic nature, problems"
+	},
+	{
+		"wordGerman": "die Rezession",
+		"wordEnglish": "recession"
+	},
+	{
+		"wordGerman": "der Salon",
+		"wordEnglish": "salon, drawing room"
+	},
+	{
+		"wordGerman": "die Schauspielerin",
+		"wordEnglish": "actress"
+	},
+	{
+		"wordGerman": "die Schwangerschaft",
+		"wordEnglish": "pregnancy"
+	},
+	{
+		"wordGerman": "der Schweiß",
+		"wordEnglish": "sweat"
+	},
+	{
+		"wordGerman": "die Skala",
+		"wordEnglish": "scale, dial, range"
+	},
+	{
+		"wordGerman": "die Spalte",
+		"wordEnglish": "fissure, cleft, column"
+	},
+	{
+		"wordGerman": "das Spektrum",
+		"wordEnglish": "spectrum"
+	},
+	{
+		"wordGerman": "die Steckdose",
+		"wordEnglish": "socket, electrical outlet"
+	},
+	{
+		"wordGerman": "die Tafel",
+		"wordEnglish": "board, table"
+	},
+	{
+		"wordGerman": "das Tagebuch",
+		"wordEnglish": "diary"
+	},
+	{
+		"wordGerman": "das Talent",
+		"wordEnglish": "talent"
+	},
+	{
+		"wordGerman": "das Tempo",
+		"wordEnglish": "pace, speed"
+	},
+	{
+		"wordGerman": "die Unruhe",
+		"wordEnglish": "restlessness, agitation"
+	},
+	{
+		"wordGerman": "die Unterschrift",
+		"wordEnglish": "signature"
+	},
+	{
+		"wordGerman": "der Ursprung",
+		"wordEnglish": "origin"
+	},
+	{
+		"wordGerman": "das Verbrechen",
+		"wordEnglish": "crime"
+	},
+	{
+		"wordGerman": "das Vergnügen",
+		"wordEnglish": "pleasure"
+	},
+	{
+		"wordGerman": "die Verhaltensweise",
+		"wordEnglish": "behavior"
+	},
+	{
+		"wordGerman": "der Vermieter",
+		"wordEnglish": "landlord"
+	},
+	{
+		"wordGerman": "die Vernunft",
+		"wordEnglish": "reason"
+	},
+	{
+		"wordGerman": "die Verordnung",
+		"wordEnglish": "prescription, order"
+	},
+	{
+		"wordGerman": "die Villa",
+		"wordEnglish": "villa"
+	},
+	{
+		"wordGerman": "der Vormittag",
+		"wordEnglish": "morning"
+	},
+	{
+		"wordGerman": "das Wohnzimmer",
+		"wordEnglish": "living room"
+	},
+	{
+		"wordGerman": "die Zerstörung",
+		"wordEnglish": "destruction"
+	},
+	{
+		"wordGerman": "der Zinssatz",
+		"wordEnglish": "interest rate"
+	},
+	{
+		"wordGerman": "die Zulassung",
+		"wordEnglish": "admission, license"
+	},
+	{
+		"wordGerman": "die Zusammensetzung",
+		"wordEnglish": "composition"
+	},
+	{
+		"wordGerman": "die Abschreibung",
+		"wordEnglish": "deduction, depreciation"
+	},
+	{
+		"wordGerman": "die Achse",
+		"wordEnglish": "axle, axis"
+	},
+	{
+		"wordGerman": "die Anwesenheit",
+		"wordEnglish": "presence"
+	},
+	{
+		"wordGerman": "die Aufregung",
+		"wordEnglish": "excitement"
+	},
+	{
+		"wordGerman": "die Autobahn",
+		"wordEnglish": "expressway, motorway"
+	},
+	{
+		"wordGerman": "die Batterie",
+		"wordEnglish": "battery"
+	},
+	{
+		"wordGerman": "das Chaos",
+		"wordEnglish": "chaos"
+	},
+	{
+		"wordGerman": "die Chefin",
+		"wordEnglish": "director, boss"
+	},
+	{
+		"wordGerman": "der Chip",
+		"wordEnglish": "chip, crisp"
+	},
+	{
+		"wordGerman": "der Chor",
+		"wordEnglish": "choir, chorus"
+	},
+	{
+		"wordGerman": "das Design",
+		"wordEnglish": "design"
+	},
+	{
+		"wordGerman": "der Dolmetscher",
+		"wordEnglish": "interpreter"
+	},
+	{
+		"wordGerman": "der Durchschnitt",
+		"wordEnglish": "average"
+	},
+	{
+		"wordGerman": "das Ehepaar",
+		"wordEnglish": "married couple"
+	},
+	{
+		"wordGerman": "der Einbruch",
+		"wordEnglish": "break in, collapse"
+	},
+	{
+		"wordGerman": "der Eintritt",
+		"wordEnglish": "entry, admission"
+	},
+	{
+		"wordGerman": "die Erholung",
+		"wordEnglish": "recovery, relaxation, rest"
+	},
+	{
+		"wordGerman": "der Europäer",
+		"wordEnglish": "European"
+	},
+	{
+		"wordGerman": "die Fabrik",
+		"wordEnglish": "factory"
+	},
+	{
+		"wordGerman": "die Furcht",
+		"wordEnglish": "fear"
+	},
+	{
+		"wordGerman": "die Geduld",
+		"wordEnglish": "patience"
+	},
+	{
+		"wordGerman": "der General",
+		"wordEnglish": "general"
+	},
+	{
+		"wordGerman": "das Getränk",
+		"wordEnglish": "drink, beverage"
+	},
+	{
+		"wordGerman": "das Gewehr",
+		"wordEnglish": "rifle, shotgun"
+	},
+	{
+		"wordGerman": "das Glied",
+		"wordEnglish": "limb, joint, link"
+	},
+	{
+		"wordGerman": "der Graf",
+		"wordEnglish": "count, earl"
+	},
+	{
+		"wordGerman": "das Gremium",
+		"wordEnglish": "committee"
+	},
+	{
+		"wordGerman": "die Gunst",
+		"wordEnglish": "goodwill, favor"
+	},
+	{
+		"wordGerman": "das Gutachten",
+		"wordEnglish": "report, reference"
+	},
+	{
+		"wordGerman": "der Handwerker",
+		"wordEnglish": "workman, tradesman"
+	},
+	{
+		"wordGerman": "die Haustür",
+		"wordEnglish": "front door"
+	},
+	{
+		"wordGerman": "die Hypothese",
+		"wordEnglish": "hypothesis"
+	},
+	{
+		"wordGerman": "die Kassette",
+		"wordEnglish": "cassette, tape"
+	},
+	{
+		"wordGerman": "der Kasten",
+		"wordEnglish": "box, crate"
+	},
+	{
+		"wordGerman": "der Kommentar",
+		"wordEnglish": "comment, opinion"
+	},
+	{
+		"wordGerman": "die Konzeption",
+		"wordEnglish": "concept, conception"
+	},
+	{
+		"wordGerman": "die Kreativität",
+		"wordEnglish": "creativity"
+	},
+	{
+		"wordGerman": "das Magazin",
+		"wordEnglish": "magazine, storehouse"
+	},
+	{
+		"wordGerman": "der Marktanteil",
+		"wordEnglish": "market share"
+	},
+	{
+		"wordGerman": "die Maus",
+		"wordEnglish": "mouse"
+	},
+	{
+		"wordGerman": "das Menschenrecht",
+		"wordEnglish": "human right"
+	},
+	{
+		"wordGerman": "der Mieter",
+		"wordEnglish": "tenant"
+	},
+	{
+		"wordGerman": "das Militär",
+		"wordEnglish": "military"
+	},
+	{
+		"wordGerman": "die Minderheit",
+		"wordEnglish": "minority"
+	},
+	{
+		"wordGerman": "das Ministerium",
+		"wordEnglish": "ministry, department"
+	},
+	{
+		"wordGerman": "der Mythos",
+		"wordEnglish": "myth, legend"
+	},
+	{
+		"wordGerman": "die Naturwissenschaft",
+		"wordEnglish": "natural science"
+	},
+	{
+		"wordGerman": "der Parkplatz",
+		"wordEnglish": "parking place"
+	},
+	{
+		"wordGerman": "die Partnerschaft",
+		"wordEnglish": "partnership"
+	},
+	{
+		"wordGerman": "die Periode",
+		"wordEnglish": "period"
+	},
+	{
+		"wordGerman": "das Präparat",
+		"wordEnglish": "preparation, medication"
+	},
+	{
+		"wordGerman": "die Provinz",
+		"wordEnglish": "province, provinces"
+	},
+	{
+		"wordGerman": "die Rahmenbedingung",
+		"wordEnglish": "prevailing, condition"
+	},
+	{
+		"wordGerman": "der Regierungschef",
+		"wordEnglish": "head of government"
+	},
+	{
+		"wordGerman": "die Säule",
+		"wordEnglish": "column, pillar"
+	},
+	{
+		"wordGerman": "die Scheidung",
+		"wordEnglish": "divorce"
+	},
+	{
+		"wordGerman": "die Schönheit",
+		"wordEnglish": "beauty"
+	},
+	{
+		"wordGerman": "der Spezialist",
+		"wordEnglish": "specialist"
+	},
+	{
+		"wordGerman": "die Steigerung",
+		"wordEnglish": "increase"
+	},
+	{
+		"wordGerman": "der Stellvertreter",
+		"wordEnglish": "deputy"
+	},
+	{
+		"wordGerman": "die Subvention",
+		"wordEnglish": "subsidy"
+	},
+	{
+		"wordGerman": "das Ticket",
+		"wordEnglish": "ticket"
+	},
+	{
+		"wordGerman": "der Tunnel",
+		"wordEnglish": "tunnel"
+	},
+	{
+		"wordGerman": "die Übersicht",
+		"wordEnglish": "overview"
+	},
+	{
+		"wordGerman": "die Uniform",
+		"wordEnglish": "uniform"
+	},
+	{
+		"wordGerman": "das Unrecht",
+		"wordEnglish": "injustice, wrong"
+	},
+	{
+		"wordGerman": "das Vitamin",
+		"wordEnglish": "vitamin"
+	},
+	{
+		"wordGerman": "die Volkswirtschaft",
+		"wordEnglish": "national economy"
+	},
+	{
+		"wordGerman": "die Vorlesung",
+		"wordEnglish": "lecture"
+	},
+	{
+		"wordGerman": "die Weiterbildung",
+		"wordEnglish": "continuing education"
+	},
+	{
+		"wordGerman": "die Zielsetzung",
+		"wordEnglish": "target, objective"
+	},
+	{
+		"wordGerman": "der Zucker",
+		"wordEnglish": "sugar"
+	},
+	{
+		"wordGerman": "das Abkommen",
+		"wordEnglish": "agreement"
+	},
+	{
+		"wordGerman": "der Absolvent",
+		"wordEnglish": "graduate"
+	},
+	{
+		"wordGerman": "die Abwehr",
+		"wordEnglish": "defense"
+	},
+	{
+		"wordGerman": "der Apfel",
+		"wordEnglish": "apple"
+	},
+	{
+		"wordGerman": "die Arbeitskraft",
+		"wordEnglish": "work capacity, worker"
+	},
+	{
+		"wordGerman": "der Assistent",
+		"wordEnglish": "assistant"
+	},
+	{
+		"wordGerman": "die Auswertung",
+		"wordEnglish": "evaluation, analysis"
+	},
+	{
+		"wordGerman": "die Bar",
+		"wordEnglish": "bar"
+	},
+	{
+		"wordGerman": "die Bedrohung",
+		"wordEnglish": "threat"
+	},
+	{
+		"wordGerman": "die Bekämpfung",
+		"wordEnglish": "fighting, controlling"
+	},
+	{
+		"wordGerman": "die Beschränkung",
+		"wordEnglish": "restriction"
+	},
+	{
+		"wordGerman": "der Block",
+		"wordEnglish": "block"
+	},
+	{
+		"wordGerman": "das Darlehen",
+		"wordEnglish": "loan"
+	},
+	{
+		"wordGerman": "das Datum",
+		"wordEnglish": "date"
+	},
+	{
+		"wordGerman": "die Erhaltung",
+		"wordEnglish": "preservation, maintenance"
+	},
+	{
+		"wordGerman": "der Erzähler",
+		"wordEnglish": "storyteller, narrator"
+	},
+	{
+		"wordGerman": "der Fachbereich",
+		"wordEnglish": "academic department, field"
+	},
+	{
+		"wordGerman": "die Fachleute",
+		"wordEnglish": "experts"
+	},
+	{
+		"wordGerman": "die Fakten",
+		"wordEnglish": "facts"
+	},
+	{
+		"wordGerman": "die Fassung",
+		"wordEnglish": "version, composure, frame, socket"
+	},
+	{
+		"wordGerman": "der Flügel",
+		"wordEnglish": "wing"
+	},
+	{
+		"wordGerman": "das Forum",
+		"wordEnglish": "forum, audience, public discussion"
+	},
+	{
+		"wordGerman": "die Frequenz",
+		"wordEnglish": "frequency"
+	},
+	{
+		"wordGerman": "die Frucht",
+		"wordEnglish": "fruit"
+	},
+	{
+		"wordGerman": "die Gerechtigkeit",
+		"wordEnglish": "justice"
+	},
+	{
+		"wordGerman": "der Gipfel",
+		"wordEnglish": "peak, summit"
+	},
+	{
+		"wordGerman": "der Großteil",
+		"wordEnglish": "large part, majority"
+	},
+	{
+		"wordGerman": "der Hörer",
+		"wordEnglish": "listener, receiver"
+	},
+	{
+		"wordGerman": "das Industrieland",
+		"wordEnglish": "industrialized country"
+	},
+	{
+		"wordGerman": "die Jacke",
+		"wordEnglish": "jacket"
+	},
+	{
+		"wordGerman": "die Jagd",
+		"wordEnglish": "hunt, chase"
+	},
+	{
+		"wordGerman": "die Jahreszeit",
+		"wordEnglish": "season"
+	},
+	{
+		"wordGerman": "die Lampe",
+		"wordEnglish": "lamp"
+	},
+	{
+		"wordGerman": "die Linse",
+		"wordEnglish": "lens"
+	},
+	{
+		"wordGerman": "die Lücke",
+		"wordEnglish": "gap"
+	},
+	{
+		"wordGerman": "das Metall",
+		"wordEnglish": "metal"
+	},
+	{
+		"wordGerman": "der Missbrauch",
+		"wordEnglish": "abuse, misuse"
+	},
+	{
+		"wordGerman": "die Motivation",
+		"wordEnglish": "motivation"
+	},
+	{
+		"wordGerman": "die Option",
+		"wordEnglish": "option"
+	},
+	{
+		"wordGerman": "der Ordner",
+		"wordEnglish": "file"
+	},
+	{
+		"wordGerman": "der Ozean",
+		"wordEnglish": "ocean"
+	},
+	{
+		"wordGerman": "der Physiker",
+		"wordEnglish": "physicist"
+	},
+	{
+		"wordGerman": "die Pistole",
+		"wordEnglish": "pistol"
+	},
+	{
+		"wordGerman": "die Reichweite",
+		"wordEnglish": "reach, range"
+	},
+	{
+		"wordGerman": "die Reparatur",
+		"wordEnglish": "repair"
+	},
+	{
+		"wordGerman": "der Respekt",
+		"wordEnglish": "respect"
+	},
+	{
+		"wordGerman": "die Rose",
+		"wordEnglish": "rose"
+	},
+	{
+		"wordGerman": "der Rucksack",
+		"wordEnglish": "rucksack, backpack"
+	},
+	{
+		"wordGerman": "der Sänger",
+		"wordEnglish": "singer"
+	},
+	{
+		"wordGerman": "die Tablette",
+		"wordEnglish": "tablet, pill"
+	},
+	{
+		"wordGerman": "die Tageszeitung",
+		"wordEnglish": "daily newspaper"
+	},
+	{
+		"wordGerman": "der Therapeut",
+		"wordEnglish": "therapist"
+	},
+	{
+		"wordGerman": "der Umzug",
+		"wordEnglish": "move, parade"
+	},
+	{
+		"wordGerman": "der Veranstalter",
+		"wordEnglish": "organizer"
+	},
+	{
+		"wordGerman": "die Verknüpfung",
+		"wordEnglish": "combination, link"
+	},
+	{
+		"wordGerman": "das Vorfeld",
+		"wordEnglish": "advance"
+	},
+	{
+		"wordGerman": "der Vorgänger",
+		"wordEnglish": "predecessor"
+	},
+	{
+		"wordGerman": "die Währung",
+		"wordEnglish": "currency"
+	},
+	{
+		"wordGerman": "der Weltmeister",
+		"wordEnglish": "world champion"
+	},
+	{
+		"wordGerman": "die Wut",
+		"wordEnglish": "rage, fury"
+	},
+	{
+		"wordGerman": "die Zuordnung",
+		"wordEnglish": "classification, assignment"
+	},
+	{
+		"wordGerman": "der Zuwachs",
+		"wordEnglish": "increase"
+	},
+	{
+		"wordGerman": "der Abfall",
+		"wordEnglish": "waste, trash"
+	},
+	{
+		"wordGerman": "die Akte",
+		"wordEnglish": "file"
+	},
+	{
+		"wordGerman": "die Anleihe",
+		"wordEnglish": "loan, bond, borrowing"
+	},
+	{
+		"wordGerman": "die Arbeitszeit",
+		"wordEnglish": "working hours"
+	},
+	{
+		"wordGerman": "der Aufsichtsrat",
+		"wordEnglish": "supervisory board"
+	},
+	{
+		"wordGerman": "der Ausgangspunkt",
+		"wordEnglish": "starting point"
+	},
+	{
+		"wordGerman": "die Ausrichtung",
+		"wordEnglish": "orientation, organization"
+	},
+	{
+		"wordGerman": "der Ausweis",
+		"wordEnglish": "identity card"
+	},
+	{
+		"wordGerman": "die Beachtung",
+		"wordEnglish": "attention, consideration"
+	},
+	{
+		"wordGerman": "das Diplom",
+		"wordEnglish": "degree, diploma"
+	},
+	{
+		"wordGerman": "der Einblick",
+		"wordEnglish": "insight"
+	},
+	{
+		"wordGerman": "der Engel",
+		"wordEnglish": "angel"
+	},
+	{
+		"wordGerman": "die Erfassung",
+		"wordEnglish": "recording, entry"
+	},
+	{
+		"wordGerman": "die Fahne",
+		"wordEnglish": "flag"
+	},
+	{
+		"wordGerman": "die Fakultät",
+		"wordEnglish": "faculty"
+	},
+	{
+		"wordGerman": "die Fassade",
+		"wordEnglish": "facade, front"
+	},
+	{
+		"wordGerman": "die Feier",
+		"wordEnglish": "celebration"
+	},
+	{
+		"wordGerman": "der Frühling",
+		"wordEnglish": "spring"
+	},
+	{
+		"wordGerman": "der Gemeinderat",
+		"wordEnglish": "district council"
+	},
+	{
+		"wordGerman": "das Gewebe",
+		"wordEnglish": "fabric, tissue"
+	},
+	{
+		"wordGerman": "der Gruß",
+		"wordEnglish": "greeting"
+	},
+	{
+		"wordGerman": "der Jurist",
+		"wordEnglish": "jurist, law student"
+	},
+	{
+		"wordGerman": "die Kerze",
+		"wordEnglish": "candle"
+	},
+	{
+		"wordGerman": "der Koch",
+		"wordEnglish": "cook"
+	},
+	{
+		"wordGerman": "die Kommune",
+		"wordEnglish": "municipality, local authority"
+	},
+	{
+		"wordGerman": "die Koralle",
+		"wordEnglish": "coral"
+	},
+	{
+		"wordGerman": "die Krankenkasse",
+		"wordEnglish": "health insurance, company"
+	},
+	{
+		"wordGerman": "der Kunststoff",
+		"wordEnglish": "synthetic material, plastic"
+	},
+	{
+		"wordGerman": "die Landesregierung",
+		"wordEnglish": "state government"
+	},
+	{
+		"wordGerman": "die Laune",
+		"wordEnglish": "mood"
+	},
+	{
+		"wordGerman": "das Nahrungsmittel",
+		"wordEnglish": "food"
+	},
+	{
+		"wordGerman": "der Philosoph",
+		"wordEnglish": "philosopher"
+	},
+	{
+		"wordGerman": "der Prinz",
+		"wordEnglish": "prince"
+	},
+	{
+		"wordGerman": "das Profil",
+		"wordEnglish": "profile"
+	},
+	{
+		"wordGerman": "die Relation",
+		"wordEnglish": "appropriateness, proportion, relation"
+	},
+	{
+		"wordGerman": "das Riff",
+		"wordEnglish": "reef"
+	},
+	{
+		"wordGerman": "die Schlange",
+		"wordEnglish": "snake, line"
+	},
+	{
+		"wordGerman": "das Schwein",
+		"wordEnglish": "pig"
+	},
+	{
+		"wordGerman": "die Selbstständigkeit",
+		"wordEnglish": "independence"
+	},
+	{
+		"wordGerman": "die Siedlung",
+		"wordEnglish": "settlement, housing development"
+	},
+	{
+		"wordGerman": "der Spruch",
+		"wordEnglish": "saying, slogan"
+	},
+	{
+		"wordGerman": "die Stellungnahme",
+		"wordEnglish": "opinion, statement"
+	},
+	{
+		"wordGerman": "der Strahl",
+		"wordEnglish": "ray, beam"
+	},
+	{
+		"wordGerman": "die Strömung",
+		"wordEnglish": "current, trend"
+	},
+	{
+		"wordGerman": "die Verbindlichkeit",
+		"wordEnglish": "obligation, liability, reliability"
+	},
+	{
+		"wordGerman": "das Volumen",
+		"wordEnglish": "volume, total amount"
+	},
+	{
+		"wordGerman": "der Zugriff",
+		"wordEnglish": "access"
+	},
+	{
+		"wordGerman": "der Zuhörer",
+		"wordEnglish": "listener, audience"
+	}
+]

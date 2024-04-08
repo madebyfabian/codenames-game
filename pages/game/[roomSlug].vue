@@ -1,60 +1,64 @@
 <template>
-	<div>
-		<pre>{{ roomSlug }}</pre>
-		<button @click="sendMessage">Send message</button>
+	<div
+		class="h-screen"
+		:class="[
+			gameState.status.value === 'playing' && {
+				'bg-blue-50': gameState.round.value.team === 'blue',
+				'bg-red-50': gameState.round.value.team === 'red',
+			},
+		]"
+	>
+		<div class="container py-12">
+			<CurrentStep />
+
+			<TeamsDisplay />
+
+			<div v-if="gameState.status.value === 'idle'" class="flex justify-center">
+				<button
+					@click="() => gameState.startGame()"
+					class="mt-8 primary scale-125"
+				>
+					Start Game
+				</button>
+			</div>
+
+			<div v-else class="mt-12">
+				<GameCardsField />
+				<ClueInput class="mt-8" />
+				<ClueDisplay class="mt-8" />
+			</div>
+
+			<details class="mt-8">
+				<summary>Game State</summary>
+				<pre>{{ gameState }}</pre>
+			</details>
+		</div>
 	</div>
 </template>
 
 <script setup lang="ts">
-	const supabase = useSupabaseClient()
-
-	const route = useRoute()
-	const roomSlug = ref(String(route.params.roomSlug))
-
-	/** @temp */
-	const player = ref<'A' | 'B'>(String(route.query.player) as any)
-	if (!['A', 'B'].includes(player.value)) {
-		throw createError({
-			statusCode: 500,
-			message: 'Invalid player query, param, must be A or B',
-			fatal: true,
-		})
-	}
-
-	// ---
-
-	// Join a room/topic.
-	const channel = supabase.channel(`room:${roomSlug.value}`)
-
-	// Simple function to log any messages we receive
-	function messageReceived(payload: any) {
-		console.log(payload)
-	}
-
-	// Subscribe to the Channel
-	channel
-		.on('presence', { event: 'sync' }, () => {
-			const newState = channel.presenceState()
-			console.log('sync', newState)
-		})
-		.on('presence', { event: 'join' }, ({ key, newPresences }) => {
-			console.log('join', key, newPresences)
-		})
-		.on('presence', { event: 'leave' }, ({ key, leftPresences }) => {
-			console.log('leave', key, leftPresences)
-		})
-		.on('broadcast', { event: 'test' }, payload => messageReceived(payload))
-		.subscribe()
-
-	if (player.value === 'A') {
-	} else if (player.value === 'B') {
-	}
-
-	const sendMessage = () => {
-		channel.send({
-			type: 'broadcast',
-			event: 'test',
-			payload: { message: 'hello, world' },
-		})
-	}
+	import { useGameState } from '@/store/gameState'
+	const gameState = useGameState()
 </script>
+
+<style lang="postcss">
+	button {
+		@apply bg-gray-100 border border-gray-200 px-2 py-1 rounded-lg font-semibold hover:opacity-75;
+
+		&.primary {
+			@apply bg-gray-700 text-white border-transparent;
+		}
+	}
+
+	h2 {
+		@apply font-bold text-2xl my-4 first:mt-0 last:mb-0;
+	}
+
+	h3 {
+		@apply font-semibold opacity-75 uppercase tracking-wide text-sm my-2 first:mt-0 last:mb-0;
+	}
+
+	pre {
+		@apply my-5 max-h-96 overflow-y-scroll bg-gray-50 text-sm p-2;
+	}
+</style>

@@ -4,6 +4,12 @@ export default defineNuxtConfig({
 		enabled: true,
 	},
 
+	routeRules: {
+		'/game/*': {
+			ssr: false,
+		},
+	},
+
 	modules: ['@nuxtjs/supabase', '@nuxtjs/tailwindcss'],
 
 	supabase: {
