@@ -1,16 +1,19 @@
 <template>
-	<div class="flex items-center gap-2">
+	<div class="flex items-center gap-2" :class="{ 'font-bold': isCurrPlayer }">
 		<span
-			class="size-6 rounded-full flex items-center justify-center font-bold"
+			class="size-6 rounded-full flex items-center justify-center font-bold text-sm"
 			:class="{
-				'bg-blue-300 text-blue-500': player?.team === 'blue',
-				'bg-red-300 text-red-500': player?.team === 'red',
+				'bg-opacity-25': !isCurrPlayer,
+				'bg-blue-400 text-blue-800': player?.team === 'blue',
+				'bg-red-400 text-red-800': player?.team === 'red',
 			}"
 		>
 			{{ firstLetter }}
 		</span>
-		{{ player.username }}
-		<template v-if="isCurrPlayer">(du)</template>
+		<span>
+			{{ player.username }}
+			<span v-if="isCurrPlayer" class="font-normal">(du)</span>
+		</span>
 	</div>
 </template>
 

@@ -384,11 +384,9 @@ export const useGameState = () => {
 		}
 	}
 
-	/** @internal */
 	const endGame = () => {
 		status.value = gameInitialState.status
 		round.value = gameInitialState.round
-		players.value = gameInitialState.players
 		gameWords.value = gameInitialState.gameWords
 	}
 
@@ -542,7 +540,8 @@ export const useGameState = () => {
 		startGame,
 		changePlayerTeamOrRole,
 		updateRound,
-		endRound,
 		guessCard,
+		endRound,
+		endGame,
 	}
 }

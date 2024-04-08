@@ -8,6 +8,14 @@
 			},
 		]"
 	>
+		<button
+			v-if="gameState.status.value === 'playing'"
+			class="absolute right-2 top-2"
+			@click="handleEndGame"
+		>
+			End Game
+		</button>
+
 		<div class="container py-8">
 			<CurrentStep class="mb-8" />
 
@@ -36,4 +44,8 @@
 <script setup lang="ts">
 	import { useGameState } from '@/store/gameState'
 	const gameState = useGameState()
+
+	const handleEndGame = () => {
+		gameState.endGame()
+	}
 </script>

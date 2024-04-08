@@ -1,8 +1,5 @@
 <template>
-	<div
-		class="flex max-w-4xl mx-auto"
-		:class="[gameState.status.value === 'playing' ? 'gap-12' : 'gap-6']"
-	>
+	<div class="flex max-w-4xl mx-auto gap-6">
 		<section
 			v-for="(team, type) in gameState.teams.value"
 			:key="type"
@@ -10,13 +7,14 @@
 			:class="{
 				'bg-blue-100': type === 'blue',
 				'bg-red-100': type === 'red',
-				'scale-110 -translate-y-2 shadow-md':
+				'!ring-blue-300':
+					type === 'blue' &&
 					gameState.status.value === 'playing' &&
 					gameState.round.value.team === type,
-				'!ring-blue-300':
-					type === 'blue' && gameState.currPlayer.value?.team === type,
 				'!ring-red-300':
-					type === 'red' && gameState.currPlayer.value?.team === type,
+					type === 'red' &&
+					gameState.status.value === 'playing' &&
+					gameState.round.value.team === type,
 			}"
 		>
 			<p
